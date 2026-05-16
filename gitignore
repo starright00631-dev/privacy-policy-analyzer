@@ -1,0 +1,38 @@
+# ── API keys and secrets ──────────────────────────────────
+.env
+*.env
+.env.*
+
+# ── Python ────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+.venv*/
+venv/
+
+# ── IDE ───────────────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ── OS ────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Project outputs (regeneratable) ──────────────────────
+nlp_outputs/
+prepared_reports_SUPPLIMENT/
+
+# ── Large model caches ───────────────────────────────────
+*.bin
+*.pt
+*.onnx
+.cache/
+apikey.txt

@@ -1,0 +1,11 @@
+{
+  "collected": 33,
+  "failed": [],
+  "low_quality": [
+    {
+      "company": "LiveRamp",
+      "word_count": 331,
+      "source": "live"
+    }
+  ]
+}

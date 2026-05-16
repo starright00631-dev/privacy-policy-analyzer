@@ -1,0 +1,312 @@
+﻿chunk_id,company,category,url,policy_date,chunk_index,total_chunks,section_heading,token_count,grade_level,reading_ease,consent_model,section_count,intent_label,intent_score,passive_ratio,vague_density,avg_sent_depth,dark_score
+Acxiom_0000,Acxiom,Data Broker,https://www.acxiom.com/privacy/international-privacy-notice/#rights,Unknown,0,7,Recognition,492,14.6,27.4,Primarily Opt-Out,25,skipped,0.0,0.0116,0.9302,6.45,2.998
+Acxiom_0001,Acxiom,Data Broker,https://www.acxiom.com/privacy/international-privacy-notice/#rights,Unknown,1,7,Contact,501,14.6,27.4,Primarily Opt-Out,25,skipped,0.0,0.0328,0.4376,8.38,3.658
+Acxiom_0002,Acxiom,Data Broker,https://www.acxiom.com/privacy/international-privacy-notice/#rights,Unknown,2,7,Contact,479,14.6,27.4,Primarily Opt-Out,25,skipped,0.0,0.0183,1.1442,9.92,4.499
+Acxiom_0003,Acxiom,Data Broker,https://www.acxiom.com/privacy/international-privacy-notice/#rights,Unknown,3,7,Access and Deletion,496,14.6,27.4,Primarily Opt-Out,25,skipped,0.0,0.0179,2.2422,5.8,3.288
+Acxiom_0004,Acxiom,Data Broker,https://www.acxiom.com/privacy/international-privacy-notice/#rights,Unknown,4,7,Third Party Opt-Outs,501,14.6,27.4,Primarily Opt-Out,25,skipped,0.0,0.0256,0.9302,6.92,3.242
+Acxiom_0005,Acxiom,Data Broker,https://www.acxiom.com/privacy/international-privacy-notice/#rights,Unknown,5,7,Compliance,504,14.6,27.4,Primarily Opt-Out,25,skipped,0.0,0.0094,1.8868,6.44,3.368
+Acxiom_0006,Acxiom,Data Broker,https://www.acxiom.com/privacy/international-privacy-notice/#rights,Unknown,6,7,Privacy Policy Changes,187,14.6,27.4,Primarily Opt-Out,25,skipped,0.0,0.0,1.8519,6.11,3.185
+Airbnb_0000,Airbnb,Platform,https://www.airbnb.com.sg/help/article/3175?_set_bev_on_new_domain=1777688869_EAOGRiMjE3YTZlMT&set_everest_cookie_on_new_domain=1777688869.EAYzk2YjU3YjJlZDRkZm.X3yA4Ka8Hgna7fzUGDRxrHYXugABNcTpi4pc9B7b5i0,Unknown,0,5,8 Background Screenings.,475,13.5,39.2,Primarily Opt-In,36,skipped,0.0,0.0088,2.1882,6.39,3.466
+Airbnb_0001,Airbnb,Platform,https://www.airbnb.com.sg/help/article/3175?_set_bev_on_new_domain=1777688869_EAOGRiMjE3YTZlMT&set_everest_cookie_on_new_domain=1777688869.EAYzk2YjU3YjJlZDRkZm.X3yA4Ka8Hgna7fzUGDRxrHYXugABNcTpi4pc9B7b5i0,Unknown,1,5,8 Preferences and Requirements.,496,13.5,39.2,Primarily Opt-In,36,skipped,0.0,0.0044,0.8753,7.06,3.192
+Airbnb_0002,Airbnb,Platform,https://www.airbnb.com.sg/help/article/3175?_set_bev_on_new_domain=1777688869_EAOGRiMjE3YTZlMT&set_everest_cookie_on_new_domain=1777688869.EAYzk2YjU3YjJlZDRkZm.X3yA4Ka8Hgna7fzUGDRxrHYXugABNcTpi4pc9B7b5i0,Unknown,2,5,1 Third-Party Applications.,504,13.5,39.2,Primarily Opt-In,36,skipped,0.0,0.0,1.9481,5.37,2.927
+Airbnb_0003,Airbnb,Platform,https://www.airbnb.com.sg/help/article/3175?_set_bev_on_new_domain=1777688869_EAOGRiMjE3YTZlMT&set_everest_cookie_on_new_domain=1777688869.EAYzk2YjU3YjJlZDRkZm.X3yA4Ka8Hgna7fzUGDRxrHYXugABNcTpi4pc9B7b5i0,Unknown,3,5,10 Other Sources.,487,13.5,39.2,Primarily Opt-In,36,skipped,0.0,0.0046,3.0093,5.31,3.346
+Airbnb_0004,Airbnb,Platform,https://www.airbnb.com.sg/help/article/3175?_set_bev_on_new_domain=1777688869_EAOGRiMjE3YTZlMT&set_everest_cookie_on_new_domain=1777688869.EAYzk2YjU3YjJlZDRkZm.X3yA4Ka8Hgna7fzUGDRxrHYXugABNcTpi4pc9B7b5i0,Unknown,4,5,10 Other Sources.,98,13.5,39.2,Primarily Opt-In,36,skipped,0.0,0.033,3.2967,9.5,5.251
+Amazon_0000,Amazon,Big Tech,https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ,Unknown,0,5,Introduction,499,14.6,11.8,Mixed,3,skipped,0.0,0.0088,2.2075,9.5,4.718
+Amazon_0001,Amazon,Big Tech,https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ,Unknown,1,5,Introduction,72,14.6,11.8,Mixed,3,skipped,0.0,0.0,0.0,5.75,2.3
+Amazon_0002,Amazon,Big Tech,https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ,Unknown,2,5,Introduction,488,14.6,11.8,Mixed,3,skipped,0.0,0.0,1.5945,21.0,4.638
+Amazon_0003,Amazon,Big Tech,https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ,Unknown,3,5,Your Data Rights,503,14.6,11.8,Mixed,3,skipped,0.0,0.0137,1.8223,7.58,3.816
+Amazon_0004,Amazon,Big Tech,https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ,Unknown,4,5,California Privacy Rights Act Non-Discrimination Statement,439,14.6,11.8,Mixed,3,skipped,0.0,0.0135,2.1622,5.81,3.243
+Anthropic_0000,Anthropic,AI,https://www.anthropic.com/privacy,Unknown,0,14,Identity and Contact Data,496,13.9,28.6,Mixed,61,skipped,0.0,0.0226,0.9029,7.23,3.344
+Anthropic_0001,Anthropic,AI,https://www.anthropic.com/privacy,Unknown,1,14,Technical Information,486,13.9,28.6,Mixed,61,skipped,0.0,0.0022,0.4444,7.53,3.199
+Anthropic_0002,Anthropic,AI,https://www.anthropic.com/privacy,Unknown,2,14,Cookie Policy,362,13.9,28.6,Mixed,61,skipped,0.0,0.0064,0.3205,8.43,3.526
+Anthropic_0003,Anthropic,AI,https://www.anthropic.com/privacy,Unknown,3,14,3. How We Disclose Personal Data,487,13.9,28.6,Mixed,61,skipped,0.0,0.0094,0.4695,7.75,3.325
+Anthropic_0004,Anthropic,AI,https://www.anthropic.com/privacy,Unknown,4,14,Third-Party Websites and Services:,501,13.9,28.6,Mixed,61,skipped,0.0,0.0045,1.3514,8.17,3.827
+Anthropic_0005,Anthropic,AI,https://www.anthropic.com/privacy,Unknown,5,14,Correction,452,13.9,28.6,Mixed,61,skipped,0.0,0.0104,3.3679,6.75,4.089
+Anthropic_0006,Anthropic,AI,https://www.anthropic.com/privacy,Unknown,6,14,5. Data Transfers,490,13.9,28.6,Mixed,61,skipped,0.0,0.0142,1.182,6.13,2.982
+Anthropic_0007,Anthropic,AI,https://www.anthropic.com/privacy,Unknown,7,14,Usage Policy,500,13.9,28.6,Mixed,61,skipped,0.0,0.0116,2.093,6.67,3.552
+Anthropic_0008,Anthropic,AI,https://www.anthropic.com/privacy,Unknown,8,14,9. Contact Information,500,13.9,28.6,Mixed,61,skipped,0.0,0.0045,1.1364,6.47,3.061
+Anthropic_0009,Anthropic,AI,https://www.anthropic.com/privacy,Unknown,9,14,Feedback,496,13.9,28.6,Mixed,61,skipped,0.0,0.0049,0.9852,9.0,4.014
+Anthropic_0010,Anthropic,AI,https://www.anthropic.com/privacy,Unknown,10,14,Contract,474,13.9,28.6,Mixed,61,skipped,0.0,0.0,0.5115,6.23,2.697
+Anthropic_0011,Anthropic,AI,https://www.anthropic.com/privacy,Unknown,11,14,Subprocessor List,497,13.9,28.6,Mixed,61,skipped,0.0,0.0234,1.8735,6.65,3.503
+Anthropic_0012,Anthropic,AI,https://www.anthropic.com/privacy,Unknown,12,14,Subprocessor List,505,13.9,28.6,Mixed,61,skipped,0.0,0.009,1.5837,6.91,3.433
+Anthropic_0013,Anthropic,AI,https://www.anthropic.com/privacy,Unknown,13,14,Subprocessor List,358,13.9,28.6,Mixed,61,skipped,0.0,0.0173,0.8671,8.89,3.972
+Apple_0000,Apple,Big Tech,https://www.apple.com/legal/privacy/en-ww/,Unknown,0,2,Introduction,474,12.8,39.0,Unclear,1,skipped,0.0,0.0217,0.9639,5.71,2.756
+Apple_0001,Apple,Big Tech,https://www.apple.com/legal/privacy/en-ww/,Unknown,1,2,Introduction,412,12.8,39.0,Unclear,1,skipped,0.0,0.011,0.8264,8.55,3.795
+Brave_0000,Brave,Privacy-First,https://brave.com/privacy/browser/,Unknown,0,17,Sync,495,11.6,49.4,Mixed,62,skipped,0.0,0.0343,1.1442,4.92,2.563
+Brave_0001,Brave,Privacy-First,https://brave.com/privacy/browser/,Unknown,1,17,Brave Search,486,11.6,49.4,Mixed,62,skipped,0.0,0.0777,1.2136,5.26,2.9
+Brave_0002,Brave,Privacy-First,https://brave.com/privacy/browser/,Unknown,2,17,Brave Email Aliases,508,11.6,49.4,Mixed,62,skipped,0.0,0.0461,0.2304,5.3,2.397
+Brave_0003,Brave,Privacy-First,https://brave.com/privacy/browser/,Unknown,3,17,ZebPay,465,11.6,49.4,Mixed,62,skipped,0.0,0.0297,0.2475,5.45,2.398
+Brave_0004,Brave,Privacy-First,https://brave.com/privacy/browser/,Unknown,4,17,Brave Ads,474,11.6,49.4,Mixed,62,skipped,0.0,0.021,1.1655,6.06,2.974
+Brave_0005,Brave,Privacy-First,https://brave.com/privacy/browser/,Unknown,5,17,Brave Wallet,477,11.6,49.4,Mixed,62,skipped,0.0,0.0188,0.7042,6.65,3.017
+Brave_0006,Brave,Privacy-First,https://brave.com/privacy/browser/,Unknown,6,17,Jitsi,503,11.6,49.4,Mixed,62,skipped,0.0,0.0197,0.6579,6.05,2.762
+Brave_0007,Brave,Privacy-First,https://brave.com/privacy/browser/,Unknown,7,17,To avoid scams,479,11.6,49.4,Mixed,62,skipped,0.0,0.0462,0.0,5.37,2.333
+Brave_0008,Brave,Privacy-First,https://brave.com/privacy/browser/,Unknown,8,17,Nebula,504,11.6,49.4,Mixed,62,skipped,0.0,0.0131,1.0917,5.63,2.741
+Brave_0009,Brave,Privacy-First,https://brave.com/privacy/browser/,Unknown,9,17,Brave Search Privacy Notice,503,11.6,49.4,Mixed,62,skipped,0.0,0.0457,0.4566,5.21,2.449
+Brave_0010,Brave,Privacy-First,https://brave.com/privacy/browser/,Unknown,10,17,Web Discovery Project,484,11.6,49.4,Mixed,62,skipped,0.0,0.0409,2.1635,5.68,3.301
+Brave_0011,Brave,Privacy-First,https://brave.com/privacy/browser/,Unknown,11,17,Beta,504,11.6,49.4,Mixed,62,skipped,0.0,0.0243,1.1038,6.3,3.059
+Brave_0012,Brave,Privacy-First,https://brave.com/privacy/browser/,Unknown,12,17,Brave Rewards,505,11.6,49.4,Mixed,62,skipped,0.0,0.0229,1.6055,6.1,3.174
+Brave_0013,Brave,Privacy-First,https://brave.com/privacy/browser/,Unknown,13,17,Brave Leo,499,11.6,49.4,Mixed,62,skipped,0.0,0.0403,2.0134,5.19,3.043
+Brave_0014,Brave,Privacy-First,https://brave.com/privacy/browser/,Unknown,14,17,years.,507,11.6,49.4,Mixed,62,skipped,0.0,0.0294,1.3575,5.68,2.933
+Brave_0015,Brave,Privacy-First,https://brave.com/privacy/browser/,Unknown,15,17,CCPA,484,11.6,49.4,Mixed,62,skipped,0.0,0.0213,1.182,6.06,2.982
+Brave_0016,Brave,Privacy-First,https://brave.com/privacy/browser/,Unknown,16,17,Ireland,226,11.6,49.4,Mixed,62,skipped,0.0,0.0,0.5076,5.25,2.303
+Cohere_0000,Cohere,AI,https://cohere.com/privacy,Unknown,0,19,Who This Policy Applies To,482,13.9,31.5,Mixed,96,skipped,0.0,0.0141,0.7026,6.29,2.853
+Cohere_0001,Cohere,AI,https://cohere.com/privacy,Unknown,1,19,To Customer Data,494,13.9,31.5,Mixed,96,skipped,0.0,0.0212,0.0,7.27,2.993
+Cohere_0002,Cohere,AI,https://cohere.com/privacy,Unknown,2,19,Researchers,475,13.9,31.5,Mixed,96,skipped,0.0,0.0096,0.4819,5.94,2.607
+Cohere_0003,Cohere,AI,https://cohere.com/privacy,Unknown,3,19,Collaborator Information,495,13.9,31.5,Mixed,96,skipped,0.0,0.0135,1.3483,6.62,3.241
+Cohere_0004,Cohere,AI,https://cohere.com/privacy,Unknown,4,19,De-Identified Information,497,13.9,31.5,Mixed,96,skipped,0.0,0.0088,1.5317,6.67,3.316
+Cohere_0005,Cohere,AI,https://cohere.com/privacy,Unknown,5,19,"Safeguards, Retention, and Privacy Governance",481,13.9,31.5,Mixed,96,skipped,0.0,0.0047,1.4085,7.87,3.73
+Cohere_0006,Cohere,AI,https://cohere.com/privacy,Unknown,6,19,Marketing Email Opt Out,492,13.9,31.5,Mixed,96,skipped,0.0,0.0334,2.864,6.15,3.739
+Cohere_0007,Cohere,AI,https://cohere.com/privacy,Unknown,7,19,Updates to This Policy,495,13.9,31.5,Mixed,96,skipped,0.0,0.0158,2.7149,7.33,4.081
+Cohere_0008,Cohere,AI,https://cohere.com/privacy,Unknown,8,19,Analytical or Performance Cookies,491,13.9,31.5,Mixed,96,skipped,0.0,0.0222,1.9956,5.89,3.243
+Cohere_0009,Cohere,AI,https://cohere.com/privacy,Unknown,9,19,Interest-Based Advertising,488,13.9,31.5,Mixed,96,skipped,0.0,0.0138,1.6055,7.24,3.593
+Cohere_0010,Cohere,AI,https://cohere.com/privacy,Unknown,10,19,Use of Personal Information,471,13.9,31.5,Mixed,96,skipped,0.0,0.0048,0.7229,6.69,2.984
+Cohere_0011,Cohere,AI,https://cohere.com/privacy,Unknown,11,19,Global Privacy Control (GPC):,490,13.9,31.5,Mixed,96,skipped,0.0,0.0,0.4376,7.83,3.307
+Cohere_0012,Cohere,AI,https://cohere.com/privacy,Unknown,12,19,California Data Retention Practices,503,13.9,31.5,Mixed,96,skipped,0.0,0.0092,2.2883,9.78,4.864
+Cohere_0013,Cohere,AI,https://cohere.com/privacy,Unknown,13,19,California Data Retention Practices,460,13.9,31.5,Mixed,96,skipped,0.0,0.0179,2.0408,9.0,4.488
+Cohere_0014,Cohere,AI,https://cohere.com/privacy,Unknown,14,19,Legitimate Interests,479,13.9,31.5,Mixed,96,skipped,0.0,0.0091,0.6834,7.54,3.326
+Cohere_0015,Cohere,AI,https://cohere.com/privacy,Unknown,15,19,Performance of a Contract,417,13.9,31.5,Mixed,96,skipped,0.0,0.0,0.8086,6.92,3.091
+Cohere_0016,Cohere,AI,https://cohere.com/privacy,Unknown,16,19,Contact Us,486,13.9,31.5,Mixed,96,skipped,0.0,0.0,1.171,7.07,3.296
+Cohere_0017,Cohere,AI,https://cohere.com/privacy,Unknown,17,19,Data Privacy Framework,507,13.9,31.5,Mixed,96,skipped,0.0,0.0273,1.139,6.06,2.989
+Cohere_0018,Cohere,AI,https://cohere.com/privacy,Unknown,18,19,Data Privacy Framework,59,13.9,31.5,Mixed,96,skipped,0.0,0.037,0.0,7.0,2.948
+DuckDuckGo_0000,DuckDuckGo,Privacy-First,https://duckduckgo.com/privacy,Unknown,0,5,Privacy Policy,503,11.9,44.2,Mixed,8,skipped,0.0,0.009,0.9009,5.76,2.7
+DuckDuckGo_0001,DuckDuckGo,Privacy-First,https://duckduckgo.com/privacy,Unknown,1,5,Smarter Encryption,491,11.9,44.2,Mixed,8,skipped,0.0,0.0093,0.6993,6.75,3.017
+DuckDuckGo_0002,DuckDuckGo,Privacy-First,https://duckduckgo.com/privacy,Unknown,2,5,Email Protection Privacy Policy,488,11.9,44.2,Mixed,8,skipped,0.0,0.0183,0.9174,5.0,2.44
+DuckDuckGo_0003,DuckDuckGo,Privacy-First,https://duckduckgo.com/privacy,Unknown,3,5,Recruiting Information Policy,501,11.9,44.2,Mixed,8,skipped,0.0,0.0137,2.0548,6.0,3.277
+DuckDuckGo_0004,DuckDuckGo,Privacy-First,https://duckduckgo.com/privacy,Unknown,4,5,Recruiting Information Policy,413,11.9,44.2,Mixed,8,skipped,0.0,0.0279,2.2346,5.93,3.377
+Equifax_0000,Equifax,Data Broker,https://www.equifax.com/privacy/privacy-statement/,Unknown,0,7,Employers,435,16.3,11.8,Primarily Opt-Out,33,skipped,0.0,0.0072,1.4388,8.0,3.804
+Equifax_0001,Equifax,Data Broker,https://www.equifax.com/privacy/privacy-statement/,Unknown,1,7,Biometric Information,373,16.3,11.8,Primarily Opt-Out,33,skipped,0.0,0.0056,0.0,11.4,4.022
+Equifax_0002,Equifax,Data Broker,https://www.equifax.com/privacy/privacy-statement/,Unknown,2,7,Purpose and Use of Personal Information Collected,474,16.3,11.8,Primarily Opt-Out,33,skipped,0.0,0.0119,0.2381,9.5,3.943
+Equifax_0003,Equifax,Data Broker,https://www.equifax.com/privacy/privacy-statement/,Unknown,3,7,Rights of California Residents,492,16.3,11.8,Primarily Opt-Out,33,skipped,0.0,0.0093,1.1628,5.7,2.782
+Equifax_0004,Equifax,Data Broker,https://www.equifax.com/privacy/privacy-statement/,Unknown,4,7,Opt-Out,447,16.3,11.8,Primarily Opt-Out,33,skipped,0.0,0.0051,1.2821,6.87,3.281
+Equifax_0005,Equifax,Data Broker,https://www.equifax.com/privacy/privacy-statement/,Unknown,5,7,Equifax Information Services LLC,501,16.3,11.8,Primarily Opt-Out,33,skipped,0.0,0.0228,1.3667,7.58,3.67
+Equifax_0006,Equifax,Data Broker,https://www.equifax.com/privacy/privacy-statement/,Unknown,6,7,Individual Rights Requests Metrics Reporting,335,16.3,11.8,Primarily Opt-Out,33,skipped,0.0,0.007,0.3497,5.93,2.54
+Experian_0000,Experian,Data Broker,https://www.experian.com/privacy/us-consumer-data-privacy-policy,"April 8, 2026",0,7,1. Scope of Privacy Policy,473,13.3,34.2,Primarily Opt-Out,12,skipped,0.0,0.0115,0.2294,9.33,3.87
+Experian_0001,Experian,Data Broker,https://www.experian.com/privacy/us-consumer-data-privacy-policy,"April 8, 2026",1,7,4. Privacy Rights Regarding Personal Information,486,13.3,34.2,Primarily Opt-Out,12,skipped,0.0,0.0092,1.1468,7.47,3.484
+Experian_0002,Experian,Data Broker,https://www.experian.com/privacy/us-consumer-data-privacy-policy,"April 8, 2026",2,7,How to Exercise Your Rights,505,13.3,34.2,Primarily Opt-Out,12,skipped,0.0,0.0233,1.3986,6.35,3.193
+Experian_0003,Experian,Data Broker,https://www.experian.com/privacy/us-consumer-data-privacy-policy,"April 8, 2026",3,7,Authorized Agent,487,13.3,34.2,Primarily Opt-Out,12,skipped,0.0,0.0204,1.1312,6.25,3.034
+Experian_0004,Experian,Data Broker,https://www.experian.com/privacy/us-consumer-data-privacy-policy,"April 8, 2026",4,7,Experian as a Processor/Service Provider,475,13.3,34.2,Primarily Opt-Out,12,skipped,0.0,0.0165,1.4118,8.0,3.831
+Experian_0005,Experian,Data Broker,https://www.experian.com/privacy/us-consumer-data-privacy-policy,"April 8, 2026",5,7,8. Annual User Rights Request Metrics,482,13.3,34.2,Primarily Opt-Out,12,skipped,0.0,0.0095,1.4218,5.94,2.983
+Experian_0006,Experian,Data Broker,https://www.experian.com/privacy/us-consumer-data-privacy-policy,"April 8, 2026",6,7,8. Annual User Rights Request Metrics,35,13.3,34.2,Primarily Opt-Out,12,skipped,0.0,0.0,0.0,3.67,1.468
+Google_0000,Google,Big Tech,https://policies.google.com/privacy,Unknown,0,11,Transparency Report,504,11.5,48.1,Unclear,13,skipped,0.0,0.046,1.3793,5.43,2.908
+Google_0001,Google,Big Tech,https://policies.google.com/privacy,Unknown,1,11,/Mar/2003 10:15:32,507,11.5,48.1,Unclear,13,skipped,0.0,0.0291,0.6711,6.83,3.117
+Google_0002,Google,Big Tech,https://policies.google.com/privacy,Unknown,2,11,My Activity,504,11.5,48.1,Unclear,13,skipped,0.0,0.0621,2.5287,5.15,3.32
+Google_0003,Google,Big Tech,https://policies.google.com/privacy,Unknown,3,11,Google Play Services,405,11.5,48.1,Unclear,13,skipped,0.0,0.0223,1.9553,6.62,3.519
+Google_0004,Google,Big Tech,https://policies.google.com/privacy,Unknown,4,11,Google Play Services,479,11.5,48.1,Unclear,13,skipped,0.0,0.0048,1.6706,6.64,3.343
+Google_0005,Google,Big Tech,https://policies.google.com/privacy,Unknown,5,11,Transparency Report,503,11.5,48.1,Unclear,13,skipped,0.0,0.0093,2.331,6.06,3.394
+Google_0006,Google,Big Tech,https://policies.google.com/privacy,Unknown,6,11,Transparency Report,504,11.5,48.1,Unclear,13,skipped,0.0,0.0182,1.1364,6.8,3.247
+Google_0007,Google,Big Tech,https://policies.google.com/privacy,Unknown,7,11,Examples of these services include,499,11.5,48.1,Unclear,13,skipped,0.0,0.0091,0.9091,6.59,3.036
+Google_0008,Google,Big Tech,https://policies.google.com/privacy,Unknown,8,11,Kentucky Consumer Data Protection Act (KCDPA),456,11.5,48.1,Unclear,13,skipped,0.0,0.0167,0.7143,6.17,2.821
+Google_0009,Google,Big Tech,https://policies.google.com/privacy,Unknown,9,11,Kentucky Consumer Data Protection Act (KCDPA),473,11.5,48.1,Unclear,13,skipped,0.0,0.005,0.75,6.77,3.028
+Google_0010,Google,Big Tech,https://policies.google.com/privacy,Unknown,10,11,Kentucky Consumer Data Protection Act (KCDPA),113,11.5,48.1,Unclear,13,skipped,0.0,0.0192,3.8462,7.0,4.415
+HuggingFace_0000,HuggingFace,AI,https://huggingface.co/privacy,Unknown,0,7,1. INFORMATION WE COLLECT,496,13.7,29.5,Mixed,22,skipped,0.0,0.0044,1.0893,6.06,2.877
+HuggingFace_0001,HuggingFace,AI,https://huggingface.co/privacy,Unknown,1,7,E. “Do Not Track”,477,13.7,29.5,Mixed,22,skipped,0.0,0.0048,0.7212,7.58,3.34
+HuggingFace_0002,HuggingFace,AI,https://huggingface.co/privacy,Unknown,2,7,2. USE OF INFORMATION,434,13.7,29.5,Mixed,22,skipped,0.0,0.0052,1.8325,14.33,4.754
+HuggingFace_0003,HuggingFace,AI,https://huggingface.co/privacy,Unknown,3,7,B. Third Party Service Providers,484,13.7,29.5,Mixed,22,skipped,0.0,0.012,1.2019,8.21,3.813
+HuggingFace_0004,HuggingFace,AI,https://huggingface.co/privacy,Unknown,4,7,5. DATA SECURITY,508,13.7,29.5,Mixed,22,skipped,0.0,0.0137,1.8223,6.22,3.272
+HuggingFace_0005,HuggingFace,AI,https://huggingface.co/privacy,Unknown,5,7,COMMUNICATIONS AND CAN-SPAM ACT,495,13.7,29.5,Mixed,22,skipped,0.0,0.0484,2.1792,6.6,3.705
+HuggingFace_0006,HuggingFace,AI,https://huggingface.co/privacy,Unknown,6,7,AWS SES | Emails | United States,341,13.7,29.5,Mixed,22,skipped,0.0,0.0066,0.6645,4.33,2.024
+IBM_0000,IBM,Big Tech,https://www.ibm.com/privacy,Unknown,0,17,Children,482,15.0,25.1,Mixed,71,skipped,0.0,0.0098,0.7371,5.8,2.654
+IBM_0001,IBM,Big Tech,https://www.ibm.com/privacy,Unknown,1,17,"IBM Applications, Cloud and Online Services",439,15.0,25.1,Mixed,71,skipped,0.0,0.0206,2.5707,7.36,4.055
+IBM_0002,IBM,Big Tech,https://www.ibm.com/privacy,Unknown,2,17,Cookies and Similar Technologies,490,15.0,25.1,Mixed,71,skipped,0.0,0.0434,0.4566,8.08,3.588
+IBM_0003,IBM,Big Tech,https://www.ibm.com/privacy,Unknown,3,17,Cookies and Similar Technologies,474,15.0,25.1,Mixed,71,skipped,0.0,0.0189,0.9456,7.67,3.522
+IBM_0004,IBM,Big Tech,https://www.ibm.com/privacy,Unknown,4,17,Cookies and Similar Technologies,461,15.0,25.1,Mixed,71,skipped,0.0,0.0098,1.7115,8.07,3.952
+IBM_0005,IBM,Big Tech,https://www.ibm.com/privacy,Unknown,5,17,"IBM Applications, Cloud and Online Services",491,15.0,25.1,Mixed,71,skipped,0.0,0.0305,2.1127,6.5,3.567
+IBM_0006,IBM,Big Tech,https://www.ibm.com/privacy,Unknown,6,17,Protecting You and IBM,499,15.0,25.1,Mixed,71,skipped,0.0,0.028,2.7972,7.6,4.271
+IBM_0007,IBM,Big Tech,https://www.ibm.com/privacy,Unknown,7,17,Conducting our Business Operations,494,15.0,25.1,Mixed,71,skipped,0.0,0.0461,2.765,6.06,3.714
+IBM_0008,IBM,Big Tech,https://www.ibm.com/privacy,Unknown,8,17,Cookies and Similar Technologies,478,15.0,25.1,Mixed,71,skipped,0.0,0.0382,2.3866,7.67,4.175
+IBM_0009,IBM,Big Tech,https://www.ibm.com/privacy,Unknown,9,17,Cookie Preferences,486,15.0,25.1,Mixed,71,skipped,0.0,0.0576,1.199,6.59,3.346
+IBM_0010,IBM,Big Tech,https://www.ibm.com/privacy,Unknown,10,17,"Externally,",462,15.0,25.1,Mixed,71,skipped,0.0,0.0236,2.8302,6.59,3.862
+IBM_0011,IBM,Big Tech,https://www.ibm.com/privacy,Unknown,11,17,Controller and Representative Information,491,15.0,25.1,Mixed,71,skipped,0.0,0.0219,2.193,6.22,3.453
+IBM_0012,IBM,Big Tech,https://www.ibm.com/privacy,Unknown,12,17,Information Security and Retention,461,15.0,25.1,Mixed,71,skipped,0.0,0.0382,1.9093,6.6,3.557
+IBM_0013,IBM,Big Tech,https://www.ibm.com/privacy,Unknown,13,17,Data Rights Requests Details,470,15.0,25.1,Mixed,71,skipped,0.0,0.0341,1.9465,6.77,3.623
+IBM_0014,IBM,Big Tech,https://www.ibm.com/privacy,Unknown,14,17,Your Account,490,15.0,25.1,Mixed,71,skipped,0.0,0.012,3.125,6.38,3.85
+IBM_0015,IBM,Big Tech,https://www.ibm.com/privacy,Unknown,15,17,Marketing,475,15.0,25.1,Mixed,71,skipped,0.0,0.0122,2.1898,7.24,3.821
+IBM_0016,IBM,Big Tech,https://www.ibm.com/privacy,Unknown,16,17,Privacy Statement Updates,188,15.0,25.1,Mixed,71,skipped,0.0,0.0516,0.0,6.33,2.738
+LinkedIn_0000,LinkedIn,Social,https://cn.linkedin.com/legal/privacy-policy?,Unknown,0,3,Introduction,344,-15.0,100.0,Unclear,35,skipped,0.0,0.0,0.0,5.17,2.068
+LinkedIn_0001,LinkedIn,Social,https://cn.linkedin.com/legal/privacy-policy?,Unknown,1,3,Introduction,481,-15.0,100.0,Unclear,35,skipped,0.0,0.0,0.0,4.4,1.76
+LinkedIn_0002,LinkedIn,Social,https://cn.linkedin.com/legal/privacy-policy?,Unknown,2,3,Introduction,171,-15.0,100.0,Unclear,35,skipped,0.0,0.0,0.0,3.67,1.468
+LiveRamp_0000,LiveRamp,Data Broker,https://liveramp.com/privacy/,Unknown,0,1,Your Privacy Choices,423,13.7,27.5,Unclear,8,skipped,0.0,0.0165,2.2039,5.37,3.096
+Meta_0000,Meta,Big Tech,https://www.meta.com/privacy/policy/,"December 16, 2025",0,22,Products,484,14.1,23.5,Unclear,55,skipped,0.0,0.0142,1.182,4.44,2.306
+Meta_0001,Meta,Big Tech,https://www.meta.com/privacy/policy/,"December 16, 2025",1,22,Instagram Feed,496,14.1,23.5,Unclear,55,skipped,0.0,0.0117,0.7042,6.47,2.916
+Meta_0002,Meta,Big Tech,https://www.meta.com/privacy/policy/,"December 16, 2025",2,22,Meta Products,507,14.1,23.5,Unclear,55,skipped,0.0,0.0047,0.4706,5.67,2.475
+Meta_0003,Meta,Big Tech,https://www.meta.com/privacy/policy/,"December 16, 2025",3,22,Highlights,488,14.1,23.5,Unclear,55,skipped,0.0,0.007,1.4085,5.59,2.827
+Meta_0004,Meta,Big Tech,https://www.meta.com/privacy/policy/,"December 16, 2025",4,22,Facebook Help Center,495,14.1,23.5,Unclear,55,skipped,0.0,0.0139,0.9259,5.52,2.634
+Meta_0005,Meta,Big Tech,https://www.meta.com/privacy/policy/,"December 16, 2025",5,22,Information for Law Enforcement Authorities,461,14.1,23.5,Unclear,55,skipped,0.0,0.005,1.25,7.91,3.684
+Meta_0006,Meta,Big Tech,https://www.meta.com/privacy/policy/,"December 16, 2025",6,22,Information for Law Enforcement Authorities,490,14.1,23.5,Unclear,55,skipped,0.0,0.0,0.6944,6.5,2.878
+Meta_0007,Meta,Big Tech,https://www.meta.com/privacy/policy/,"December 16, 2025",7,22,Why and how we process your information,478,14.1,23.5,Unclear,55,skipped,0.0,0.0,0.4854,7.6,3.234
+Meta_0008,Meta,Big Tech,https://www.meta.com/privacy/policy/,"December 16, 2025",8,22,Information for Law Enforcement Authorities,399,14.1,23.5,Unclear,55,skipped,0.0,0.014,1.1236,6.86,3.249
+Meta_0009,Meta,Big Tech,https://www.meta.com/privacy/policy/,"December 16, 2025",9,22,Information for Law Enforcement Authorities,352,14.1,23.5,Unclear,55,skipped,0.0,0.0,0.0,7.14,2.856
+Meta_0010,Meta,Big Tech,https://www.meta.com/privacy/policy/,"December 16, 2025",10,22,Information for Law Enforcement Authorities,461,14.1,23.5,Unclear,55,skipped,0.0,0.0,0.7371,7.3,3.215
+Meta_0011,Meta,Big Tech,https://www.meta.com/privacy/policy/,"December 16, 2025",11,22,Information for Law Enforcement Authorities,323,14.1,23.5,Unclear,55,skipped,0.0,0.0,0.3546,6.71,2.826
+Meta_0012,Meta,Big Tech,https://www.meta.com/privacy/policy/,"December 16, 2025",12,22,Information for Law Enforcement Authorities,478,14.1,23.5,Unclear,55,skipped,0.0,0.0048,0.7264,6.67,2.978
+Meta_0013,Meta,Big Tech,https://www.meta.com/privacy/policy/,"December 16, 2025",13,22,Information for Law Enforcement Authorities,343,14.1,23.5,Unclear,55,skipped,0.0,0.0,1.3289,6.83,3.264
+Meta_0014,Meta,Big Tech,https://www.meta.com/privacy/policy/,"December 16, 2025",14,22,Information for Law Enforcement Authorities,349,14.1,23.5,Unclear,55,skipped,0.0,0.0,0.33,7.86,3.276
+Meta_0015,Meta,Big Tech,https://www.meta.com/privacy/policy/,"December 16, 2025",15,22,Information for Law Enforcement Authorities,386,14.1,23.5,Unclear,55,skipped,0.0,0.0059,0.295,8.43,3.514
+Meta_0016,Meta,Big Tech,https://www.meta.com/privacy/policy/,"December 16, 2025",16,22,Information for Law Enforcement Authorities,404,14.1,23.5,Unclear,55,skipped,0.0,0.0,0.2915,8.71,3.601
+Meta_0017,Meta,Big Tech,https://www.meta.com/privacy/policy/,"December 16, 2025",17,22,Information for Law Enforcement Authorities,499,14.1,23.5,Unclear,55,skipped,0.0,0.0,0.4577,6.85,2.923
+Meta_0018,Meta,Big Tech,https://www.meta.com/privacy/policy/,"December 16, 2025",18,22,Information for Law Enforcement Authorities,471,14.1,23.5,Unclear,55,skipped,0.0,0.0,0.7282,7.9,3.451
+Meta_0019,Meta,Big Tech,https://www.meta.com/privacy/policy/,"December 16, 2025",19,22,Information for Law Enforcement Authorities,448,14.1,23.5,Unclear,55,skipped,0.0,0.0,0.2558,7.2,2.982
+Meta_0020,Meta,Big Tech,https://www.meta.com/privacy/policy/,"December 16, 2025",20,22,Information for Law Enforcement Authorities,464,14.1,23.5,Unclear,55,skipped,0.0,0.005,0.5,7.3,3.14
+Meta_0021,Meta,Big Tech,https://www.meta.com/privacy/policy/,"December 16, 2025",21,22,Information for Law Enforcement Authorities,401,14.1,23.5,Unclear,55,skipped,0.0,0.0058,1.1561,8.43,3.858
+Microsoft_0000,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,0,36,Activation,478,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0406,0.9547,7.08,3.376
+Microsoft_0001,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,1,36,Advertising ID,458,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0153,1.0178,6.12,2.916
+Microsoft_0002,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,2,36,Diagnostics,478,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0145,0.7229,7.17,3.215
+Microsoft_0003,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,3,36,Diagnostics,505,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0134,1.5625,7.94,3.855
+Microsoft_0004,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,4,36,Diagnostics,483,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0293,0.9756,7.53,3.519
+Microsoft_0005,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,5,36,Diagnostics,486,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0,2.1277,7.38,3.803
+Microsoft_0006,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,6,36,Diagnostics,466,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0459,1.7857,6.33,3.43
+Microsoft_0007,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,7,36,Feedback Hub,497,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0259,1.4118,7.19,3.544
+Microsoft_0008,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,8,36,Diagnostics,487,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0291,1.6949,6.53,3.406
+Microsoft_0009,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,9,36,Diagnostics,452,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.044,1.2953,5.75,2.994
+Microsoft_0010,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,10,36,General Location,501,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0313,1.3423,6.79,3.378
+Microsoft_0011,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,11,36,Narrator,497,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0267,0.9709,5.72,2.783
+Microsoft_0012,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,12,36,Narrator,499,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0164,0.0,7.7,3.146
+Microsoft_0013,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,13,36,Forget This Device,492,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0194,0.4843,4.67,2.139
+Microsoft_0014,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,14,36,Forget This Device,494,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0191,0.2392,5.8,2.492
+Microsoft_0015,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,15,36,Forget This Device,500,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0235,0.4706,5.4,2.442
+Microsoft_0016,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,16,36,Forget This Device,481,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0195,0.7299,4.82,2.298
+Microsoft_0017,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,17,36,Forget This Device,503,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0094,0.0,6.32,2.566
+Microsoft_0018,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,18,36,Microsoft Defender SmartScreen and Smart App Control,508,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0345,0.2299,5.26,2.334
+Microsoft_0019,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,19,36,Microsoft Defender SmartScreen and Smart App Control,486,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0424,0.9412,7.0,3.346
+Microsoft_0020,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,20,36,Speech,484,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0554,0.4619,5.18,2.478
+Microsoft_0021,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,21,36,Voice Activation,500,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0228,0.4556,6.32,2.801
+Microsoft_0022,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,22,36,Inking & Typing Personalization,483,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0118,0.9434,4.92,2.393
+Microsoft_0023,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,23,36,Microsoft Edge,497,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.037,0.4619,6.24,2.829
+Microsoft_0024,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,24,36,Accounts,499,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.007,0.6961,5.65,2.566
+Microsoft_0025,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,25,36,Windows Recall,466,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0199,0.2488,7.33,3.111
+Microsoft_0026,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,26,36,Windows Recall,505,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0478,0.2278,7.67,3.35
+Microsoft_0027,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,27,36,Bing,481,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0234,0.9368,5.62,2.716
+Microsoft_0028,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,28,36,Microsoft Store,499,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0277,0.6928,5.53,2.6
+Microsoft_0029,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,29,36,Microsoft Store,496,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0189,0.2364,6.12,2.618
+Microsoft_0030,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,30,36,Microsoft Store,501,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0134,0.6711,6.0,2.722
+Microsoft_0031,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,31,36,Microsoft Store,501,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0135,0.2252,4.91,2.108
+Microsoft_0032,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,32,36,Snipping Tool,499,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0241,0.4386,5.89,2.628
+Microsoft_0033,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,33,36,Media Player,470,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0147,0.4914,4.95,2.235
+Microsoft_0034,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,34,36,Media Player,482,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0143,0.7143,6.0,2.743
+Microsoft_0035,Microsoft,Big Tech,https://privacy.microsoft.com/en-us/privacystatement,Unknown,35,36,Bing,382,12.2,44.1,Primarily Opt-In,41,skipped,0.0,0.0238,0.0,5.21,2.179
+Mistral_0000,Mistral,AI,https://mistral.ai/privacy-policy,Unknown,0,9,Restricted Country,495,13.1,28.5,Primarily Opt-In,43,skipped,0.0,0.011,0.6608,6.42,2.876
+Mistral_0001,Mistral,AI,https://mistral.ai/privacy-policy,Unknown,1,9,Feedback,500,13.1,28.5,Primarily Opt-In,43,skipped,0.0,0.0286,0.8791,6.69,3.142
+Mistral_0002,Mistral,AI,https://mistral.ai/privacy-policy,Unknown,2,9,Mistral AI shall,438,13.1,28.5,Primarily Opt-In,43,skipped,0.0,0.0079,1.0471,11.0,4.45
+Mistral_0003,Mistral,AI,https://mistral.ai/privacy-policy,Unknown,3,9,Security measures,478,13.1,28.5,Primarily Opt-In,43,skipped,0.0,0.015,0.7481,8.1,3.599
+Mistral_0004,Mistral,AI,https://mistral.ai/privacy-policy,Unknown,4,9,General authorization,442,13.1,28.5,Primarily Opt-In,43,skipped,0.0,0.0137,1.6393,9.0,4.311
+Mistral_0005,Mistral,AI,https://mistral.ai/privacy-policy,Unknown,5,9,Customer located in a Restricted Country,444,13.1,28.5,Primarily Opt-In,43,skipped,0.0,0.0266,1.0638,9.71,4.416
+Mistral_0006,Mistral,AI,https://mistral.ai/privacy-policy,Unknown,6,9,Onsite audit,496,13.1,28.5,Primarily Opt-In,43,skipped,0.0,0.0343,1.373,16.67,4.686
+Mistral_0007,Mistral,AI,https://mistral.ai/privacy-policy,Unknown,7,9,CCPA,503,13.1,28.5,Primarily Opt-In,43,skipped,0.0,0.0137,0.9132,7.0,3.22
+Mistral_0008,Mistral,AI,https://mistral.ai/privacy-policy,Unknown,8,9,Nature of the Processing,491,13.1,28.5,Primarily Opt-In,43,skipped,0.0,0.0159,0.0,7.57,3.092
+Mozilla_0000,Mozilla,Privacy-First,https://www.mozilla.org/en-US/privacy/,Unknown,0,2,We learn information about you when,486,9.9,53.5,Primarily Opt-In,2,skipped,0.0,0.0113,0.4515,5.11,2.27
+Mozilla_0001,Mozilla,Privacy-First,https://www.mozilla.org/en-US/privacy/,Unknown,1,2,We learn information about you when,469,9.9,53.5,Primarily Opt-In,2,skipped,0.0,0.0297,1.4851,5.21,2.797
+OpenAI_0000,OpenAI,AI,https://openai.com/policies/privacy-policy,Unknown,0,11,User Content,500,11.7,35.3,Mixed,28,skipped,0.0,0.0107,0.4283,6.88,2.966
+OpenAI_0001,OpenAI,AI,https://openai.com/policies/privacy-policy,Unknown,1,11,Usage Data,483,11.7,35.3,Mixed,28,skipped,0.0,0.0,0.6912,7.27,3.184
+OpenAI_0002,OpenAI,AI,https://openai.com/policies/privacy-policy,Unknown,2,11,Information We Receive from Other Sources,443,11.7,35.3,Mixed,28,skipped,0.0,0.0053,1.061,8.46,3.83
+OpenAI_0003,OpenAI,AI,https://openai.com/policies/privacy-policy,Unknown,3,11,We use Personal Data for the following purposes,501,11.7,35.3,Mixed,28,skipped,0.0,0.0045,0.6682,7.86,3.429
+OpenAI_0004,OpenAI,AI,https://openai.com/policies/privacy-policy,Unknown,4,11,"Vendors, Service Providers, and Marketing Partners",501,11.7,35.3,Mixed,28,skipped,0.0,0.0087,1.3072,8.11,3.802
+OpenAI_0005,OpenAI,AI,https://openai.com/policies/privacy-policy,Unknown,5,11,Business Account Administrators,475,11.7,35.3,Mixed,28,skipped,0.0,0.0144,1.4423,5.94,3.011
+OpenAI_0006,OpenAI,AI,https://openai.com/policies/privacy-policy,Unknown,6,11,Temporary Chats,504,11.7,35.3,Mixed,28,skipped,0.0,0.0244,1.5521,5.17,2.786
+OpenAI_0007,OpenAI,AI,https://openai.com/policies/privacy-policy,Unknown,7,11,Temporary Chat,495,11.7,35.3,Mixed,28,skipped,0.0,0.0234,1.1682,6.0,2.961
+OpenAI_0008,OpenAI,AI,https://openai.com/policies/privacy-policy,Unknown,8,11,Temporary Chat,508,11.7,35.3,Mixed,28,skipped,0.0,0.0136,1.1312,6.0,2.907
+OpenAI_0009,OpenAI,AI,https://openai.com/policies/privacy-policy,Unknown,9,11,Additional U.S. state disclosures,503,11.7,35.3,Mixed,28,skipped,0.0,0.018,1.573,5.89,3.057
+OpenAI_0010,OpenAI,AI,https://openai.com/policies/privacy-policy,Unknown,10,11,10. Changes to the privacy policy,214,11.7,35.3,Mixed,28,skipped,0.0,0.0104,1.5544,6.0,3.063
+Oracle_0000,Oracle,Big Tech,https://www.oracle.com/legal/privacy/customer-data-research-development-privacy-policy/,Unknown,0,6,WHO IS RESPONSIBLE FOR PROCESSING YOUR PERSONAL INFORMATION?,478,14.5,24.2,Primarily Opt-Out,16,skipped,0.0,0.0,0.8772,8.1,3.591
+Oracle_0001,Oracle,Big Tech,https://www.oracle.com/legal/privacy/customer-data-research-development-privacy-policy/,Unknown,1,6,Dataset,486,14.5,24.2,Primarily Opt-Out,16,skipped,0.0,0.0047,1.4019,6.86,3.324
+Oracle_0002,Oracle,Big Tech,https://www.oracle.com/legal/privacy/customer-data-research-development-privacy-policy/,Unknown,2,6,WHEN AND HOW CAN WE SHARE YOUR PERSONAL INFORMATION?,416,14.5,24.2,Primarily Opt-Out,16,skipped,0.0,0.0168,3.0726,6.5,3.896
+Oracle_0003,Oracle,Big Tech,https://www.oracle.com/legal/privacy/customer-data-research-development-privacy-policy/,Unknown,3,6,disclose to you the following information:,504,14.5,24.2,Primarily Opt-Out,16,skipped,0.0,0.0135,1.7937,9.11,4.415
+Oracle_0004,Oracle,Big Tech,https://www.oracle.com/legal/privacy/customer-data-research-development-privacy-policy/,Unknown,4,6,disclose to you the following information:,451,14.5,24.2,Primarily Opt-Out,16,skipped,0.0,0.0,0.4975,7.0,2.999
+Oracle_0005,Oracle,Big Tech,https://www.oracle.com/legal/privacy/customer-data-research-development-privacy-policy/,Unknown,5,6,16. FILING A COMPLAINT,375,14.5,24.2,Primarily Opt-Out,16,skipped,0.0,0.0192,0.641,5.64,2.589
+Palantir_0000,Palantir,AI,https://www.palantir.com/privacy-and-security/,Unknown,0,8,Contact Us,462,16.1,10.3,Primarily Opt-Out,20,skipped,0.0,0.0192,0.9615,8.09,3.697
+Palantir_0001,Palantir,AI,https://www.palantir.com/privacy-and-security/,Unknown,1,8,Category of Personal Information Collected and Processed,494,16.1,10.3,Primarily Opt-Out,20,skipped,0.0,0.0,0.6479,8.91,3.823
+Palantir_0002,Palantir,AI,https://www.palantir.com/privacy-and-security/,Unknown,2,8,Category of Personal Information Collected and Processed,486,16.1,10.3,Primarily Opt-Out,20,skipped,0.0,0.0067,0.2227,9.0,3.716
+Palantir_0003,Palantir,AI,https://www.palantir.com/privacy-and-security/,Unknown,3,8,Category of Personal Information Collected and Processed,439,16.1,10.3,Primarily Opt-Out,20,skipped,0.0,0.0026,1.0363,9.57,4.253
+Palantir_0004,Palantir,AI,https://www.palantir.com/privacy-and-security/,Unknown,4,8,Your Consumer Rights,483,16.1,10.3,Primarily Opt-Out,20,skipped,0.0,0.0131,0.655,9.5,4.114
+Palantir_0005,Palantir,AI,https://www.palantir.com/privacy-and-security/,Unknown,5,8,Your Consumer Rights,445,16.1,10.3,Primarily Opt-Out,20,skipped,0.0,0.0148,1.9753,6.5,3.449
+Palantir_0006,Palantir,AI,https://www.palantir.com/privacy-and-security/,Unknown,6,8,Your Consumer Rights,483,16.1,10.3,Primarily Opt-Out,20,skipped,0.0,0.0,1.8957,6.42,3.326
+Palantir_0007,Palantir,AI,https://www.palantir.com/privacy-and-security/,Unknown,7,8,Your Consumer Rights,317,16.1,10.3,Primarily Opt-Out,20,skipped,0.0,0.0355,1.4184,7.0,3.509
+Perplexity_0000,Perplexity,AI,https://www.perplexity.ai/hub/legal/privacy-policy,Unknown,0,16,CHANGES TO THIS PRIVACY POLICY,442,13.5,35.0,Mixed,59,skipped,0.0,0.0051,0.5128,6.42,2.794
+Perplexity_0001,Perplexity,AI,https://www.perplexity.ai/hub/legal/privacy-policy,Unknown,1,16,Payment Information,482,13.5,35.0,Mixed,59,skipped,0.0,0.0048,2.6253,6.47,3.657
+Perplexity_0002,Perplexity,AI,https://www.perplexity.ai/hub/legal/privacy-policy,Unknown,2,16,Tracking Technologies,478,13.5,35.0,Mixed,59,skipped,0.0,0.0117,2.331,7.47,3.967
+Perplexity_0003,Perplexity,AI,https://www.perplexity.ai/hub/legal/privacy-policy,Unknown,3,16,Third Party Platform Information,471,13.5,35.0,Mixed,59,skipped,0.0,0.0,0.978,9.27,4.099
+Perplexity_0004,Perplexity,AI,https://www.perplexity.ai/hub/legal/privacy-policy,Unknown,4,16,Deidentified Information,492,13.5,35.0,Mixed,59,skipped,0.0,0.0111,1.5521,8.8,4.185
+Perplexity_0005,Perplexity,AI,https://www.perplexity.ai/hub/legal/privacy-policy,Unknown,5,16,COOKIES AND OTHER TRACKING TECHNOLOGIES,458,13.5,35.0,Mixed,59,skipped,0.0,0.01,1.7456,6.86,3.482
+Perplexity_0006,Perplexity,AI,https://www.perplexity.ai/hub/legal/privacy-policy,Unknown,6,16,Social Features,491,13.5,35.0,Mixed,59,skipped,0.0,0.0,1.8223,8.64,4.185
+Perplexity_0007,Perplexity,AI,https://www.perplexity.ai/hub/legal/privacy-policy,Unknown,7,16,CHILDREN’S PRIVACY,470,13.5,35.0,Mixed,59,skipped,0.0,0.0147,2.2005,7.46,3.923
+Perplexity_0008,Perplexity,AI,https://www.perplexity.ai/hub/legal/privacy-policy,Unknown,8,16,Other Third Parties,500,13.5,35.0,Mixed,59,skipped,0.0,0.0045,2.2321,5.65,3.171
+Perplexity_0009,Perplexity,AI,https://www.perplexity.ai/hub/legal/privacy-policy,Unknown,9,16,Non-Health Sensitive Information Disclosure,484,13.5,35.0,Mixed,59,skipped,0.0,0.0161,0.6881,6.95,3.12
+Perplexity_0010,Perplexity,AI,https://www.perplexity.ai/hub/legal/privacy-policy,Unknown,10,16,Non-Health Sensitive Information Disclosure,451,13.5,35.0,Mixed,59,skipped,0.0,0.0143,0.9547,7.19,3.315
+Perplexity_0011,Perplexity,AI,https://www.perplexity.ai/hub/legal/privacy-policy,Unknown,11,16,10.  DATA TRANSFERS,422,13.5,35.0,Mixed,59,skipped,0.0,0.0355,2.1858,6.64,3.672
+Perplexity_0012,Perplexity,AI,https://www.perplexity.ai/hub/legal/privacy-policy,Unknown,12,16,For EU and UK users,500,13.5,35.0,Mixed,59,skipped,0.0,0.0091,1.3667,8.09,3.819
+Perplexity_0013,Perplexity,AI,https://www.perplexity.ai/hub/legal/privacy-policy,Unknown,13,16,Opt-out of Website Targeted Advertising,475,13.5,35.0,Mixed,59,skipped,0.0,0.0,3.1477,7.33,4.191
+Perplexity_0014,Perplexity,AI,https://www.perplexity.ai/hub/legal/privacy-policy,Unknown,14,16,Opt-out of Website Targeted Advertising,449,13.5,35.0,Mixed,59,skipped,0.0,0.0053,2.6667,6.53,3.7
+Perplexity_0015,Perplexity,AI,https://www.perplexity.ai/hub/legal/privacy-policy,Unknown,15,16,COMPLAINTS,260,13.5,35.0,Mixed,59,skipped,0.0,0.0,0.4566,8.0,3.383
+Pinterest_0000,Pinterest,Social,https://policy.pinterest.com/en/privacy-policy,Unknown,0,6,Cookie Policy,430,14.0,22.2,Unclear,21,skipped,0.0,0.0053,2.3936,5.43,3.151
+Pinterest_0001,Pinterest,Social,https://policy.pinterest.com/en/privacy-policy,Unknown,1,6,Cookie Policy,486,14.0,22.2,Unclear,21,skipped,0.0,0.0048,0.7229,6.92,3.076
+Pinterest_0002,Pinterest,Social,https://policy.pinterest.com/en/privacy-policy,Unknown,2,6,Cookie Policy,399,14.0,22.2,Unclear,21,skipped,0.0,0.0173,0.8646,6.8,3.135
+Pinterest_0003,Pinterest,Social,https://policy.pinterest.com/en/privacy-policy,Unknown,3,6,Cookie Policy,497,14.0,22.2,Unclear,21,skipped,0.0,0.0,2.3474,6.38,3.491
+Pinterest_0004,Pinterest,Social,https://policy.pinterest.com/en/privacy-policy,Unknown,4,6,Cookie Policy,449,14.0,22.2,Unclear,21,skipped,0.0,0.0,1.0363,7.88,3.567
+Pinterest_0005,Pinterest,Social,https://policy.pinterest.com/en/privacy-policy,Unknown,5,6,Cookie Policy,167,14.0,22.2,Unclear,21,skipped,0.0,0.0,0.6849,11.67,4.274
+Reddit_0000,Reddit,Social,https://www.reddit.com/policies/privacy-policy,Unknown,0,2,Privacy Settings,497,13.7,27.4,Primarily Opt-Out,2,skipped,0.0,0.0066,0.8734,7.5,3.376
+Reddit_0001,Reddit,Social,https://www.reddit.com/policies/privacy-policy,Unknown,1,2,Privacy Settings,289,13.7,27.4,Primarily Opt-Out,2,skipped,0.0,0.0083,2.5,7.12,3.881
+Salesforce_0000,Salesforce,Big Tech,https://www.salesforce.com/company/privacy/,Unknown,0,2,Description,1432,17.1,0.0,Unclear,1,skipped,0.0,0.0042,1.0059,19.2,4.419
+Salesforce_0001,Salesforce,Big Tech,https://www.salesforce.com/company/privacy/,Unknown,1,2,Description,533,17.1,0.0,Unclear,1,skipped,0.0,0.0,1.1161,22.0,4.446
+Snapchat_0000,Snapchat,Social,https://www.snap.com/en-US/privacy/privacy-policy,Unknown,0,5,Personalize Your Experience & Give Context,507,11.4,45.4,Unclear,10,skipped,0.0,0.0,1.3699,6.93,3.32
+Snapchat_0001,Snapchat,Social,https://www.snap.com/en-US/privacy/privacy-policy,Unknown,1,5,Provide Relevant Ads,505,11.4,45.4,Unclear,10,skipped,0.0,0.0,1.8059,6.5,3.322
+Snapchat_0002,Snapchat,Social,https://www.snap.com/en-US/privacy/privacy-policy,Unknown,2,5,Cookie Policy,495,11.4,45.4,Unclear,10,skipped,0.0,0.0048,1.1876,6.44,3.07
+Snapchat_0003,Snapchat,Social,https://www.snap.com/en-US/privacy/privacy-policy,Unknown,3,5,Contacting You,486,11.4,45.4,Unclear,10,skipped,0.0,0.0094,1.171,5.76,2.81
+Snapchat_0004,Snapchat,Social,https://www.snap.com/en-US/privacy/privacy-policy,Unknown,4,5,Enforce Our Terms & Policies,335,11.4,45.4,Unclear,10,skipped,0.0,0.0066,1.9802,7.9,3.978
+The Trade Desk_0000,The Trade Desk,Data Broker,https://www.thetradedesk.com/us/privacy,"March 13, 2026",0,15,Overview,473,12.5,40.6,Primarily Opt-Out,41,skipped,0.0,0.0196,0.7353,5.35,2.513
+The Trade Desk_0001,The Trade Desk,Data Broker,https://www.thetradedesk.com/us/privacy,"March 13, 2026",1,15,Who we are,192,12.5,40.6,Primarily Opt-Out,41,skipped,0.0,0.0,0.0,4.36,1.744
+The Trade Desk_0002,The Trade Desk,Data Broker,https://www.thetradedesk.com/us/privacy,"March 13, 2026",2,15,Your rights and choices,497,12.5,40.6,Primarily Opt-Out,41,skipped,0.0,0.0097,1.4528,8.75,4.12
+The Trade Desk_0003,The Trade Desk,Data Broker,https://www.thetradedesk.com/us/privacy,"March 13, 2026",3,15,THE DATA THE PLATFORM COLLECTS AND PROCESSES,340,12.5,40.6,Primarily Opt-Out,41,skipped,0.0,0.0066,0.33,4.93,2.13
+The Trade Desk_0004,The Trade Desk,Data Broker,https://www.thetradedesk.com/us/privacy,"March 13, 2026",4,15,HOW THE PLATFORM COLLECTS DATA,499,12.5,40.6,Primarily Opt-Out,41,skipped,0.0,0.0228,1.1416,7.93,3.72
+The Trade Desk_0005,The Trade Desk,Data Broker,https://www.thetradedesk.com/us/privacy,"March 13, 2026",5,15,THE PURPOSES FOR WHICH THE PLATFORM PROCESSES DATA,468,12.5,40.6,Primarily Opt-Out,41,skipped,0.0,0.0297,0.495,6.94,3.093
+The Trade Desk_0006,The Trade Desk,Data Broker,https://www.thetradedesk.com/us/privacy,"March 13, 2026",6,15,PERSONALISATION AND INTERESTS,481,12.5,40.6,Primarily Opt-Out,41,skipped,0.0,0.0288,3.3654,8.07,4.689
+The Trade Desk_0007,The Trade Desk,Data Broker,https://www.thetradedesk.com/us/privacy,"March 13, 2026",7,15,DISCLOSURE AND TRANSFER,501,12.5,40.6,Primarily Opt-Out,41,skipped,0.0,0.0068,2.5057,7.0,3.829
+The Trade Desk_0008,The Trade Desk,Data Broker,https://www.thetradedesk.com/us/privacy,"March 13, 2026",8,15,We transfer data to the US under valid transfer mechanisms,500,12.5,40.6,Primarily Opt-Out,41,skipped,0.0,0.0024,1.6588,10.4,4.673
+The Trade Desk_0009,The Trade Desk,Data Broker,https://www.thetradedesk.com/us/privacy,"March 13, 2026",9,15,YOUR RIGHTS AND CHOICES,469,12.5,40.6,Primarily Opt-Out,41,skipped,0.0,0.019,1.1848,7.07,3.378
+The Trade Desk_0010,The Trade Desk,Data Broker,https://www.thetradedesk.com/us/privacy,"March 13, 2026",10,15,CALIFORNIA PRIVACY INFORMATION,470,12.5,40.6,Primarily Opt-Out,41,skipped,0.0,0.0192,2.8846,5.95,3.611
+The Trade Desk_0011,The Trade Desk,Data Broker,https://www.thetradedesk.com/us/privacy,"March 13, 2026",11,15,Inferences,483,12.5,40.6,Primarily Opt-Out,41,skipped,0.0,0.0137,1.5982,11.75,4.694
+The Trade Desk_0012,The Trade Desk,Data Broker,https://www.thetradedesk.com/us/privacy,"March 13, 2026",12,15,Privacy Rights,500,12.5,40.6,Primarily Opt-Out,41,skipped,0.0,0.0093,0.9346,10.11,4.411
+The Trade Desk_0013,The Trade Desk,Data Broker,https://www.thetradedesk.com/us/privacy,"March 13, 2026",13,15,Annual Data Requests,465,12.5,40.6,Primarily Opt-Out,41,skipped,0.0,0.0151,1.7632,6.93,3.538
+The Trade Desk_0014,The Trade Desk,Data Broker,https://www.thetradedesk.com/us/privacy,"March 13, 2026",14,15,CONTACT US,136,12.5,40.6,Primarily Opt-Out,41,skipped,0.0,0.0,1.5873,4.6,2.475
+TikTok_0000,TikTok,Social,https://www.tiktok.com/legal/page/us/privacy-policy/en,"February 5, 2026",0,12,Information You Provide,473,14.2,30.0,Mixed,37,skipped,0.0,0.0089,0.8889,7.73,3.483
+TikTok_0001,TikTok,Social,https://www.tiktok.com/legal/page/us/privacy-policy/en,"February 5, 2026",1,12,Information You Provide,470,14.2,30.0,Mixed,37,skipped,0.0,0.0,0.9368,7.2,3.255
+TikTok_0002,TikTok,Social,https://www.tiktok.com/legal/page/us/privacy-policy/en,"February 5, 2026",2,12,Automatically Collected Information,495,14.2,30.0,Mixed,37,skipped,0.0,0.0,1.7857,6.92,3.482
+TikTok_0003,TikTok,Social,https://www.tiktok.com/legal/page/us/privacy-policy/en,"February 5, 2026",3,12,TikTok Advertiser Tools,479,14.2,30.0,Mixed,37,skipped,0.0,0.0187,1.6355,8.7,4.209
+TikTok_0004,TikTok,Social,https://www.tiktok.com/legal/page/us/privacy-policy/en,"February 5, 2026",4,12,Information We Collect,468,14.2,30.0,Mixed,37,skipped,0.0,0.0092,1.1547,8.31,3.823
+TikTok_0005,TikTok,Social,https://www.tiktok.com/legal/page/us/privacy-policy/en,"February 5, 2026",5,12,Information We Collect,492,14.2,30.0,Mixed,37,skipped,0.0,0.0069,1.3761,8.69,4.054
+TikTok_0006,TikTok,Social,https://www.tiktok.com/legal/page/us/privacy-policy/en,"February 5, 2026",6,12,Information From Other Sources,486,14.2,30.0,Mixed,37,skipped,0.0,0.0,3.7209,8.38,4.84
+TikTok_0007,TikTok,Social,https://www.tiktok.com/legal/page/us/privacy-policy/en,"February 5, 2026",7,12,Contact Us,497,14.2,30.0,Mixed,37,skipped,0.0,0.0092,3.2184,7.93,4.496
+TikTok_0008,TikTok,Social,https://www.tiktok.com/legal/page/us/privacy-policy/en,"February 5, 2026",8,12,Information We Collect,494,14.2,30.0,Mixed,37,skipped,0.0,0.0143,2.6253,7.12,3.955
+TikTok_0009,TikTok,Social,https://www.tiktok.com/legal/page/us/privacy-policy/en,"February 5, 2026",9,12,Children’s Privacy Policy,471,14.2,30.0,Mixed,37,skipped,0.0,0.0049,1.7073,7.57,3.731
+TikTok_0010,TikTok,Social,https://www.tiktok.com/legal/page/us/privacy-policy/en,"February 5, 2026",10,12,Other Rights,445,14.2,30.0,Mixed,37,skipped,0.0,0.0158,1.5831,6.07,3.124
+TikTok_0011,TikTok,Social,https://www.tiktok.com/legal/page/us/privacy-policy/en,"February 5, 2026",11,12,Privacy Policy Updates,193,14.2,30.0,Mixed,37,skipped,0.0,0.012,1.8072,7.0,3.571
+TransUnion_0000,TransUnion,Data Broker,https://www.transunion.com/privacy/consumer-privacy-policy,Unknown,0,15,Analytics Disclosure,499,18.4,0.0,Mixed,48,skipped,0.0,0.0044,0.4367,6.88,2.944
+TransUnion_0001,TransUnion,Data Broker,https://www.transunion.com/privacy/consumer-privacy-policy,Unknown,1,15,Advertising Partners,388,18.4,0.0,Mixed,48,skipped,0.0,0.0172,1.4368,7.67,3.712
+TransUnion_0002,TransUnion,Data Broker,https://www.transunion.com/privacy/consumer-privacy-policy,Unknown,2,15,Advertising Partners,436,18.4,0.0,Mixed,48,skipped,0.0,0.0023,0.6928,13.0,4.286
+TransUnion_0003,TransUnion,Data Broker,https://www.transunion.com/privacy/consumer-privacy-policy,Unknown,3,15,Advertising Partners,794,18.4,0.0,Mixed,48,skipped,0.0,0.0014,0.1362,10.73,4.06
+TransUnion_0004,TransUnion,Data Broker,https://www.transunion.com/privacy/consumer-privacy-policy,Unknown,4,15,Category of Personal Information,386,18.4,0.0,Mixed,48,skipped,0.0,0.0,1.1869,9.5,4.275
+TransUnion_0005,TransUnion,Data Broker,https://www.transunion.com/privacy/consumer-privacy-policy,Unknown,5,15,Category of Personal Information,546,18.4,0.0,Mixed,48,skipped,0.0,0.0,0.0,15.5,4.0
+TransUnion_0006,TransUnion,Data Broker,https://www.transunion.com/privacy/consumer-privacy-policy,Unknown,6,15,Category of Personal Information,276,18.4,0.0,Mixed,48,skipped,0.0,0.0,1.2658,7.86,3.65
+TransUnion_0007,TransUnion,Data Broker,https://www.transunion.com/privacy/consumer-privacy-policy,Unknown,7,15,Category of Personal Information,817,18.4,0.0,Mixed,48,skipped,0.0,0.0,0.0,19.0,4.0
+TransUnion_0008,TransUnion,Data Broker,https://www.transunion.com/privacy/consumer-privacy-policy,Unknown,8,15,Consumer Privacy Rights,500,18.4,0.0,Mixed,48,skipped,0.0,0.0,0.6536,6.6,2.901
+TransUnion_0009,TransUnion,Data Broker,https://www.transunion.com/privacy/consumer-privacy-policy,Unknown,9,15,Cookies Settings,504,18.4,0.0,Mixed,48,skipped,0.0,0.0043,1.5184,7.31,3.549
+TransUnion_0010,TransUnion,Data Broker,https://www.transunion.com/privacy/consumer-privacy-policy,Unknown,10,15,5. Privacy requests via authorized agent,491,18.4,0.0,Mixed,48,skipped,0.0,0.0045,2.0134,6.53,3.435
+TransUnion_0011,TransUnion,Data Broker,https://www.transunion.com/privacy/consumer-privacy-policy,Unknown,11,15,TransUnion Data Privacy,497,18.4,0.0,Mixed,48,skipped,0.0,0.0189,1.182,7.5,3.548
+TransUnion_0012,TransUnion,Data Broker,https://www.transunion.com/privacy/consumer-privacy-policy,Unknown,12,15,7. Personal information of children,508,18.4,0.0,Mixed,48,skipped,0.0,0.02,1.3304,6.25,3.112
+TransUnion_0013,TransUnion,Data Broker,https://www.transunion.com/privacy/consumer-privacy-policy,Unknown,13,15,11. Links to other sites or services,482,18.4,0.0,Mixed,48,skipped,0.0,0.0045,1.3575,8.38,3.913
+TransUnion_0014,TransUnion,Data Broker,https://www.transunion.com/privacy/consumer-privacy-policy,Unknown,14,15,13. Notice changes and effective date,211,18.4,0.0,Mixed,48,skipped,0.0,0.0109,1.6393,7.0,3.499
+Twitter/X_0000,Twitter/X,Social,https://twitter.com/en/privacy,Unknown,0,3,Direct Messages,496,12.2,42.0,Unclear,2,skipped,0.0,0.0087,0.8715,7.54,3.399
+Twitter/X_0001,Twitter/X,Social,https://twitter.com/en/privacy,Unknown,1,3,Direct Messages,488,12.2,42.0,Unclear,2,skipped,0.0,0.0092,1.3857,7.73,3.683
+Twitter/X_0002,Twitter/X,Social,https://twitter.com/en/privacy,Unknown,2,3,Direct Messages,40,12.2,42.0,Unclear,2,skipped,0.0,0.0,2.7778,10.0,5.111
+Uber_0000,Uber,Platform,https://www.uber.com/legal/en/document/?name=privacy-policy,Unknown,0,3,Standard Contractual Clauses,422,12.9,35.8,Unclear,3,skipped,0.0,0.0177,1.0127,7.27,3.384
+Uber_0001,Uber,Platform,https://www.uber.com/legal/en/document/?name=privacy-policy,Unknown,1,3,Standard Contractual Clauses,499,12.9,35.8,Unclear,3,skipped,0.0,0.0044,0.8753,8.36,3.712
+Uber_0002,Uber,Platform,https://www.uber.com/legal/en/document/?name=privacy-policy,Unknown,2,3,DPF Principles,75,12.9,35.8,Unclear,3,skipped,0.0,0.0,1.4925,9.0,4.197
+xAI_0000,xAI,AI,https://x.ai/privacy-policy,"April 4, 2026",0,11,Account Data,501,12.4,37.0,Unclear,21,skipped,0.0,0.013,1.2959,5.83,2.902
+xAI_0001,xAI,AI,https://x.ai/privacy-policy,"April 4, 2026",1,11,Public X Posts and Internet Search Data,484,12.4,37.0,Unclear,21,skipped,0.0,0.0086,2.5696,5.5,3.262
+xAI_0002,xAI,AI,https://x.ai/privacy-policy,"April 4, 2026",2,11,Social Media Information,492,12.4,37.0,Unclear,21,skipped,0.0,0.0084,2.5263,5.37,3.192
+xAI_0003,xAI,AI,https://x.ai/privacy-policy,"April 4, 2026",3,11,Public X Posts and Internet Search Data,494,12.4,37.0,Unclear,21,skipped,0.0,0.0,2.4229,6.06,3.393
+xAI_0004,xAI,AI,https://x.ai/privacy-policy,"April 4, 2026",4,11,Cookies and Similar Technologies,491,12.4,37.0,Unclear,21,skipped,0.0,0.0091,2.5057,5.75,3.339
+xAI_0005,xAI,AI,https://x.ai/privacy-policy,"April 4, 2026",5,11,Google Apps Using Google OAuth,504,12.4,37.0,Unclear,21,skipped,0.0,0.0,0.655,7.0,3.062
+xAI_0006,xAI,AI,https://x.ai/privacy-policy,"April 4, 2026",6,11,Google Apps Using Google OAuth,492,12.4,37.0,Unclear,21,skipped,0.0,0.013,1.9523,7.38,3.785
+xAI_0007,xAI,AI,https://x.ai/privacy-policy,"April 4, 2026",7,11,Google Apps Using Google OAuth,497,12.4,37.0,Unclear,21,skipped,0.0,0.0226,1.81,6.73,3.506
+xAI_0008,xAI,AI,https://x.ai/privacy-policy,"April 4, 2026",8,11,Google Apps Using Google OAuth,501,12.4,37.0,Unclear,21,skipped,0.0,0.0119,3.1026,7.33,4.221
+xAI_0009,xAI,AI,https://x.ai/privacy-policy,"April 4, 2026",9,11,Google Apps Using Google OAuth,494,12.4,37.0,Unclear,21,skipped,0.0,0.0095,2.3697,7.31,3.91
+xAI_0010,xAI,AI,https://x.ai/privacy-policy,"April 4, 2026",10,11,Consumer FAQs,364,12.4,37.0,Unclear,21,skipped,0.0,0.0123,0.6154,5.55,2.515

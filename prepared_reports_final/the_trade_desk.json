@@ -1,0 +1,948 @@
+{
+  "company": "The Trade Desk",
+  "category": "Data Broker",
+  "source_url": "https://www.thetradedesk.com/us/privacy",
+  "data_source": "live",
+  "scraped_at": "2026-05-16T11:32:50Z",
+  "analysis": {
+    "full_text": "This page is about the privacy practices on our Trade Desk Platform and the data, including personal data or personal information (“personal data”) it uses for delivering advertising. If you are interested in our corporate and website privacy policy, click here . If you are looking for information about UID2 services, visit the UID2 Administrator Privacy Policy, and for information about EUID services, visit the EUID Privacy Notice . If you reside in the People’s Republic of China, click here for the China privacy policy. Last updated: March 13, 2026 OVERVIEW AT A GLANCE FULL PRIVACY POLICY THE PLATFORM THE DATA THE PLATFORM COLLECTS AND PROCESSES HOW THE PLATFORM COLLECTS DATA COOKIES THE PURPOSES FOR WHICH THE PLATFORM PROCESSES DATA TARGETED ADVERTISING PERSONALISATION AND INTERESTS CALIFORNIA PRIVACY INFORMATION DISCLOSURE AND TRANSFER INTERNATIONAL TRANSFERS SECURITY AND DATA RETENTION YOUR RIGHTS AND CHOICES EUROPEAN UNION CONTROLLER/PROCESSOR DESIGNATION AND LEGAL BASES CHANGES TO OUR POLICIES CONTACT US Overview The Trade Desk offers what is known in the industry as a Demand Side Platform (“DSP” or “Platform”). We provide technology that helps advertisers and their advertising agencies manage digital advertising campaigns across many channels, such as websites, apps, audio, smart TVs, and other video. The advertising campaigns run by our clients help pay for the content you enjoy. We, and our clients, collect and use data both to help ensure that the ads you see are relevant and to measure and report on their effectiveness. Our Platform uses data to produce a mapping of devices that might be related to each other, meaning that they might be used by the same person or by people within the same household. This helps advertisers better target and measure their campaigns, as well as limiting the number of times the same person or household sees an ad. Our references to our Platform in this policy only refer to the Trade Desk’s own advertising technology platform and do not include the technology or systems of clients or partners that use or integrate with us. Clients and partners are bound by our policies when they use our Platform. The Trade Desk is a member in good standing of the Network Advertising Initiative (NAI). The Trade Desk also follows the industry self-regulatory guidelines of the Digital Advertising Alliance , the Digital Advertising Alliance of Canada , and the European Digital Advertising Alliance . The Trade Desk also implements and adheres to the specifications and policies of the IAB EU Transparency & Consent Framework as part of our compliance with EU data protection law. The Trade Desk’s identification number within the Framework is 21. See https://​iabeu​rope​.eu/​t​r​a​n​s​p​a​r​e​n​c​y​-​c​o​n​s​e​n​t​-​f​r​a​m​e​work/ for more information. If you want to go directly to our Opt Out , please visit https://​adsrvr​.org/ . At A Glance Read below for a quick overview. See below for detailed information. Who we are: Global HQ: The Trade Desk, Inc. 42 N. Chestnut St Ventura, CA 93001 USA EEA and Switzerland: The UK Trade Desk Ltd. 10 th Floor, 1 Bartholomew Close London EC1A 7BL United Kingdom What we do: Advertising technology platform for managing digital advertising campaigns. The data our Platform collects and processes: Pseudonymous data such as: unique cookie and device identifiers mobile device advertising identifiers Pseudonymous identifiers derived from email address or phone numbers, or device and connection information IP addresses web browsing history from advertising impressions we see interest information inferred by us from web browsing history interest information stored and/​or used on the Platform by clients and partners location information browser and device type, version and settings hashed email addresses, phone numbers and other identifying information (or information derived from such) How the Platform collects data: Some of the ways the Platform collects data include: from partners sending us requests for ads on websites, mobile applications, smart televisions, video devices, and other media using cookies and pixels from clients and partners uploading data to our platform from clients and partners using our technology to collect data through the delivery of advertising The purposes for which the Platform processes data: The Platform processes data both on our behalf and on behalf of clients and partners for advertising purposes such as: personalizing ads delivering ads limiting the number of times you see an ad measuring effectiveness of ads reporting on ad campaigns maintaining ad transaction records attributing purchases or other actions to ads associating devices that might be related to each other preventing malicious or invalid activity improving our Platform and the services we offer Disclosure and transfer: We disclose data to other parties such as: clients and partners to help improve the effectiveness of their, and their clients’ advertising service providers who perform certain services on our behalf if we think it is required by law In addition, much of the data collected on the Platform belongs to our clients and partners. We may transfer data from the country of origin to the US or other countries. We do so under a valid legal framework. We may also disclose personal data in response to lawful requests from public authorities, including to meet security or law enforcement requirements. Security and Data Retention: We maintain generally accepted security methods to protect data on the Platform. We retain pseudonymous data up to 18 months before we aggregate it or remove pseudonymous identifers. Your rights and choices: You have rights and choices with respect to the personal data on the Platform. More detailed information is available below. Full Privacy Policy Below, we explain in detail the type of data we collect, how we collect it, how we use it, and how we disclose it, as well as the choices available to you. If, after reading this policy, you still have questions, please feel free to contact us. THE PLATFORM The Platform allows advertisers and advertising agencies to manage digital advertising campaigns. We operate as a Demand Side Platform; this means we represent the demand side of the digital advertising marketplace, in which advertisers and agencies with ads to display are the “demand” and publishers with space for such ads on web pages, apps, smart TVs and other digital properties are the “supply”. Digital advertising uses identifiers and associated data to make ads more effective and to measure their effectiveness. Without identifiers, our advertiser clients wouldn’t know, for example, if 100 ad views were the result of 100 different users that each saw an ad, or if one user saw the same ad 100 times. This information is crucial to advertisers. Without information like this, advertisers would pay publishers much less, forcing publishers to either show more ads or make users pay for their content. Advertisers and their agencies collect and use data on the Platform in different ways. They may bring their own data to the Platform, collect data using the Platform, or remove their data from the Platform. THE DATA THE PLATFORM COLLECTS AND PROCESSES The Platform collects and processes pseudonymous data about users, households, devices, and ads and where they’re shown. This includes: unique cookie identifiers device advertising identifiers Pseudonymous identifiers derived from email address or phone numbers, or device and connection information IP addresses Interest and demographic information stored and/​or used on the Platform by clients and partners Interest and demographic information we create or infer other information about browsers and devices, such as type, version and settings location information based on IP address or other types of information that may include precise geolocation information (i.e., latitude/​longitude coordinates), if provided to us information about ads that are shown, such as which ads are shown to a device or user, where (which web page or app) they are shown, and at what time hashed email addresses and other identifying information (or information derived from such) HOW THE PLATFORM COLLECTS DATA The Platform receives data in several ways, including the following: Advertisers and agencies may bring or collect their own information to our Platform (for example, that they collect on their own websites through the use of Platform technology) that we then store and use on their behalf to enhance their advertising campaigns. Bid requests, which are sets of information that describe an ad space that is available to be filled. We get these requests from the “supply” side of the advertising ecosystem, meaning websites, apps, smart TVs, and others, as well as their agents. The requests contain information about the ad space, the device, and sometimes the user, including location information. They also usually have an ID (or IDs) that enables us to match the request with information we may already have. Third-party suppliers of information used to target, optimize or measure advertising campaigns. Purveyors of connected TV devices and apps can send us information about the video content viewed on the device or app. Pixels and cookies, which allow us to recognize web browsers across sites and over time, and therefore to record information about them over time. Mobile device IDs, which are made available through the device operating systems, like Apple’s iOS and Google’s Android, for purposes of allowing mobile apps and their advertising partners to recognize a device over time. We use these IDs in a similar way to the way we use cookies. Mobile SDKs are bits of code that some of our partners enable to be placed in mobile apps. This enables our partners to send us data about the mobile app and device in association with the mobile device ID. After an ad serves, our servers receive a network request from the device on which the ad was shown in order to confirm that the ad was delivered and provide information for us to measure the ad. COOKIES Cookies help us by enabling our ability to distinguish between, recognize, and store data about unique web browsers and devices, and to store data on our servers for the advertising purposes described here. Our cookie domain is adsrvr​.org. The Trade Desk ID (TDID) is used to recognize web-browser profiles over time across sites. The TDID has a lifespan of 1 year from the time you last received an ad powered by Platform. This lifespan may be updated each time your browser encounters our Platform. In order to be able to transmit requests for ads and other data about users or devices between sellers and buyers, and to help show you ads that match your likely interests, we engage in cookie syncing, meaning that we match our TDID to clients’ and partners’ cookie IDs. We also use a cookie to store a related opt-out choice, when users opt out of cookie based targeted advertising. THE PURPOSES FOR WHICH THE PLATFORM PROCESSES DATA The Platform processes data both on our own behalf and on behalf of clients and partners for purposes related to targeting, delivering, measuring and reporting on advertising. Personalizing ads: We use data to increase advertising relevancy and effectiveness. Ad delivery: We use data to enable the technical delivery of an ad and measure success of delivery. Frequency and other reporting: We use a pseudonymous identifier to keep track of how many times an ad was shown, as well as where and when. Measurement and analytics: We use an identifier to measure how well ads perform, such as whether users clicked on the ad or went to a client’s store after their ad campaign was shown. Reporting: We may use a pseudonymous identifier to measure, attribute, and report on the performance and success of campaigns. This includes transaction reporting and verification. Clicks and conversions: We may use a pseudonymous identifier to measure actions taken by a user with respect to a particular ad, i.e., a click on an ad, or a download of an app. Attribution: We may use data to match particular ad views to subsequent actions taken by a user. For example, a clothing advertiser might be able to see that someone who saw an ad for gloves subsequently purchased the gloves. This would be done by stitching together the identifiers from the sites where the ad was served and where the online purchase was made. Cross device graphing: We may use data and algorithms to associate pseudonymous identifiers that might be related to each other. Such a graph might link various identifiers present on a single device, various identifiers associated with an individual who has multiple devices or multiple device/​individuals within the same household. Detection of malicious or invalid activity: We process information in an attempt to prevent malicious activity or invalid ad traffic. This may include identifying and preventing purveyors of malware or bots that try to take advertising dollars for ads that aren’t shown to real users or that try to harm users’ devices. TARGETED ADVERTISING Our Platform helps power ad targeting and delivery across many sites and apps with which users interact every day. Some of the activities described in the section above, such as personalizing ads, ad delivery, and cross-device graphing may involve The Trade Desk and our clients and partners processing data for purposes of “targeted advertising,” or engaging “sales,” or “sharing” of personal data under certain state privacy laws. See Your Rights and Choices below to learn how to express a choice related to these activities, or visit our opt-out page . PERSONALISATION AND INTERESTS Personalised profiles. As part of our Platform, we may create and use user profiles associated with pseudonymous identifiers. This means that we look at the information associated with the IDs and with the requests for ads, such as the content in which the ad is shown, the time, the geographic location, and the type of device. Sometimes we use information about whether or how users responded to ads to find other users who would respond to ads. We apply various computational methods on this information to find groupings of IDs that may have certain common interests or characteristics, such as “clothing,” “sports,” “travel,” “male,” “25−54,” and so on. Our Platform also enables data suppliers to bring data to the Platform that our clients can use on the Platform to improve their ad campaigns. Clients can bring their own data to the Platform for their own personalisation. Their sources and methods for acquiring this data vary and are subject to our clients’ own policies and legal obligations. We contractually prohibit certain types of data from being introduced onto the Platform, such as certain sensitive data. Our contracts prohibit clients and partners from using data on the Platform that is from or about users that they know are children. Interests for groups. We also create and use information that allows advertisers to understand what will be of interest to a group. We create a group of IP addresses in the same region of a country. We note what content we think is likely to be of interest to that group (as above, such as “clothing”, “sports” etc.) based on the sites users in those groups have visited. Advertisers may use this information to decide to show an ad to one of the IP addresses for the group. Identifiers for the group do not contain any personal data: the information only shows the types of content likely to be of interest to the group; we don’t create any individual profiles through this interest grouping mechanism. We keep these interests for groups segments for seven days. DISCLOSURE AND TRANSFER We will disclose your information with third parties only in the ways that are described in this policy. Some of the personal data processed on the Platform belongs to our clients. When this is the case, our clients can take this data, such as records of advertising impressions, off of the Platform. We also may disclose this personal data to other parties on the clients’ behalf and pursuant to their instructions. We disclose mappings of pseudonymous IDs with clients and partners that use our device graphs. We disclose cookie values to other advertising technology platforms so that they may match their value to our value. Some of our clients and partners receive bid request data through the Platform for advertising purposes. We may disclose personal data in order to investigate or prevent reasonably suspected malicious activity, fake traffic, or other activity that may be harmful to us or our clients. We may disclose personal data to our service providers that store or process the personal data in furtherance of the services we offer on the Platform on our behalf. We may transfer personal data to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change. We may disclose aggregated data that does not include individual-level records to any party or publicly. We may disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. INTERNATIONAL TRANSFERS We transfer data to the US under valid transfer mechanisms: TTD has certified its participation in the EU‑U.S. and Swiss‑U.S. Data Privacy Frameworks (DPF) and the UK Extension to the EU‑U.S. DPF as set forth by the U.S. Department of Commerce, and is committed to adhering to DPF principles with regard to the processing of personal data received from the EU in reliance on the EU‑U.S. DPF and from the United Kingdom (and Gibraltar) under the UK Extension to the EU‑U.S. DPF. TTD is committed to adhering to Swiss‑U.S. Data Privacy Framework Principles (Swiss‑U.S. DPF Principles) with regard to the processing of personal data received from Switzerland under the Swiss‑U.S. DPF. TTD is responsible for ensuring that onward transfers to third parties acting as an agent on its behalf are in accordance with the EU‑U.S. DPF, the UK Extension to the EU‑U.S. DPF and the Swiss‑U.S. DPF, including the onward transfer liability provisions. To learn more about the DPF program, and to view our certification, please visit https://​www​.dat​apri​va​cyframe​work​.gov/ . If deemed necessary under applicable data protection legislation, the standard contractual clauses for data transfers, as approved by the European Commission Implementing Decision (EU) 2021/914 of 4 June 2021 for the transfer of Personal Data to third countries. If there is any conflict between the terms in this policy and such mechanisms, the terms of the transfer mechanism shall govern. In compliance with the EU‑U.S. DPF and the UK Extension to the EU‑U.S. DPF and the Swiss‑U.S. DPF, TTD commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU‑U.S. DPF and the UK Extension to the EU‑U.S. DPF and the Swiss‑U.S. DPF submitted to TRUSTe, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit https://​feed​back​-form​.trustarc​.com/​w​a​t​c​h​d​o​g​/​r​e​quest for more information or to file a complaint. The services of TRUSTe are provided at no cost to you. For complaints regarding EU‑U.S. DPF, the UK Extension to the EU‑U.S. DPF, and the Swiss‑U.S. DPF compliance not resolved by any of the other DPF mechanisms, you have the possibility, under certain conditions, to invoke binding arbitration. Further information can be found on the official DPF website: https://​www​.dat​apri​va​cyframe​work​.gov/​s​/​a​r​t​i​c​l​e​/​A​N​N​E​X​-​I​-​i​n​t​r​o​d​u​c​t​i​o​n​-​d​p​f​?​t​a​b​s​e​t​-​3​5​584=2 . The Federal Trade Commission has jurisdiction over TTD’s compliance with the EU‑U.S. DPF, the UK Extension to the EU‑U.S. DPF and the Swiss‑U.S. DPF. The Trade Desk participates in the APEC Cross Border Privacy Rules System. The APEC CBPR system provides a framework for organizations to adhere to for the protection of personal information transferred among participating APEC economies. More information about the APEC framework can be found here: https://​www​.cbprs​.org . SECURITY AND DATA RETENTION We retain the pseudonymous data that the Platform collects for up to 18 months. After 18 months (often sooner) the data is de-identified or aggregated and stored for up to 3 additional years. For interests for groups, we retain data for 7 days. This retention policy does not apply to client or partner data. We have implemented security measures, including physical, electronic and administrative safeguards, designed to prevent the unauthorized access to, loss, misuse, or alteration of the information that our Platform collects, but we make no assurances in this policy about our ability to prevent any such event or the possible harm to you or any third party that could arise from it. YOUR RIGHTS AND CHOICES Privacy rights. Depending upon where you live, you may have certain legal rights with respect to personal data The Trade Desk collects and processes. These rights may include the right to request “access,” “deletion,” and “correction” of personal data, and the right to opt out of activities that constitute “sales,” “sharing,” and processing personal data for purposes of “targeted advertising,” as well as use of “sensitive data” for advertising purposes, as such terms are defined under applicable privacy laws. These rights may be limited, for example if fulfilling your request would reveal personal data about another person or infringe the rights of a third party (including our rights) or if you ask us to delete information that we are required by law to keep or have compelling legitimate interest in keeping. We will inform you of relevant exemptions we rely upon when responding to any request you make. We will not discriminate against you if you exercise your rights under applicable law. Opting out of sales, sharing and targeted advertising. As described in the Targeted Advertising section above, we process data to personalize and deliver ads, and for other ads-related purposes, including measurement reporting, and building our cross-device graph. Some of these activities may be considered “sales” or “sharing” of your personal information or using your information for purposes of “targeted advertising” under the law that applies to you. You may express a choice related to these activities including use of sensitive data for such purposes, by visiting https://​adsrvr​.org/ , or by enabling Global Privacy Control in your browser. Your devices like CTVs and mobile devices may offer choice signaling from the device’s operating system. Where we receive these signals, TTD will opt the user out of sales, sharing and targeted advertising. Access, Correction, and Deletion. If you reside in a state, country or region that provides individuals with the rights to access, correct, or delete your personal data, please fill out this webform to exercise your rights. We may take reasonable steps to confirm your identity. If we deny your request, you may appeal our decision by following the instructions provided in the denial email. Depending upon where you live, if you have concerns about the results of an appeal, you may contact the attorney general in the state where you reside. You will not be discriminated against for the exercise of such rights. For further information relevant to California residents, please click here . CALIFORNIA PRIVACY INFORMATION The California Consumer Privacy Act (“CCPA”) requires us to explain some information using definitions and categories set out under the CCPA. If you are a California resident, this section applies to you. Additional Disclosures. We collect, and in the preceding 12 months we have collected, the following categories of personal data: identifiers (such as cookie identifiers, mobile device advertising identifiers, pseudonymous identifiers derived from email address or phone numbers, IP address, or hashed email address), Internet or other electronic network activity information (such as information about sites you visit), geolocation data (which may include precise geolocation information), inferences we may make about your interests (such as the personalised profiles described above), and data that may reveal demographic information or inferences about gender, race, ethnicity, religion, health, or sex life or sexual orientation. For more information about the precise data points we collect and the sources of such collection, please see the Collection of Information and Personalisation and Interests sections above. We collect personal data for the business and commercial purposes described in the Use of Information section above. In the preceding 12 months, we have disclosed the following categories of personal information for business purposes to the following categories of recipients: Category of Personal Data We collect… Uses We use personal data to… Recipients We may disclose personal data to… Identifiers , such IP addresses, unique cookie identifiers, mobile device advertising identifiers, interest information stored and/​or used on the platform by clients and partners, hashed email addresses and phone numbers Internet and Electronic Network Information , such as information about browsers and devices, such as type, version, and settings, information about ads that are shown, such as which ads are shown to a device or user, where (which device or app) they are shown, and at what time, information about your visits to our clients’ websites or other online services. Location information , including based on IP address or other types of information that may include precise geolocation information. Inferences we make based on other information, such as predictions about ad performance Demographic information , such inferences or information about your gender, race, religion, health, sex life or sexual orientation (some of which may constitute “sensitive” information under the CCPA). Provide our Services, including on our behalf and on behalf of clients and partners for purposes related to targeting, delivering, measuring, and reporting on advertising, including to technically deliver an ad and measure success of delivery. To measure and report ad performance , such as to technically deliver an ad and measure success of delivery, keep track of how many times an ad was shown, as well as where and when, measure how well ads perform, such as whether someone who saw an ad later made a purchase, attribute and report on the performance and success of campaigns Improve our Services , such as to increase advertising relevancy and effectiveness and predict ad performance and to associate devices that might be related to each other, such as devices used by the same person or in the same household. For safety anti-fraud purposes , such as to prevent malicious activity or invalid ad traffic. Our clients , where we hold or collect personal information on their behalf. We also share information with other parties at the direction of our clients. Our vendors , including with our service providers, contractors and consultants that access, store, or process data on our behalf. Other Parties , including parties that use our cross-device graph Protect safety and combat fraud , including to investigate or prevent reasonably suspected malicious activity and if we believe your actions are inconsistent with our user agreements or policies, that you have violated the law, or if we believe it is necessary to protect the rights, property, and safety of The Trade Desk, our users, the public, or others For business reasons , including in connection with, or during negotiations concerning, any merger, sale of company assets, financing, or acquisition of all or a portion of our business by another company and between and among the Trade Desk and our current and future parents, affiliates, and subsidiaries and other companies under common control and ownership. To legal authorities , if we believe that disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements. At your direction . The Trade Desk does not sell personal data related to individuals it knows to be minors under the age of sixteen (16). Privacy Rights . You have the right to opt out of any sharing or sales of your personal information, to limit use of sensitive personal information for advertising purposes, and to request access to and deletion or correction of your personal information. Please see the Your Rights and Choices section above for more information about your privacy rights and how to exercise them. If you exercise your rights, we may require you to provide evidence that the data relates to you (and only to you) and may deny your request if you cannot provide such information. You may also designate an authorized agent to make such requests on your behalf, as permitted under CCPA. If you do so, we will require the agent to provide proof that they are acting on your behalf, and we may ask you to verify your identity and to confirm that you provided the agent with permission to submit the request on your behalf. You will not be discriminated against for the exercise of such rights. Please note that if you wish to exercise any of your rights with the Trade Desk’s clients or partners, you must make your request directly with those clients and partners. Annual Data Requests . You can learn about the consumer data requests we received over the previous calendar year at this web page . EUROPEAN UNION CONTROLLER/PROCESSOR DESIGNATION AND LEGAL BASES If you are based in the European Economic Area (EEA), the United Kingdom or Switzerland, The UK Trade Desk Ltd. is responsible for processing your personal data. Under the definitions of “Controller” and “Processor” in EU law, this processing is in some cases as a Controller of personal data and in some cases as a Processor. The Trade Desk is a Controller, for example, of personalised user interest segments that we create for our Platform, when we have appropriate permissions to do so. When we collect personal data for personalisation from requests for ads that we receive as described above, under EU law, we will use consent as our legal basis for doing so. When we create identifiers for interests for groups, we use consent or legitimate interest as our legal basis. This depends on how we collect the personal data. We process personal data for other purposes when we have a legitimate interest in doing so and that interest is not outweighed by the rights or freedoms of individual data subjects. CHANGES TO OUR POLICIES We may revise this policy at any time, and we will indicate revisions by updating the date at the top of this policy and providing notice through our websites or services. CONTACT US To exercise applicable privacy rights, please follow the instructions described in the Your Rights and Choices section above. For general questions regarding our privacy practices, you may contact us either by regular mail or email as follows: Mail : The Trade Desk, Global Privacy Office Attention: Global Data Protection Officer (DPO) 42 N. Chestnut St. Ventura, CA 93001 Email : « dpo ((at)) thetradedesk ((dot)) com » «End of Policy»",
+    "sentences": [
+      "This page is about the privacy practices on our Trade Desk Platform and the data, including personal data or personal information (“personal data”) it uses for delivering advertising.",
+      "If you are interested in our corporate and website privacy policy, click here .",
+      "If you are looking for information about UID2 services, visit the UID2 Administrator Privacy Policy, and for information about EUID services, visit the EUID Privacy Notice .",
+      "If you reside in the People’s Republic of China, click here for the China privacy policy.",
+      "Last updated: March 13, 2026 OVERVIEW AT A GLANCE FULL PRIVACY POLICY THE PLATFORM THE DATA THE PLATFORM COLLECTS AND PROCESSES HOW THE PLATFORM COLLECTS DATA COOKIES THE PURPOSES FOR WHICH THE PLATFORM PROCESSES DATA TARGETED ADVERTISING PERSONALISATION AND INTERESTS CALIFORNIA PRIVACY INFORMATION DISCLOSURE AND TRANSFER INTERNATIONAL TRANSFERS SECURITY AND DATA RETENTION YOUR RIGHTS AND CHOICES EUROPEAN UNION CONTROLLER/PROCESSOR DESIGNATION AND LEGAL BASES CHANGES TO OUR POLICIES CONTACT US Overview The Trade Desk offers what is known in the industry as a Demand Side Platform (“DSP” or “Platform”).",
+      "We provide technology that helps advertisers and their advertising agencies manage digital advertising campaigns across many channels, such as websites, apps, audio, smart TVs, and other video.",
+      "The advertising campaigns run by our clients help pay for the content you enjoy.",
+      "We, and our clients, collect and use data both to help ensure that the ads you see are relevant and to measure and report on their effectiveness.",
+      "Our Platform uses data to produce a mapping of devices that might be related to each other, meaning that they might be used by the same person or by people within the same household.",
+      "This helps advertisers better target and measure their campaigns, as well as limiting the number of times the same person or household sees an ad.",
+      "Our references to our Platform in this policy only refer to the Trade Desk’s own advertising technology platform and do not include the technology or systems of clients or partners that use or integrate with us.",
+      "Clients and partners are bound by our policies when they use our Platform.",
+      "The Trade Desk is a member in good standing of the Network Advertising Initiative (NAI).",
+      "The Trade Desk also follows the industry self-regulatory guidelines of the Digital Advertising Alliance , the Digital Advertising Alliance of Canada , and the European Digital Advertising Alliance .",
+      "The Trade Desk also implements and adheres to the specifications and policies of the IAB EU Transparency & Consent Framework as part of our compliance with EU data protection law.",
+      "The Trade Desk’s identification number within the Framework is 21.",
+      "See https://​iabeu​rope​.eu/​t​r​a​n​s​p​a​r​e​n​c​y​-​c​o​n​s​e​n​t​-​f​r​a​m​e​work/ for more information.",
+      "If you want to go directly to our Opt Out , please visit https://​adsrvr​.org/ .",
+      "At A Glance Read below for a quick overview.",
+      "See below for detailed information.",
+      "Who we are: Global HQ: The Trade Desk, Inc.",
+      "Chestnut St Ventura, CA 93001 USA EEA and Switzerland: The UK Trade Desk Ltd.",
+      "10 th Floor, 1 Bartholomew Close London EC1A 7BL United Kingdom What we do: Advertising technology platform for managing digital advertising campaigns.",
+      "The data our Platform collects and processes: Pseudonymous data such as: unique cookie and device identifiers mobile device advertising identifiers Pseudonymous identifiers derived from email address or phone numbers, or device and connection information IP addresses web browsing history from advertising impressions we see interest information inferred by us from web browsing history interest information stored and/​or used on the Platform by clients and partners location information browser and device type, version and settings hashed email addresses, phone numbers and other identifying information (or information derived from such) How the Platform collects data: Some of the ways the Platform collects data include: from partners sending us requests for ads on websites, mobile applications, smart televisions, video devices, and other media using cookies and pixels from clients and partners uploading data to our platform from clients and partners using our technology to collect data through the delivery of advertising The purposes for which the Platform processes data: The Platform processes data both on our behalf and on behalf of clients and partners for advertising purposes such as: personalizing ads delivering ads limiting the number of times you see an ad measuring effectiveness of ads reporting on ad campaigns maintaining ad transaction records attributing purchases or other actions to ads associating devices that might be related to each other preventing malicious or invalid activity improving our Platform and the services we offer Disclosure and transfer: We disclose data to other parties such as: clients and partners to help improve the effectiveness of their, and their clients’ advertising service providers who perform certain services on our behalf if we think it is required by law In addition, much of the data collected on the Platform belongs to our clients and partners.",
+      "We may transfer data from the country of origin to the US or other countries.",
+      "We do so under a valid legal framework.",
+      "We may also disclose personal data in response to lawful requests from public authorities, including to meet security or law enforcement requirements.",
+      "Security and Data Retention: We maintain generally accepted security methods to protect data on the Platform.",
+      "We retain pseudonymous data up to 18 months before we aggregate it or remove pseudonymous identifers.",
+      "Your rights and choices: You have rights and choices with respect to the personal data on the Platform.",
+      "More detailed information is available below.",
+      "Full Privacy Policy Below, we explain in detail the type of data we collect, how we collect it, how we use it, and how we disclose it, as well as the choices available to you.",
+      "If, after reading this policy, you still have questions, please feel free to contact us.",
+      "THE PLATFORM The Platform allows advertisers and advertising agencies to manage digital advertising campaigns.",
+      "We operate as a Demand Side Platform; this means we represent the demand side of the digital advertising marketplace, in which advertisers and agencies with ads to display are the “demand” and publishers with space for such ads on web pages, apps, smart TVs and other digital properties are the “supply”.",
+      "Digital advertising uses identifiers and associated data to make ads more effective and to measure their effectiveness.",
+      "Without identifiers, our advertiser clients wouldn’t know, for example, if 100 ad views were the result of 100 different users that each saw an ad, or if one user saw the same ad 100 times.",
+      "This information is crucial to advertisers.",
+      "Without information like this, advertisers would pay publishers much less, forcing publishers to either show more ads or make users pay for their content.",
+      "Advertisers and their agencies collect and use data on the Platform in different ways.",
+      "They may bring their own data to the Platform, collect data using the Platform, or remove their data from the Platform.",
+      "THE DATA THE PLATFORM COLLECTS AND PROCESSES The Platform collects and processes pseudonymous data about users, households, devices, and ads and where they’re shown.",
+      "This includes: unique cookie identifiers device advertising identifiers Pseudonymous identifiers derived from email address or phone numbers, or device and connection information IP addresses Interest and demographic information stored and/​or used on the Platform by clients and partners Interest and demographic information we create or infer other information about browsers and devices, such as type, version and settings location information based on IP address or other types of information that may include precise geolocation information (i.e., latitude/​longitude coordinates), if provided to us information about ads that are shown, such as which ads are shown to a device or user, where (which web page or app) they are shown, and at what time hashed email addresses and other identifying information (or information derived from such) HOW THE PLATFORM COLLECTS DATA The Platform receives data in several ways, including the following: Advertisers and agencies may bring or collect their own information to our Platform (for example, that they collect on their own websites through the use of Platform technology) that we then store and use on their behalf to enhance their advertising campaigns.",
+      "Bid requests, which are sets of information that describe an ad space that is available to be filled.",
+      "We get these requests from the “supply” side of the advertising ecosystem, meaning websites, apps, smart TVs, and others, as well as their agents.",
+      "The requests contain information about the ad space, the device, and sometimes the user, including location information.",
+      "They also usually have an ID (or IDs) that enables us to match the request with information we may already have.",
+      "Third-party suppliers of information used to target, optimize or measure advertising campaigns.",
+      "Purveyors of connected TV devices and apps can send us information about the video content viewed on the device or app.",
+      "Pixels and cookies, which allow us to recognize web browsers across sites and over time, and therefore to record information about them over time.",
+      "Mobile device IDs, which are made available through the device operating systems, like Apple’s iOS and Google’s Android, for purposes of allowing mobile apps and their advertising partners to recognize a device over time.",
+      "We use these IDs in a similar way to the way we use cookies.",
+      "Mobile SDKs are bits of code that some of our partners enable to be placed in mobile apps.",
+      "This enables our partners to send us data about the mobile app and device in association with the mobile device ID.",
+      "After an ad serves, our servers receive a network request from the device on which the ad was shown in order to confirm that the ad was delivered and provide information for us to measure the ad.",
+      "COOKIES Cookies help us by enabling our ability to distinguish between, recognize, and store data about unique web browsers and devices, and to store data on our servers for the advertising purposes described here.",
+      "Our cookie domain is adsrvr​.org.",
+      "The Trade Desk ID (TDID) is used to recognize web-browser profiles over time across sites.",
+      "The TDID has a lifespan of 1 year from the time you last received an ad powered by Platform.",
+      "This lifespan may be updated each time your browser encounters our Platform.",
+      "In order to be able to transmit requests for ads and other data about users or devices between sellers and buyers, and to help show you ads that match your likely interests, we engage in cookie syncing, meaning that we match our TDID to clients’ and partners’ cookie IDs.",
+      "We also use a cookie to store a related opt-out choice, when users opt out of cookie based targeted advertising.",
+      "THE PURPOSES FOR WHICH THE PLATFORM PROCESSES DATA The Platform processes data both on our own behalf and on behalf of clients and partners for purposes related to targeting, delivering, measuring and reporting on advertising.",
+      "Personalizing ads: We use data to increase advertising relevancy and effectiveness.",
+      "Ad delivery: We use data to enable the technical delivery of an ad and measure success of delivery.",
+      "Frequency and other reporting: We use a pseudonymous identifier to keep track of how many times an ad was shown, as well as where and when.",
+      "Measurement and analytics: We use an identifier to measure how well ads perform, such as whether users clicked on the ad or went to a client’s store after their ad campaign was shown.",
+      "Reporting: We may use a pseudonymous identifier to measure, attribute, and report on the performance and success of campaigns.",
+      "This includes transaction reporting and verification.",
+      "Clicks and conversions: We may use a pseudonymous identifier to measure actions taken by a user with respect to a particular ad, i.e., a click on an ad, or a download of an app.",
+      "Attribution: We may use data to match particular ad views to subsequent actions taken by a user.",
+      "For example, a clothing advertiser might be able to see that someone who saw an ad for gloves subsequently purchased the gloves.",
+      "This would be done by stitching together the identifiers from the sites where the ad was served and where the online purchase was made.",
+      "Cross device graphing: We may use data and algorithms to associate pseudonymous identifiers that might be related to each other.",
+      "Such a graph might link various identifiers present on a single device, various identifiers associated with an individual who has multiple devices or multiple device/​individuals within the same household.",
+      "Detection of malicious or invalid activity: We process information in an attempt to prevent malicious activity or invalid ad traffic.",
+      "This may include identifying and preventing purveyors of malware or bots that try to take advertising dollars for ads that aren’t shown to real users or that try to harm users’ devices.",
+      "TARGETED ADVERTISING Our Platform helps power ad targeting and delivery across many sites and apps with which users interact every day.",
+      "Some of the activities described in the section above, such as personalizing ads, ad delivery, and cross-device graphing may involve The Trade Desk and our clients and partners processing data for purposes of “targeted advertising,” or engaging “sales,” or “sharing” of personal data under certain state privacy laws.",
+      "See Your Rights and Choices below to learn how to express a choice related to these activities, or visit our opt-out page .",
+      "PERSONALISATION AND INTERESTS Personalised profiles.",
+      "As part of our Platform, we may create and use user profiles associated with pseudonymous identifiers.",
+      "This means that we look at the information associated with the IDs and with the requests for ads, such as the content in which the ad is shown, the time, the geographic location, and the type of device.",
+      "Sometimes we use information about whether or how users responded to ads to find other users who would respond to ads.",
+      "We apply various computational methods on this information to find groupings of IDs that may have certain common interests or characteristics, such as “clothing,” “sports,” “travel,” “male,” “25−54,” and so on.",
+      "Our Platform also enables data suppliers to bring data to the Platform that our clients can use on the Platform to improve their ad campaigns.",
+      "Clients can bring their own data to the Platform for their own personalisation.",
+      "Their sources and methods for acquiring this data vary and are subject to our clients’ own policies and legal obligations.",
+      "We contractually prohibit certain types of data from being introduced onto the Platform, such as certain sensitive data.",
+      "Our contracts prohibit clients and partners from using data on the Platform that is from or about users that they know are children.",
+      "We also create and use information that allows advertisers to understand what will be of interest to a group.",
+      "We create a group of IP addresses in the same region of a country.",
+      "We note what content we think is likely to be of interest to that group (as above, such as “clothing”, “sports” etc.) based on the sites users in those groups have visited.",
+      "Advertisers may use this information to decide to show an ad to one of the IP addresses for the group.",
+      "Identifiers for the group do not contain any personal data: the information only shows the types of content likely to be of interest to the group; we don’t create any individual profiles through this interest grouping mechanism.",
+      "We keep these interests for groups segments for seven days.",
+      "DISCLOSURE AND TRANSFER We will disclose your information with third parties only in the ways that are described in this policy.",
+      "Some of the personal data processed on the Platform belongs to our clients.",
+      "When this is the case, our clients can take this data, such as records of advertising impressions, off of the Platform.",
+      "We also may disclose this personal data to other parties on the clients’ behalf and pursuant to their instructions.",
+      "We disclose mappings of pseudonymous IDs with clients and partners that use our device graphs.",
+      "We disclose cookie values to other advertising technology platforms so that they may match their value to our value.",
+      "Some of our clients and partners receive bid request data through the Platform for advertising purposes.",
+      "We may disclose personal data in order to investigate or prevent reasonably suspected malicious activity, fake traffic, or other activity that may be harmful to us or our clients.",
+      "We may disclose personal data to our service providers that store or process the personal data in furtherance of the services we offer on the Platform on our behalf.",
+      "We may transfer personal data to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change.",
+      "We may disclose aggregated data that does not include individual-level records to any party or publicly.",
+      "We may disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.",
+      "INTERNATIONAL TRANSFERS We transfer data to the US under valid transfer mechanisms: TTD has certified its participation in the EU‑U.S.",
+      "Data Privacy Frameworks (DPF) and the UK Extension to the EU‑U.S.",
+      "Department of Commerce, and is committed to adhering to DPF principles with regard to the processing of personal data received from the EU in reliance on the EU‑U.S.",
+      "DPF and from the United Kingdom (and Gibraltar) under the UK Extension to the EU‑U.S.",
+      "TTD is committed to adhering to Swiss‑U.S.",
+      "Data Privacy Framework Principles (Swiss‑U.S.",
+      "DPF Principles) with regard to the processing of personal data received from Switzerland under the Swiss‑U.S.",
+      "TTD is responsible for ensuring that onward transfers to third parties acting as an agent on its behalf are in accordance with the EU‑U.S.",
+      "DPF, the UK Extension to the EU‑U.S.",
+      "DPF, including the onward transfer liability provisions.",
+      "To learn more about the DPF program, and to view our certification, please visit https://​www​.dat​apri​va​cyframe​work​.gov/ .",
+      "If deemed necessary under applicable data protection legislation, the standard contractual clauses for data transfers, as approved by the European Commission Implementing Decision (EU) 2021/914 of 4 June 2021 for the transfer of Personal Data to third countries.",
+      "If there is any conflict between the terms in this policy and such mechanisms, the terms of the transfer mechanism shall govern.",
+      "DPF and the UK Extension to the EU‑U.S.",
+      "DPF, TTD commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU‑U.S.",
+      "DPF and the UK Extension to the EU‑U.S.",
+      "DPF submitted to TRUSTe, an alternative dispute resolution provider based in the United States.",
+      "If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit https://​feed​back​-form​.trustarc​.com/​w​a​t​c​h​d​o​g​/​r​e​quest for more information or to file a complaint.",
+      "The services of TRUSTe are provided at no cost to you.",
+      "For complaints regarding EU‑U.S.",
+      "DPF, the UK Extension to the EU‑U.S.",
+      "DPF compliance not resolved by any of the other DPF mechanisms, you have the possibility, under certain conditions, to invoke binding arbitration.",
+      "Further information can be found on the official DPF website: https://​www​.dat​apri​va​cyframe​work​.gov/​s​/​a​r​t​i​c​l​e​/​A​N​N​E​X​-​I​-​i​n​t​r​o​d​u​c​t​i​o​n​-​d​p​f​?​t​a​b​s​e​t​-​3​5​584=2 .",
+      "The Federal Trade Commission has jurisdiction over TTD’s compliance with the EU‑U.S.",
+      "DPF, the UK Extension to the EU‑U.S.",
+      "The Trade Desk participates in the APEC Cross Border Privacy Rules System.",
+      "The APEC CBPR system provides a framework for organizations to adhere to for the protection of personal information transferred among participating APEC economies.",
+      "More information about the APEC framework can be found here: https://​www​.cbprs​.org .",
+      "SECURITY AND DATA RETENTION We retain the pseudonymous data that the Platform collects for up to 18 months.",
+      "After 18 months (often sooner) the data is de-identified or aggregated and stored for up to 3 additional years.",
+      "For interests for groups, we retain data for 7 days.",
+      "This retention policy does not apply to client or partner data.",
+      "We have implemented security measures, including physical, electronic and administrative safeguards, designed to prevent the unauthorized access to, loss, misuse, or alteration of the information that our Platform collects, but we make no assurances in this policy about our ability to prevent any such event or the possible harm to you or any third party that could arise from it.",
+      "YOUR RIGHTS AND CHOICES Privacy rights.",
+      "Depending upon where you live, you may have certain legal rights with respect to personal data The Trade Desk collects and processes.",
+      "These rights may include the right to request “access,” “deletion,” and “correction” of personal data, and the right to opt out of activities that constitute “sales,” “sharing,” and processing personal data for purposes of “targeted advertising,” as well as use of “sensitive data” for advertising purposes, as such terms are defined under applicable privacy laws.",
+      "These rights may be limited, for example if fulfilling your request would reveal personal data about another person or infringe the rights of a third party (including our rights) or if you ask us to delete information that we are required by law to keep or have compelling legitimate interest in keeping.",
+      "We will inform you of relevant exemptions we rely upon when responding to any request you make.",
+      "We will not discriminate against you if you exercise your rights under applicable law.",
+      "Opting out of sales, sharing and targeted advertising.",
+      "As described in the Targeted Advertising section above, we process data to personalize and deliver ads, and for other ads-related purposes, including measurement reporting, and building our cross-device graph.",
+      "Some of these activities may be considered “sales” or “sharing” of your personal information or using your information for purposes of “targeted advertising” under the law that applies to you.",
+      "You may express a choice related to these activities including use of sensitive data for such purposes, by visiting https://​adsrvr​.org/ , or by enabling Global Privacy Control in your browser.",
+      "Your devices like CTVs and mobile devices may offer choice signaling from the device’s operating system.",
+      "Where we receive these signals, TTD will opt the user out of sales, sharing and targeted advertising.",
+      "Access, Correction, and Deletion.",
+      "If you reside in a state, country or region that provides individuals with the rights to access, correct, or delete your personal data, please fill out this webform to exercise your rights.",
+      "We may take reasonable steps to confirm your identity.",
+      "If we deny your request, you may appeal our decision by following the instructions provided in the denial email.",
+      "Depending upon where you live, if you have concerns about the results of an appeal, you may contact the attorney general in the state where you reside.",
+      "You will not be discriminated against for the exercise of such rights.",
+      "For further information relevant to California residents, please click here .",
+      "CALIFORNIA PRIVACY INFORMATION The California Consumer Privacy Act (“CCPA”) requires us to explain some information using definitions and categories set out under the CCPA.",
+      "If you are a California resident, this section applies to you.",
+      "We collect, and in the preceding 12 months we have collected, the following categories of personal data: identifiers (such as cookie identifiers, mobile device advertising identifiers, pseudonymous identifiers derived from email address or phone numbers, IP address, or hashed email address), Internet or other electronic network activity information (such as information about sites you visit), geolocation data (which may include precise geolocation information), inferences we may make about your interests (such as the personalised profiles described above), and data that may reveal demographic information or inferences about gender, race, ethnicity, religion, health, or sex life or sexual orientation.",
+      "For more information about the precise data points we collect and the sources of such collection, please see the Collection of Information and Personalisation and Interests sections above.",
+      "We collect personal data for the business and commercial purposes described in the Use of Information section above.",
+      "In the preceding 12 months, we have disclosed the following categories of personal information for business purposes to the following categories of recipients: Category of Personal Data We collect… Uses We use personal data to… Recipients We may disclose personal data to… Identifiers , such IP addresses, unique cookie identifiers, mobile device advertising identifiers, interest information stored and/​or used on the platform by clients and partners, hashed email addresses and phone numbers Internet and Electronic Network Information , such as information about browsers and devices, such as type, version, and settings, information about ads that are shown, such as which ads are shown to a device or user, where (which device or app) they are shown, and at what time, information about your visits to our clients’ websites or other online services.",
+      "Location information , including based on IP address or other types of information that may include precise geolocation information.",
+      "Inferences we make based on other information, such as predictions about ad performance Demographic information , such inferences or information about your gender, race, religion, health, sex life or sexual orientation (some of which may constitute “sensitive” information under the CCPA).",
+      "Provide our Services, including on our behalf and on behalf of clients and partners for purposes related to targeting, delivering, measuring, and reporting on advertising, including to technically deliver an ad and measure success of delivery.",
+      "To measure and report ad performance , such as to technically deliver an ad and measure success of delivery, keep track of how many times an ad was shown, as well as where and when, measure how well ads perform, such as whether someone who saw an ad later made a purchase, attribute and report on the performance and success of campaigns Improve our Services , such as to increase advertising relevancy and effectiveness and predict ad performance and to associate devices that might be related to each other, such as devices used by the same person or in the same household.",
+      "For safety anti-fraud purposes , such as to prevent malicious activity or invalid ad traffic.",
+      "Our clients , where we hold or collect personal information on their behalf.",
+      "We also share information with other parties at the direction of our clients.",
+      "Our vendors , including with our service providers, contractors and consultants that access, store, or process data on our behalf.",
+      "Other Parties , including parties that use our cross-device graph Protect safety and combat fraud , including to investigate or prevent reasonably suspected malicious activity and if we believe your actions are inconsistent with our user agreements or policies, that you have violated the law, or if we believe it is necessary to protect the rights, property, and safety of The Trade Desk, our users, the public, or others For business reasons , including in connection with, or during negotiations concerning, any merger, sale of company assets, financing, or acquisition of all or a portion of our business by another company and between and among the Trade Desk and our current and future parents, affiliates, and subsidiaries and other companies under common control and ownership.",
+      "To legal authorities , if we believe that disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements.",
+      "The Trade Desk does not sell personal data related to individuals it knows to be minors under the age of sixteen (16).",
+      "You have the right to opt out of any sharing or sales of your personal information, to limit use of sensitive personal information for advertising purposes, and to request access to and deletion or correction of your personal information.",
+      "Please see the Your Rights and Choices section above for more information about your privacy rights and how to exercise them.",
+      "If you exercise your rights, we may require you to provide evidence that the data relates to you (and only to you) and may deny your request if you cannot provide such information.",
+      "You may also designate an authorized agent to make such requests on your behalf, as permitted under CCPA.",
+      "If you do so, we will require the agent to provide proof that they are acting on your behalf, and we may ask you to verify your identity and to confirm that you provided the agent with permission to submit the request on your behalf.",
+      "You will not be discriminated against for the exercise of such rights.",
+      "Please note that if you wish to exercise any of your rights with the Trade Desk’s clients or partners, you must make your request directly with those clients and partners.",
+      "You can learn about the consumer data requests we received over the previous calendar year at this web page .",
+      "EUROPEAN UNION CONTROLLER/PROCESSOR DESIGNATION AND LEGAL BASES If you are based in the European Economic Area (EEA), the United Kingdom or Switzerland, The UK Trade Desk Ltd.",
+      "is responsible for processing your personal data.",
+      "Under the definitions of “Controller” and “Processor” in EU law, this processing is in some cases as a Controller of personal data and in some cases as a Processor.",
+      "The Trade Desk is a Controller, for example, of personalised user interest segments that we create for our Platform, when we have appropriate permissions to do so.",
+      "When we collect personal data for personalisation from requests for ads that we receive as described above, under EU law, we will use consent as our legal basis for doing so.",
+      "When we create identifiers for interests for groups, we use consent or legitimate interest as our legal basis.",
+      "This depends on how we collect the personal data.",
+      "We process personal data for other purposes when we have a legitimate interest in doing so and that interest is not outweighed by the rights or freedoms of individual data subjects.",
+      "CHANGES TO OUR POLICIES We may revise this policy at any time, and we will indicate revisions by updating the date at the top of this policy and providing notice through our websites or services.",
+      "CONTACT US To exercise applicable privacy rights, please follow the instructions described in the Your Rights and Choices section above.",
+      "For general questions regarding our privacy practices, you may contact us either by regular mail or email as follows: Mail : The Trade Desk, Global Privacy Office Attention: Global Data Protection Officer (DPO) 42 N.",
+      "Ventura, CA 93001 Email : « dpo ((at)) thetradedesk ((dot)) com » «End of Policy»"
+    ],
+    "policy_date": "March 13, 2026",
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "This page is about the privacy practices on our Trade Desk Platform and the data, including personal data or personal information (“personal data”) it uses for delivering advertising. If you are interested in our corporate and website privacy policy, click here . If you are looking for information about UID2 services, visit the",
+        "sentences": [
+          "This page is about the privacy practices on our Trade Desk Platform and the data, including personal data or personal information (“personal data”) it uses for delivering advertising.",
+          "If you are interested in our corporate and website privacy policy, click here .",
+          "If you are looking for information about UID2 services, visit the"
+        ],
+        "sentence_count": 3
+      },
+      {
+        "heading": "UID2 Administrator Privacy Policy,",
+        "text": "and for information about EUID services, visit the",
+        "sentences": [
+          "and for information about EUID services, visit the"
+        ],
+        "sentence_count": 1
+      },
+      {
+        "heading": "EUID Privacy Notice",
+        "text": ". If you reside in the People’s Republic of China, click here for the China privacy policy. Last updated: March 13, 2026",
+        "sentences": [
+          "If you reside in the People’s Republic of China, click here for the China privacy policy."
+        ],
+        "sentence_count": 1
+      },
+      {
+        "heading": "YOUR RIGHTS AND CHOICES",
+        "text": "EUROPEAN UNION CONTROLLER/PROCESSOR DESIGNATION AND LEGAL BASES",
+        "sentences": [
+          "EUROPEAN UNION CONTROLLER/PROCESSOR DESIGNATION AND LEGAL BASES"
+        ],
+        "sentence_count": 1
+      },
+      {
+        "heading": "Overview",
+        "text": "The Trade Desk offers what is known in the industry as a Demand Side Platform (“DSP” or “Platform”). We provide technology that helps advertisers and their advertising agencies manage digital advertising campaigns across many channels, such as websites, apps, audio, smart TVs, and other video. The advertising campaigns run by our clients help pay for the content you enjoy. We, and our clients, collect and use data both to help ensure that the ads you see are relevant and to measure and report on their effectiveness. Our Platform uses data to produce a mapping of devices that might be related to each other, meaning that they might be used by the same person or by people within the same household. This helps advertisers better target and measure their campaigns, as well as limiting the number of times the same person or household sees an ad. Our references to our Platform in this policy only refer to the Trade Desk’s own advertising technology platform and do not include the technology or systems of clients or partners that use or integrate with us. Clients and partners are bound by our policies when they use our Platform. The Trade Desk is a member in good standing of the",
+        "sentences": [
+          "The Trade Desk offers what is known in the industry as a Demand Side Platform (“DSP” or “Platform”).",
+          "We provide technology that helps advertisers and their advertising agencies manage digital advertising campaigns across many channels, such as websites, apps, audio, smart TVs, and other video.",
+          "The advertising campaigns run by our clients help pay for the content you enjoy.",
+          "We, and our clients, collect and use data both to help ensure that the ads you see are relevant and to measure and report on their effectiveness.",
+          "Our Platform uses data to produce a mapping of devices that might be related to each other, meaning that they might be used by the same person or by people within the same household.",
+          "This helps advertisers better target and measure their campaigns, as well as limiting the number of times the same person or household sees an ad.",
+          "Our references to our Platform in this policy only refer to the Trade Desk’s own advertising technology platform and do not include the technology or systems of clients or partners that use or integrate with us.",
+          "Clients and partners are bound by our policies when they use our Platform.",
+          "The Trade Desk is a member in good standing of the"
+        ],
+        "sentence_count": 9
+      },
+      {
+        "heading": "Network Advertising Initiative",
+        "text": "(NAI). The Trade Desk also follows the industry self-regulatory guidelines of the",
+        "sentences": [
+          "The Trade Desk also follows the industry self-regulatory guidelines of the"
+        ],
+        "sentence_count": 1
+      },
+      {
+        "heading": "Digital Advertising Alliance",
+        "text": ", the",
+        "sentences": [],
+        "sentence_count": 0
+      },
+      {
+        "heading": "Digital Advertising Alliance of Canada",
+        "text": ", and the",
+        "sentences": [],
+        "sentence_count": 0
+      },
+      {
+        "heading": "European Digital Advertising Alliance",
+        "text": ". The Trade Desk also implements and adheres to the specifications and policies of the IAB EU Transparency & Consent Framework as part of our compliance with EU data protection law. The Trade Desk’s identification number within the Framework is 21. See https://​iabeu​rope​.eu/​t​r​a​n​s​p​a​r​e​n​c​y​-​c​o​n​s​e​n​t​-​f​r​a​m​e​work/ for more information. If you want to go directly to our",
+        "sentences": [
+          "The Trade Desk also implements and adheres to the specifications and policies of the IAB EU Transparency & Consent Framework as part of our compliance with EU data protection law.",
+          "The Trade Desk’s identification number within the Framework is 21.",
+          "See https://​iabeu​rope​.eu/​t​r​a​n​s​p​a​r​e​n​c​y​-​c​o​n​s​e​n​t​-​f​r​a​m​e​work/ for more information.",
+          "If you want to go directly to our"
+        ],
+        "sentence_count": 4
+      },
+      {
+        "heading": "Opt Out",
+        "text": ", please visit https://​adsrvr​.org/ .",
+        "sentences": [
+          ", please visit https://​adsrvr​.org/ ."
+        ],
+        "sentence_count": 1
+      },
+      {
+        "heading": "At A Glance",
+        "text": "Read below for a quick overview. See below for detailed information.",
+        "sentences": [
+          "Read below for a quick overview.",
+          "See below for detailed information."
+        ],
+        "sentence_count": 2
+      },
+      {
+        "heading": "Who we are",
+        "text": "Global HQ: The Trade Desk, Inc. 42 N. Chestnut St Ventura, CA 93001 USA EEA and Switzerland: The UK Trade Desk Ltd. 10 th Floor, 1 Bartholomew Close London EC1A 7BL United Kingdom",
+        "sentences": [
+          "Global HQ: The Trade Desk, Inc.",
+          "Chestnut St Ventura, CA 93001 USA EEA and Switzerland: The UK Trade Desk Ltd.",
+          "10 th Floor, 1 Bartholomew Close London EC1A 7BL United Kingdom"
+        ],
+        "sentence_count": 3
+      },
+      {
+        "heading": "What we do",
+        "text": "Advertising technology platform for managing digital advertising campaigns.",
+        "sentences": [
+          "Advertising technology platform for managing digital advertising campaigns."
+        ],
+        "sentence_count": 1
+      },
+      {
+        "heading": "Pseudonymous data such as",
+        "text": "unique cookie and device identifiers mobile device advertising identifiers Pseudonymous identifiers derived from email address or phone numbers, or device and connection information IP addresses web browsing history from advertising impressions we see interest information inferred by us from web browsing history interest information stored and/​or used on the Platform by clients and partners location information browser and device type, version and settings hashed email addresses, phone numbers and other identifying information (or information derived from such)",
+        "sentences": [
+          "unique cookie and device identifiers mobile device advertising identifiers Pseudonymous identifiers derived from email address or phone numbers, or device and connection information IP addresses web browsing history from advertising impressions we see interest information inferred by us from web browsing history interest information stored and/​or used on the Platform by clients and partners location information browser and device type, version and settings hashed email addresses, phone numbers and other identifying information (or information derived from such)"
+        ],
+        "sentence_count": 1
+      },
+      {
+        "heading": "Some of the ways the Platform collects data include",
+        "text": "from partners sending us requests for ads on websites, mobile applications, smart televisions, video devices, and other media using cookies and pixels from clients and partners uploading data to our platform from clients and partners using our technology to collect data through the delivery of advertising",
+        "sentences": [
+          "from partners sending us requests for ads on websites, mobile applications, smart televisions, video devices, and other media using cookies and pixels from clients and partners uploading data to our platform from clients and partners using our technology to collect data through the delivery of advertising"
+        ],
+        "sentence_count": 1
+      },
+      {
+        "heading": "The purposes for which the Platform processes data",
+        "text": "The Platform processes data both on our behalf and on behalf of clients and partners for advertising purposes such as: personalizing ads delivering ads limiting the number of times you see an ad measuring effectiveness of ads reporting on ad campaigns maintaining ad transaction records attributing purchases or other actions to ads associating devices that might be related to each other preventing malicious or invalid activity improving our Platform and the services we offer",
+        "sentences": [
+          "The Platform processes data both on our behalf and on behalf of clients and partners for advertising purposes such as: personalizing ads delivering ads limiting the number of times you see an ad measuring effectiveness of ads reporting on ad campaigns maintaining ad transaction records attributing purchases or other actions to ads associating devices that might be related to each other preventing malicious or invalid activity improving our Platform and the services we offer"
+        ],
+        "sentence_count": 1
+      },
+      {
+        "heading": "We disclose data to other parties such as",
+        "text": "clients and partners to help improve the effectiveness of their, and their clients’ advertising service providers who perform certain services on our behalf if we think it is required by law In addition, much of the data collected on the Platform belongs to our clients and partners. We may transfer data from the country of origin to the US or other countries. We do so under a valid legal framework. We may also disclose personal data in response to lawful requests from public authorities, including to meet security or law enforcement requirements.",
+        "sentences": [
+          "clients and partners to help improve the effectiveness of their, and their clients’ advertising service providers who perform certain services on our behalf if we think it is required by law In addition, much of the data collected on the Platform belongs to our clients and partners.",
+          "We may transfer data from the country of origin to the US or other countries.",
+          "We do so under a valid legal framework.",
+          "We may also disclose personal data in response to lawful requests from public authorities, including to meet security or law enforcement requirements."
+        ],
+        "sentence_count": 4
+      },
+      {
+        "heading": "Security and Data Retention",
+        "text": "We maintain generally accepted security methods to protect data on the Platform. We retain pseudonymous data up to 18 months before we aggregate it or remove pseudonymous identifers.",
+        "sentences": [
+          "We maintain generally accepted security methods to protect data on the Platform.",
+          "We retain pseudonymous data up to 18 months before we aggregate it or remove pseudonymous identifers."
+        ],
+        "sentence_count": 2
+      },
+      {
+        "heading": "Your rights and choices",
+        "text": "You have rights and choices with respect to the personal data on the Platform. More detailed information is available below.",
+        "sentences": [
+          "You have rights and choices with respect to the personal data on the Platform.",
+          "More detailed information is available below."
+        ],
+        "sentence_count": 2
+      },
+      {
+        "heading": "Full Privacy Policy",
+        "text": "Below, we explain in detail the type of data we collect, how we collect it, how we use it, and how we disclose it, as well as the choices available to you. If, after reading this policy, you still have questions, please feel free to contact us.",
+        "sentences": [
+          "Below, we explain in detail the type of data we collect, how we collect it, how we use it, and how we disclose it, as well as the choices available to you.",
+          "If, after reading this policy, you still have questions, please feel free to contact us."
+        ],
+        "sentence_count": 2
+      },
+      {
+        "heading": "THE PLATFORM",
+        "text": "The Platform allows advertisers and advertising agencies to manage digital advertising campaigns. We operate as a Demand Side Platform; this means we represent the demand side of the digital advertising marketplace, in which advertisers and agencies with ads to display are the “demand” and publishers with space for such ads on web pages, apps, smart TVs and other digital properties are the “supply”. Digital advertising uses identifiers and associated data to make ads more effective and to measure their effectiveness. Without identifiers, our advertiser clients wouldn’t know, for example, if 100 ad views were the result of 100 different users that each saw an ad, or if one user saw the same ad 100 times. This information is crucial to advertisers. Without information like this, advertisers would pay publishers much less, forcing publishers to either show more ads or make users pay for their content. Advertisers and their agencies collect and use data on the Platform in different ways. They may bring their own data to the Platform, collect data using the Platform, or remove their data from the Platform.",
+        "sentences": [
+          "The Platform allows advertisers and advertising agencies to manage digital advertising campaigns.",
+          "We operate as a Demand Side Platform; this means we represent the demand side of the digital advertising marketplace, in which advertisers and agencies with ads to display are the “demand” and publishers with space for such ads on web pages, apps, smart TVs and other digital properties are the “supply”.",
+          "Digital advertising uses identifiers and associated data to make ads more effective and to measure their effectiveness.",
+          "Without identifiers, our advertiser clients wouldn’t know, for example, if 100 ad views were the result of 100 different users that each saw an ad, or if one user saw the same ad 100 times.",
+          "This information is crucial to advertisers.",
+          "Without information like this, advertisers would pay publishers much less, forcing publishers to either show more ads or make users pay for their content.",
+          "Advertisers and their agencies collect and use data on the Platform in different ways.",
+          "They may bring their own data to the Platform, collect data using the Platform, or remove their data from the Platform."
+        ],
+        "sentence_count": 8
+      },
+      {
+        "heading": "THE DATA THE PLATFORM COLLECTS AND PROCESSES",
+        "text": "The Platform collects and processes pseudonymous data about users, households, devices, and ads and where they’re shown. This includes: unique cookie identifiers device advertising identifiers Pseudonymous identifiers derived from email address or phone numbers, or device and connection information IP addresses Interest and demographic information stored and/​or used on the Platform by clients and partners Interest and demographic information we create or infer other information about browsers and devices, such as type, version and settings location information based on IP address or other types of information that may include precise geolocation information (i.e., latitude/​longitude coordinates), if provided to us information about ads that are shown, such as which ads are shown to a device or user, where (which web page or app) they are shown, and at what time hashed email addresses and other identifying information (or information derived from such)",
+        "sentences": [
+          "The Platform collects and processes pseudonymous data about users, households, devices, and ads and where they’re shown.",
+          "This includes: unique cookie identifiers device advertising identifiers Pseudonymous identifiers derived from email address or phone numbers, or device and connection information IP addresses Interest and demographic information stored and/​or used on the Platform by clients and partners Interest and demographic information we create or infer other information about browsers and devices, such as type, version and settings location information based on IP address or other types of information that may include precise geolocation information (i.e., latitude/​longitude coordinates), if provided to us information about ads that are shown, such as which ads are shown to a device or user, where (which web page or app) they are shown, and at what time hashed email addresses and other identifying information (or information derived from such)"
+        ],
+        "sentence_count": 2
+      },
+      {
+        "heading": "HOW THE PLATFORM COLLECTS DATA",
+        "text": "The Platform receives data in several ways, including the following: Advertisers and agencies may bring or collect their own information to our Platform (for example, that they collect on their own websites through the use of Platform technology) that we then store and use on their behalf to enhance their advertising campaigns. Bid requests, which are sets of information that describe an ad space that is available to be filled. We get these requests from the “supply” side of the advertising ecosystem, meaning websites, apps, smart TVs, and others, as well as their agents. The requests contain information about the ad space, the device, and sometimes the user, including location information. They also usually have an ID (or IDs) that enables us to match the request with information we may already have. Third-party suppliers of information used to target, optimize or measure advertising campaigns. Purveyors of connected TV devices and apps can send us information about the video content viewed on the device or app. Pixels and cookies, which allow us to recognize web browsers across sites and over time, and therefore to record information about them over time. Mobile device IDs, which are made available through the device operating systems, like Apple’s iOS and Google’s Android, for purposes of allowing mobile apps and their advertising partners to recognize a device over time. We use these IDs in a similar way to the way we use cookies. Mobile SDKs are bits of code that some of our partners enable to be placed in mobile apps. This enables our partners to send us data about the mobile app and device in association with the mobile device ID. After an ad serves, our servers receive a network request from the device on which the ad was shown in order to confirm that the ad was delivered and provide information for us to measure the ad.",
+        "sentences": [
+          "The Platform receives data in several ways, including the following: Advertisers and agencies may bring or collect their own information to our Platform (for example, that they collect on their own websites through the use of Platform technology) that we then store and use on their behalf to enhance their advertising campaigns.",
+          "Bid requests, which are sets of information that describe an ad space that is available to be filled.",
+          "We get these requests from the “supply” side of the advertising ecosystem, meaning websites, apps, smart TVs, and others, as well as their agents.",
+          "The requests contain information about the ad space, the device, and sometimes the user, including location information.",
+          "They also usually have an ID (or IDs) that enables us to match the request with information we may already have.",
+          "Third-party suppliers of information used to target, optimize or measure advertising campaigns.",
+          "Purveyors of connected TV devices and apps can send us information about the video content viewed on the device or app.",
+          "Pixels and cookies, which allow us to recognize web browsers across sites and over time, and therefore to record information about them over time.",
+          "Mobile device IDs, which are made available through the device operating systems, like Apple’s iOS and Google’s Android, for purposes of allowing mobile apps and their advertising partners to recognize a device over time.",
+          "We use these IDs in a similar way to the way we use cookies.",
+          "Mobile SDKs are bits of code that some of our partners enable to be placed in mobile apps.",
+          "This enables our partners to send us data about the mobile app and device in association with the mobile device ID.",
+          "After an ad serves, our servers receive a network request from the device on which the ad was shown in order to confirm that the ad was delivered and provide information for us to measure the ad."
+        ],
+        "sentence_count": 13
+      },
+      {
+        "heading": "COOKIES",
+        "text": "Cookies help us by enabling our ability to distinguish between, recognize, and store data about unique web browsers and devices, and to store data on our servers for the advertising purposes described here. Our cookie domain is adsrvr​.org. The Trade Desk ID (TDID) is used to recognize web-browser profiles over time across sites. The TDID has a lifespan of 1 year from the time you last received an ad powered by Platform. This lifespan may be updated each time your browser encounters our Platform. In order to be able to transmit requests for ads and other data about users or devices between sellers and buyers, and to help show you ads that match your likely interests, we engage in cookie syncing, meaning that we match our TDID to clients’ and partners’ cookie IDs. We also use a cookie to store a related opt-out choice, when users opt out of cookie based targeted advertising.",
+        "sentences": [
+          "Cookies help us by enabling our ability to distinguish between, recognize, and store data about unique web browsers and devices, and to store data on our servers for the advertising purposes described here.",
+          "Our cookie domain is adsrvr​.org.",
+          "The Trade Desk ID (TDID) is used to recognize web-browser profiles over time across sites.",
+          "The TDID has a lifespan of 1 year from the time you last received an ad powered by Platform.",
+          "This lifespan may be updated each time your browser encounters our Platform.",
+          "In order to be able to transmit requests for ads and other data about users or devices between sellers and buyers, and to help show you ads that match your likely interests, we engage in cookie syncing, meaning that we match our TDID to clients’ and partners’ cookie IDs.",
+          "We also use a cookie to store a related opt-out choice, when users opt out of cookie based targeted advertising."
+        ],
+        "sentence_count": 7
+      },
+      {
+        "heading": "THE PURPOSES FOR WHICH THE PLATFORM PROCESSES DATA",
+        "text": "The Platform processes data both on our own behalf and on behalf of clients and partners for purposes related to targeting, delivering, measuring and reporting on advertising. Personalizing ads: We use data to increase advertising relevancy and effectiveness. Ad delivery: We use data to enable the technical delivery of an ad and measure success of delivery. Frequency and other reporting: We use a pseudonymous identifier to keep track of how many times an ad was shown, as well as where and when. Measurement and analytics: We use an identifier to measure how well ads perform, such as whether users clicked on the ad or went to a client’s store after their ad campaign was shown. Reporting: We may use a pseudonymous identifier to measure, attribute, and report on the performance and success of campaigns. This includes transaction reporting and verification. Clicks and conversions: We may use a pseudonymous identifier to measure actions taken by a user with respect to a particular ad, i.e., a click on an ad, or a download of an app. Attribution: We may use data to match particular ad views to subsequent actions taken by a user. For example, a clothing advertiser might be able to see that someone who saw an ad for gloves subsequently purchased the gloves. This would be done by stitching together the identifiers from the sites where the ad was served and where the online purchase was made. Cross device graphing: We may use data and algorithms to associate pseudonymous identifiers that might be related to each other. Such a graph might link various identifiers present on a single device, various identifiers associated with an individual who has multiple devices or multiple device/​individuals within the same household. Detection of malicious or invalid activity: We process information in an attempt to prevent malicious activity or invalid ad traffic. This may include identifying and preventing purveyors of malware or bots that try to take advertising dollars for ads that aren’t shown to real users or that try to harm users’ devices.",
+        "sentences": [
+          "The Platform processes data both on our own behalf and on behalf of clients and partners for purposes related to targeting, delivering, measuring and reporting on advertising.",
+          "Personalizing ads: We use data to increase advertising relevancy and effectiveness.",
+          "Ad delivery: We use data to enable the technical delivery of an ad and measure success of delivery.",
+          "Frequency and other reporting: We use a pseudonymous identifier to keep track of how many times an ad was shown, as well as where and when.",
+          "Measurement and analytics: We use an identifier to measure how well ads perform, such as whether users clicked on the ad or went to a client’s store after their ad campaign was shown.",
+          "Reporting: We may use a pseudonymous identifier to measure, attribute, and report on the performance and success of campaigns.",
+          "This includes transaction reporting and verification.",
+          "Clicks and conversions: We may use a pseudonymous identifier to measure actions taken by a user with respect to a particular ad, i.e., a click on an ad, or a download of an app.",
+          "Attribution: We may use data to match particular ad views to subsequent actions taken by a user.",
+          "For example, a clothing advertiser might be able to see that someone who saw an ad for gloves subsequently purchased the gloves.",
+          "This would be done by stitching together the identifiers from the sites where the ad was served and where the online purchase was made.",
+          "Cross device graphing: We may use data and algorithms to associate pseudonymous identifiers that might be related to each other.",
+          "Such a graph might link various identifiers present on a single device, various identifiers associated with an individual who has multiple devices or multiple device/​individuals within the same household.",
+          "Detection of malicious or invalid activity: We process information in an attempt to prevent malicious activity or invalid ad traffic.",
+          "This may include identifying and preventing purveyors of malware or bots that try to take advertising dollars for ads that aren’t shown to real users or that try to harm users’ devices."
+        ],
+        "sentence_count": 15
+      },
+      {
+        "heading": "TARGETED ADVERTISING",
+        "text": "Our Platform helps power ad targeting and delivery across many sites and apps with which users interact every day. Some of the activities described in the section above, such as personalizing ads, ad delivery, and cross-device graphing may involve The Trade Desk and our clients and partners processing data for purposes of “targeted advertising,” or engaging “sales,” or “sharing” of personal data under certain state privacy laws. See Your Rights and Choices below to learn how to express a choice related to these activities, or visit our opt-out page .",
+        "sentences": [
+          "Our Platform helps power ad targeting and delivery across many sites and apps with which users interact every day.",
+          "Some of the activities described in the section above, such as personalizing ads, ad delivery, and cross-device graphing may involve The Trade Desk and our clients and partners processing data for purposes of “targeted advertising,” or engaging “sales,” or “sharing” of personal data under certain state privacy laws.",
+          "See Your Rights and Choices below to learn how to express a choice related to these activities, or visit our opt-out page ."
+        ],
+        "sentence_count": 3
+      },
+      {
+        "heading": "PERSONALISATION AND INTERESTS",
+        "text": "Personalised profiles. As part of our Platform, we may create and use user profiles associated with pseudonymous identifiers. This means that we look at the information associated with the IDs and with the requests for ads, such as the content in which the ad is shown, the time, the geographic location, and the type of device. Sometimes we use information about whether or how users responded to ads to find other users who would respond to ads. We apply various computational methods on this information to find groupings of IDs that may have certain common interests or characteristics, such as “clothing,” “sports,” “travel,” “male,” “25−54,” and so on. Our Platform also enables data suppliers to bring data to the Platform that our clients can use on the Platform to improve their ad campaigns. Clients can bring their own data to the Platform for their own personalisation. Their sources and methods for acquiring this data vary and are subject to our clients’ own policies and legal obligations. We contractually prohibit certain types of data from being introduced onto the Platform, such as certain sensitive data. Our contracts prohibit clients and partners from using data on the Platform that is from or about users that they know are children. Interests for groups. We also create and use information that allows advertisers to understand what will be of interest to a group. We create a group of IP addresses in the same region of a country. We note what content we think is likely to be of interest to that group (as above, such as “clothing”, “sports” etc.) based on the sites users in those groups have visited. Advertisers may use this information to decide to show an ad to one of the IP addresses for the group. Identifiers for the group do not contain any personal data: the information only shows the types of content likely to be of interest to the group; we don’t create any individual profiles through this interest grouping mechanism. We keep these interests for groups segments for seven days.",
+        "sentences": [
+          "As part of our Platform, we may create and use user profiles associated with pseudonymous identifiers.",
+          "This means that we look at the information associated with the IDs and with the requests for ads, such as the content in which the ad is shown, the time, the geographic location, and the type of device.",
+          "Sometimes we use information about whether or how users responded to ads to find other users who would respond to ads.",
+          "We apply various computational methods on this information to find groupings of IDs that may have certain common interests or characteristics, such as “clothing,” “sports,” “travel,” “male,” “25−54,” and so on.",
+          "Our Platform also enables data suppliers to bring data to the Platform that our clients can use on the Platform to improve their ad campaigns.",
+          "Clients can bring their own data to the Platform for their own personalisation.",
+          "Their sources and methods for acquiring this data vary and are subject to our clients’ own policies and legal obligations.",
+          "We contractually prohibit certain types of data from being introduced onto the Platform, such as certain sensitive data.",
+          "Our contracts prohibit clients and partners from using data on the Platform that is from or about users that they know are children.",
+          "We also create and use information that allows advertisers to understand what will be of interest to a group.",
+          "We create a group of IP addresses in the same region of a country.",
+          "We note what content we think is likely to be of interest to that group (as above, such as “clothing”, “sports” etc.) based on the sites users in those groups have visited.",
+          "Advertisers may use this information to decide to show an ad to one of the IP addresses for the group.",
+          "Identifiers for the group do not contain any personal data: the information only shows the types of content likely to be of interest to the group; we don’t create any individual profiles through this interest grouping mechanism.",
+          "We keep these interests for groups segments for seven days."
+        ],
+        "sentence_count": 15
+      },
+      {
+        "heading": "DISCLOSURE AND TRANSFER",
+        "text": "We will disclose your information with third parties only in the ways that are described in this policy. Some of the personal data processed on the Platform belongs to our clients. When this is the case, our clients can take this data, such as records of advertising impressions, off of the Platform. We also may disclose this personal data to other parties on the clients’ behalf and pursuant to their instructions. We disclose mappings of pseudonymous IDs with clients and partners that use our device graphs. We disclose cookie values to other advertising technology platforms so that they may match their value to our value. Some of our clients and partners receive bid request data through the Platform for advertising purposes. We may disclose personal data in order to investigate or prevent reasonably suspected malicious activity, fake traffic, or other activity that may be harmful to us or our clients. We may disclose personal data to our service providers that store or process the personal data in furtherance of the services we offer on the Platform on our behalf. We may transfer personal data to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change. We may disclose aggregated data that does not include individual-level records to any party or publicly. We may disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.",
+        "sentences": [
+          "We will disclose your information with third parties only in the ways that are described in this policy.",
+          "Some of the personal data processed on the Platform belongs to our clients.",
+          "When this is the case, our clients can take this data, such as records of advertising impressions, off of the Platform.",
+          "We also may disclose this personal data to other parties on the clients’ behalf and pursuant to their instructions.",
+          "We disclose mappings of pseudonymous IDs with clients and partners that use our device graphs.",
+          "We disclose cookie values to other advertising technology platforms so that they may match their value to our value.",
+          "Some of our clients and partners receive bid request data through the Platform for advertising purposes.",
+          "We may disclose personal data in order to investigate or prevent reasonably suspected malicious activity, fake traffic, or other activity that may be harmful to us or our clients.",
+          "We may disclose personal data to our service providers that store or process the personal data in furtherance of the services we offer on the Platform on our behalf.",
+          "We may transfer personal data to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change.",
+          "We may disclose aggregated data that does not include individual-level records to any party or publicly.",
+          "We may disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements."
+        ],
+        "sentence_count": 12
+      },
+      {
+        "heading": "We transfer data to the US under valid transfer mechanisms",
+        "text": "TTD has certified its participation in the EU‑U.S. and Swiss‑U.S. Data Privacy Frameworks (DPF) and the UK Extension to the EU‑U.S. DPF as set forth by the U.S. Department of Commerce, and is committed to adhering to DPF principles with regard to the processing of personal data received from the EU in reliance on the EU‑U.S. DPF and from the United Kingdom (and Gibraltar) under the UK Extension to the EU‑U.S. DPF. TTD is committed to adhering to Swiss‑U.S. Data Privacy Framework Principles (Swiss‑U.S. DPF Principles) with regard to the processing of personal data received from Switzerland under the Swiss‑U.S. DPF. TTD is responsible for ensuring that onward transfers to third parties acting as an agent on its behalf are in accordance with the EU‑U.S. DPF, the UK Extension to the EU‑U.S. DPF and the Swiss‑U.S. DPF, including the onward transfer liability provisions. To learn more about the DPF program, and to view our certification, please visit https://​www​.dat​apri​va​cyframe​work​.gov/ . If deemed necessary under applicable data protection legislation, the standard contractual clauses for data transfers, as approved by the European Commission Implementing Decision (EU) 2021/914 of 4 June 2021 for the transfer of Personal Data to third countries. If there is any conflict between the terms in this policy and such mechanisms, the terms of the transfer mechanism shall govern. In compliance with the EU‑U.S. DPF and the UK Extension to the EU‑U.S. DPF and the Swiss‑U.S. DPF, TTD commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU‑U.S. DPF and the UK Extension to the EU‑U.S. DPF and the Swiss‑U.S. DPF submitted to TRUSTe, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit https://​feed​back​-form​.trustarc​.com/​w​a​t​c​h​d​o​g​/​r​e​quest for more information or to file a complaint. The services of TRUSTe are provided at no cost to you. For complaints regarding EU‑U.S. DPF, the UK Extension to the EU‑U.S. DPF, and the Swiss‑U.S. DPF compliance not resolved by any of the other DPF mechanisms, you have the possibility, under certain conditions, to invoke binding arbitration. Further information can be found on the official DPF website: https://​www​.dat​apri​va​cyframe​work​.gov/​s​/​a​r​t​i​c​l​e​/​A​N​N​E​X​-​I​-​i​n​t​r​o​d​u​c​t​i​o​n​-​d​p​f​?​t​a​b​s​e​t​-​3​5​584=2 . The Federal Trade Commission has jurisdiction over TTD’s compliance with the EU‑U.S. DPF, the UK Extension to the EU‑U.S. DPF and the Swiss‑U.S. DPF. The Trade Desk participates in the APEC Cross Border Privacy Rules System. The APEC CBPR system provides a framework for organizations to adhere to for the protection of personal information transferred among participating APEC economies. More information about the APEC framework can be found here: https://​www​.cbprs​.org .",
+        "sentences": [
+          "TTD has certified its participation in the EU‑U.S.",
+          "Data Privacy Frameworks (DPF) and the UK Extension to the EU‑U.S.",
+          "Department of Commerce, and is committed to adhering to DPF principles with regard to the processing of personal data received from the EU in reliance on the EU‑U.S.",
+          "DPF and from the United Kingdom (and Gibraltar) under the UK Extension to the EU‑U.S.",
+          "TTD is committed to adhering to Swiss‑U.S.",
+          "Data Privacy Framework Principles (Swiss‑U.S.",
+          "DPF Principles) with regard to the processing of personal data received from Switzerland under the Swiss‑U.S.",
+          "TTD is responsible for ensuring that onward transfers to third parties acting as an agent on its behalf are in accordance with the EU‑U.S.",
+          "DPF, the UK Extension to the EU‑U.S.",
+          "DPF, including the onward transfer liability provisions.",
+          "To learn more about the DPF program, and to view our certification, please visit https://​www​.dat​apri​va​cyframe​work​.gov/ .",
+          "If deemed necessary under applicable data protection legislation, the standard contractual clauses for data transfers, as approved by the European Commission Implementing Decision (EU) 2021/914 of 4 June 2021 for the transfer of Personal Data to third countries.",
+          "If there is any conflict between the terms in this policy and such mechanisms, the terms of the transfer mechanism shall govern.",
+          "DPF and the UK Extension to the EU‑U.S.",
+          "DPF, TTD commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU‑U.S.",
+          "DPF and the UK Extension to the EU‑U.S.",
+          "DPF submitted to TRUSTe, an alternative dispute resolution provider based in the United States.",
+          "If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit https://​feed​back​-form​.trustarc​.com/​w​a​t​c​h​d​o​g​/​r​e​quest for more information or to file a complaint.",
+          "The services of TRUSTe are provided at no cost to you.",
+          "For complaints regarding EU‑U.S.",
+          "DPF, the UK Extension to the EU‑U.S.",
+          "DPF compliance not resolved by any of the other DPF mechanisms, you have the possibility, under certain conditions, to invoke binding arbitration.",
+          "Further information can be found on the official DPF website: https://​www​.dat​apri​va​cyframe​work​.gov/​s​/​a​r​t​i​c​l​e​/​A​N​N​E​X​-​I​-​i​n​t​r​o​d​u​c​t​i​o​n​-​d​p​f​?​t​a​b​s​e​t​-​3​5​584=2 .",
+          "The Federal Trade Commission has jurisdiction over TTD’s compliance with the EU‑U.S.",
+          "DPF, the UK Extension to the EU‑U.S.",
+          "The Trade Desk participates in the APEC Cross Border Privacy Rules System.",
+          "The APEC CBPR system provides a framework for organizations to adhere to for the protection of personal information transferred among participating APEC economies.",
+          "More information about the APEC framework can be found here: https://​www​.cbprs​.org ."
+        ],
+        "sentence_count": 28
+      },
+      {
+        "heading": "SECURITY AND DATA RETENTION",
+        "text": "We retain the pseudonymous data that the Platform collects for up to 18 months. After 18 months (often sooner) the data is de-identified or aggregated and stored for up to 3 additional years. For interests for groups, we retain data for 7 days. This retention policy does not apply to client or partner data. We have implemented security measures, including physical, electronic and administrative safeguards, designed to prevent the unauthorized access to, loss, misuse, or alteration of the information that our Platform collects, but we make no assurances in this policy about our ability to prevent any such event or the possible harm to you or any third party that could arise from it.",
+        "sentences": [
+          "We retain the pseudonymous data that the Platform collects for up to 18 months.",
+          "After 18 months (often sooner) the data is de-identified or aggregated and stored for up to 3 additional years.",
+          "For interests for groups, we retain data for 7 days.",
+          "This retention policy does not apply to client or partner data.",
+          "We have implemented security measures, including physical, electronic and administrative safeguards, designed to prevent the unauthorized access to, loss, misuse, or alteration of the information that our Platform collects, but we make no assurances in this policy about our ability to prevent any such event or the possible harm to you or any third party that could arise from it."
+        ],
+        "sentence_count": 5
+      },
+      {
+        "heading": "YOUR RIGHTS AND CHOICES",
+        "text": "Privacy rights. Depending upon where you live, you may have certain legal rights with respect to personal data The Trade Desk collects and processes. These rights may include the right to request “access,” “deletion,” and “correction” of personal data, and the right to opt out of activities that constitute “sales,” “sharing,” and processing personal data for purposes of “targeted advertising,” as well as use of “sensitive data” for advertising purposes, as such terms are defined under applicable privacy laws. These rights may be limited, for example if fulfilling your request would reveal personal data about another person or infringe the rights of a third party (including our rights) or if you ask us to delete information that we are required by law to keep or have compelling legitimate interest in keeping. We will inform you of relevant exemptions we rely upon when responding to any request you make. We will not discriminate against you if you exercise your rights under applicable law. Opting out of sales, sharing and targeted advertising. As described in the Targeted Advertising section above, we process data to personalize and deliver ads, and for other ads-related purposes, including measurement reporting, and building our cross-device graph. Some of these activities may be considered “sales” or “sharing” of your personal information or using your information for purposes of “targeted advertising” under the law that applies to you. You may express a choice related to these activities including use of sensitive data for such purposes, by visiting https://​adsrvr​.org/ , or by enabling Global Privacy Control in your browser. Your devices like CTVs and mobile devices may offer choice signaling from the device’s operating system. Where we receive these signals, TTD will opt the user out of sales, sharing and targeted advertising. Access, Correction, and Deletion. If you reside in a state, country or region that provides individuals with the rights to access, correct, or delete your personal data, please fill out this webform to exercise your rights. We may take reasonable steps to confirm your identity. If we deny your request, you may appeal our decision by following the instructions provided in the denial email. Depending upon where you live, if you have concerns about the results of an appeal, you may contact the attorney general in the state where you reside. You will not be discriminated against for the exercise of such rights. For further information relevant to California residents, please click here .",
+        "sentences": [
+          "Depending upon where you live, you may have certain legal rights with respect to personal data The Trade Desk collects and processes.",
+          "These rights may include the right to request “access,” “deletion,” and “correction” of personal data, and the right to opt out of activities that constitute “sales,” “sharing,” and processing personal data for purposes of “targeted advertising,” as well as use of “sensitive data” for advertising purposes, as such terms are defined under applicable privacy laws.",
+          "These rights may be limited, for example if fulfilling your request would reveal personal data about another person or infringe the rights of a third party (including our rights) or if you ask us to delete information that we are required by law to keep or have compelling legitimate interest in keeping.",
+          "We will inform you of relevant exemptions we rely upon when responding to any request you make.",
+          "We will not discriminate against you if you exercise your rights under applicable law.",
+          "Opting out of sales, sharing and targeted advertising.",
+          "As described in the Targeted Advertising section above, we process data to personalize and deliver ads, and for other ads-related purposes, including measurement reporting, and building our cross-device graph.",
+          "Some of these activities may be considered “sales” or “sharing” of your personal information or using your information for purposes of “targeted advertising” under the law that applies to you.",
+          "You may express a choice related to these activities including use of sensitive data for such purposes, by visiting https://​adsrvr​.org/ , or by enabling Global Privacy Control in your browser.",
+          "Your devices like CTVs and mobile devices may offer choice signaling from the device’s operating system.",
+          "Where we receive these signals, TTD will opt the user out of sales, sharing and targeted advertising.",
+          "Access, Correction, and Deletion.",
+          "If you reside in a state, country or region that provides individuals with the rights to access, correct, or delete your personal data, please fill out this webform to exercise your rights.",
+          "We may take reasonable steps to confirm your identity.",
+          "If we deny your request, you may appeal our decision by following the instructions provided in the denial email.",
+          "Depending upon where you live, if you have concerns about the results of an appeal, you may contact the attorney general in the state where you reside.",
+          "You will not be discriminated against for the exercise of such rights.",
+          "For further information relevant to California residents, please click here ."
+        ],
+        "sentence_count": 18
+      },
+      {
+        "heading": "CALIFORNIA PRIVACY INFORMATION",
+        "text": "The California Consumer Privacy Act (“CCPA”) requires us to explain some information using definitions and categories set out under the CCPA. If you are a California resident, this section applies to you. Additional Disclosures. We collect, and in the preceding 12 months we have collected, the following categories of personal data: identifiers (such as cookie identifiers, mobile device advertising identifiers, pseudonymous identifiers derived from email address or phone numbers, IP address, or hashed email address), Internet or other electronic network activity information (such as information about sites you visit), geolocation data (which may include precise geolocation information), inferences we may make about your interests (such as the personalised profiles described above), and data that may reveal demographic information or inferences about gender, race, ethnicity, religion, health, or sex life or sexual orientation. For more information about the precise data points we collect and the sources of such collection, please see the Collection of Information and Personalisation and Interests sections above. We collect personal data for the business and commercial purposes described in the Use of Information section above. In the preceding 12 months, we have disclosed the following categories of personal information for business purposes to the following categories of recipients:",
+        "sentences": [
+          "The California Consumer Privacy Act (“CCPA”) requires us to explain some information using definitions and categories set out under the CCPA.",
+          "If you are a California resident, this section applies to you.",
+          "We collect, and in the preceding 12 months we have collected, the following categories of personal data: identifiers (such as cookie identifiers, mobile device advertising identifiers, pseudonymous identifiers derived from email address or phone numbers, IP address, or hashed email address), Internet or other electronic network activity information (such as information about sites you visit), geolocation data (which may include precise geolocation information), inferences we may make about your interests (such as the personalised profiles described above), and data that may reveal demographic information or inferences about gender, race, ethnicity, religion, health, or sex life or sexual orientation.",
+          "For more information about the precise data points we collect and the sources of such collection, please see the Collection of Information and Personalisation and Interests sections above.",
+          "We collect personal data for the business and commercial purposes described in the Use of Information section above.",
+          "In the preceding 12 months, we have disclosed the following categories of personal information for business purposes to the following categories of recipients:"
+        ],
+        "sentence_count": 6
+      },
+      {
+        "heading": "Category of Personal Data",
+        "text": "We collect…",
+        "sentences": [],
+        "sentence_count": 0
+      },
+      {
+        "heading": "Uses",
+        "text": "We use personal data to…",
+        "sentences": [],
+        "sentence_count": 0
+      },
+      {
+        "heading": "Recipients",
+        "text": "We may disclose personal data to…",
+        "sentences": [
+          "We may disclose personal data to…"
+        ],
+        "sentence_count": 1
+      },
+      {
+        "heading": "Identifiers",
+        "text": ", such IP addresses, unique cookie identifiers, mobile device advertising identifiers, interest information stored and/​or used on the platform by clients and partners, hashed email addresses and phone numbers",
+        "sentences": [
+          ", such IP addresses, unique cookie identifiers, mobile device advertising identifiers, interest information stored and/​or used on the platform by clients and partners, hashed email addresses and phone numbers"
+        ],
+        "sentence_count": 1
+      },
+      {
+        "heading": "Internet and Electronic Network Information",
+        "text": ", such as information about browsers and devices, such as type, version, and settings, information about ads that are shown, such as which ads are shown to a device or user, where (which device or app) they are shown, and at what time, information about your visits to our clients’ websites or other online services. Location information , including based on IP address or other types of information that may include precise geolocation information.",
+        "sentences": [
+          ", such as information about browsers and devices, such as type, version, and settings, information about ads that are shown, such as which ads are shown to a device or user, where (which device or app) they are shown, and at what time, information about your visits to our clients’ websites or other online services.",
+          "Location information , including based on IP address or other types of information that may include precise geolocation information."
+        ],
+        "sentence_count": 2
+      },
+      {
+        "heading": "Inferences",
+        "text": "we make based on other information, such as predictions about ad performance Demographic information , such inferences or information about your gender, race, religion, health, sex life or sexual orientation (some of which may constitute “sensitive” information under the CCPA). Provide our Services, including on our behalf and on behalf of clients and partners for purposes related to targeting, delivering, measuring, and reporting on advertising, including to technically deliver an ad and measure success of delivery. To measure and report ad performance , such as to technically deliver an ad and measure success of delivery, keep track of how many times an ad was shown, as well as where and when, measure how well ads perform, such as whether someone who saw an ad later made a purchase, attribute and report on the performance and success of campaigns Improve our Services , such as to increase advertising relevancy and effectiveness and predict ad performance and to associate devices that might be related to each other, such as devices used by the same person or in the same household. For safety anti-fraud purposes , such as to prevent malicious activity or invalid ad traffic. Our clients , where we hold or collect personal information on their behalf. We also share information with other parties at the direction of our clients. Our vendors , including with our service providers, contractors and consultants that access, store, or process data on our behalf.",
+        "sentences": [
+          "we make based on other information, such as predictions about ad performance Demographic information , such inferences or information about your gender, race, religion, health, sex life or sexual orientation (some of which may constitute “sensitive” information under the CCPA).",
+          "Provide our Services, including on our behalf and on behalf of clients and partners for purposes related to targeting, delivering, measuring, and reporting on advertising, including to technically deliver an ad and measure success of delivery.",
+          "To measure and report ad performance , such as to technically deliver an ad and measure success of delivery, keep track of how many times an ad was shown, as well as where and when, measure how well ads perform, such as whether someone who saw an ad later made a purchase, attribute and report on the performance and success of campaigns Improve our Services , such as to increase advertising relevancy and effectiveness and predict ad performance and to associate devices that might be related to each other, such as devices used by the same person or in the same household.",
+          "For safety anti-fraud purposes , such as to prevent malicious activity or invalid ad traffic.",
+          "Our clients , where we hold or collect personal information on their behalf.",
+          "We also share information with other parties at the direction of our clients.",
+          "Our vendors , including with our service providers, contractors and consultants that access, store, or process data on our behalf."
+        ],
+        "sentence_count": 7
+      },
+      {
+        "heading": "Other Parties",
+        "text": ", including parties that use our cross-device graph Protect safety and combat fraud , including to investigate or prevent reasonably suspected malicious activity and if we believe your actions are inconsistent with our user agreements or policies, that you have violated the law, or if we believe it is necessary to protect the rights, property, and safety of The Trade Desk, our users, the public, or others For business reasons , including in connection with, or during negotiations concerning, any merger, sale of company assets, financing, or acquisition of all or a portion of our business by another company and between and among the Trade Desk and our current and future parents, affiliates, and subsidiaries and other companies under common control and ownership. To legal authorities , if we believe that disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements. At your direction . The Trade Desk does not sell personal data related to individuals it knows to be minors under the age of sixteen (16).",
+        "sentences": [
+          ", including parties that use our cross-device graph Protect safety and combat fraud , including to investigate or prevent reasonably suspected malicious activity and if we believe your actions are inconsistent with our user agreements or policies, that you have violated the law, or if we believe it is necessary to protect the rights, property, and safety of The Trade Desk, our users, the public, or others For business reasons , including in connection with, or during negotiations concerning, any merger, sale of company assets, financing, or acquisition of all or a portion of our business by another company and between and among the Trade Desk and our current and future parents, affiliates, and subsidiaries and other companies under common control and ownership.",
+          "To legal authorities , if we believe that disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements.",
+          "The Trade Desk does not sell personal data related to individuals it knows to be minors under the age of sixteen (16)."
+        ],
+        "sentence_count": 3
+      },
+      {
+        "heading": "Privacy Rights",
+        "text": ". You have the right to opt out of any sharing or sales of your personal information, to limit use of sensitive personal information for advertising purposes, and to request access to and deletion or correction of your personal information. Please see the Your Rights and Choices section above for more information about your privacy rights and how to exercise them. If you exercise your rights, we may require you to provide evidence that the data relates to you (and only to you) and may deny your request if you cannot provide such information. You may also designate an authorized agent to make such requests on your behalf, as permitted under CCPA. If you do so, we will require the agent to provide proof that they are acting on your behalf, and we may ask you to verify your identity and to confirm that you provided the agent with permission to submit the request on your behalf. You will not be discriminated against for the exercise of such rights. Please note that if you wish to exercise any of your rights with the Trade Desk’s clients or partners, you must make your request directly with those clients and partners.",
+        "sentences": [
+          "You have the right to opt out of any sharing or sales of your personal information, to limit use of sensitive personal information for advertising purposes, and to request access to and deletion or correction of your personal information.",
+          "Please see the Your Rights and Choices section above for more information about your privacy rights and how to exercise them.",
+          "If you exercise your rights, we may require you to provide evidence that the data relates to you (and only to you) and may deny your request if you cannot provide such information.",
+          "You may also designate an authorized agent to make such requests on your behalf, as permitted under CCPA.",
+          "If you do so, we will require the agent to provide proof that they are acting on your behalf, and we may ask you to verify your identity and to confirm that you provided the agent with permission to submit the request on your behalf.",
+          "You will not be discriminated against for the exercise of such rights.",
+          "Please note that if you wish to exercise any of your rights with the Trade Desk’s clients or partners, you must make your request directly with those clients and partners."
+        ],
+        "sentence_count": 7
+      },
+      {
+        "heading": "Annual Data Requests",
+        "text": ". You can learn about the consumer data requests we received over the previous calendar year at this web page . EUROPEAN UNION CONTROLLER/PROCESSOR DESIGNATION AND LEGAL BASES If you are based in the European Economic Area (EEA), the United Kingdom or Switzerland, The UK Trade Desk Ltd. is responsible for processing your personal data. Under the definitions of “Controller” and “Processor” in EU law, this processing is in some cases as a Controller of personal data and in some cases as a Processor. The Trade Desk is a Controller, for example, of personalised user interest segments that we create for our Platform, when we have appropriate permissions to do so. When we collect personal data for personalisation from requests for ads that we receive as described above, under EU law, we will use consent as our legal basis for doing so. When we create identifiers for interests for groups, we use consent or legitimate interest as our legal basis. This depends on how we collect the personal data. We process personal data for other purposes when we have a legitimate interest in doing so and that interest is not outweighed by the rights or freedoms of individual data subjects.",
+        "sentences": [
+          "You can learn about the consumer data requests we received over the previous calendar year at this web page .",
+          "EUROPEAN UNION CONTROLLER/PROCESSOR DESIGNATION AND LEGAL BASES If you are based in the European Economic Area (EEA), the United Kingdom or Switzerland, The UK Trade Desk Ltd.",
+          "is responsible for processing your personal data.",
+          "Under the definitions of “Controller” and “Processor” in EU law, this processing is in some cases as a Controller of personal data and in some cases as a Processor.",
+          "The Trade Desk is a Controller, for example, of personalised user interest segments that we create for our Platform, when we have appropriate permissions to do so.",
+          "When we collect personal data for personalisation from requests for ads that we receive as described above, under EU law, we will use consent as our legal basis for doing so.",
+          "When we create identifiers for interests for groups, we use consent or legitimate interest as our legal basis.",
+          "This depends on how we collect the personal data.",
+          "We process personal data for other purposes when we have a legitimate interest in doing so and that interest is not outweighed by the rights or freedoms of individual data subjects."
+        ],
+        "sentence_count": 9
+      },
+      {
+        "heading": "CHANGES TO OUR POLICIES",
+        "text": "We may revise this policy at any time, and we will indicate revisions by updating the date at the top of this policy and providing notice through our websites or services.",
+        "sentences": [
+          "We may revise this policy at any time, and we will indicate revisions by updating the date at the top of this policy and providing notice through our websites or services."
+        ],
+        "sentence_count": 1
+      },
+      {
+        "heading": "CONTACT US",
+        "text": "To exercise applicable privacy rights, please follow the instructions described in the Your Rights and Choices section above. For general questions regarding our privacy practices, you may contact us either by regular mail or email as follows:",
+        "sentences": [
+          "To exercise applicable privacy rights, please follow the instructions described in the Your Rights and Choices section above.",
+          "For general questions regarding our privacy practices, you may contact us either by regular mail or email as follows:"
+        ],
+        "sentence_count": 2
+      },
+      {
+        "heading": "Mail",
+        "text": ": The Trade Desk, Global Privacy Office",
+        "sentences": [
+          ": The Trade Desk, Global Privacy Office"
+        ],
+        "sentence_count": 1
+      },
+      {
+        "heading": "N. Chestnut St.",
+        "text": "Ventura, CA 93001",
+        "sentences": [],
+        "sentence_count": 0
+      },
+      {
+        "heading": "Email",
+        "text": ": « dpo ((at)) thetradedesk ((dot)) com » «End of Policy»",
+        "sentences": [
+          ": « dpo ((at)) thetradedesk ((dot)) com » «End of Policy»"
+        ],
+        "sentence_count": 1
+      }
+    ],
+    "section_count": 46,
+    "section_headings": [
+      "Introduction",
+      "UID2 Administrator Privacy Policy,",
+      "EUID Privacy Notice",
+      "YOUR RIGHTS AND CHOICES",
+      "Overview",
+      "Network Advertising Initiative",
+      "Digital Advertising Alliance",
+      "Digital Advertising Alliance of Canada",
+      "European Digital Advertising Alliance",
+      "Opt Out",
+      "At A Glance",
+      "Who we are",
+      "What we do",
+      "Pseudonymous data such as",
+      "Some of the ways the Platform collects data include",
+      "The purposes for which the Platform processes data",
+      "We disclose data to other parties such as",
+      "Security and Data Retention",
+      "Your rights and choices",
+      "Full Privacy Policy",
+      "THE PLATFORM",
+      "THE DATA THE PLATFORM COLLECTS AND PROCESSES",
+      "HOW THE PLATFORM COLLECTS DATA",
+      "COOKIES",
+      "THE PURPOSES FOR WHICH THE PLATFORM PROCESSES DATA",
+      "TARGETED ADVERTISING",
+      "PERSONALISATION AND INTERESTS",
+      "DISCLOSURE AND TRANSFER",
+      "We transfer data to the US under valid transfer mechanisms",
+      "SECURITY AND DATA RETENTION",
+      "YOUR RIGHTS AND CHOICES",
+      "CALIFORNIA PRIVACY INFORMATION",
+      "Category of Personal Data",
+      "Uses",
+      "Recipients",
+      "Identifiers",
+      "Internet and Electronic Network Information",
+      "Inferences",
+      "Other Parties",
+      "Privacy Rights",
+      "Annual Data Requests",
+      "CHANGES TO OUR POLICIES",
+      "CONTACT US",
+      "Mail",
+      "N. Chestnut St.",
+      "Email"
+    ],
+    "readability": {
+      "grade_level": 12.5,
+      "reading_ease": 40.6,
+      "word_count": 5042,
+      "description": "College level — challenging for average user"
+    },
+    "data_categories": {
+      "Location": {
+        "keyword_hits": 26,
+        "matched_keywords": [
+          "location",
+          "geolocation",
+          "latitude",
+          "longitude",
+          "ip address",
+          "geographic",
+          "region"
+        ],
+        "example_sentences": [
+          "The data our Platform collects and processes: Pseudonymous data such as: unique cookie and device identifiers mobile device advertising identifiers Pseudonymous identifiers derived from email address or phone numbers, or",
+          "This includes: unique cookie identifiers device advertising identifiers Pseudonymous identifiers derived from email address or phone numbers, or device and connection information IP addresses Interest and demographic inf"
+        ]
+      },
+      "Financial": {
+        "keyword_hits": 2,
+        "matched_keywords": [
+          "transaction"
+        ],
+        "example_sentences": [
+          "The data our Platform collects and processes: Pseudonymous data such as: unique cookie and device identifiers mobile device advertising identifiers Pseudonymous identifiers derived from email address or phone numbers, or"
+        ]
+      },
+      "Browsing & Device": {
+        "keyword_hits": 11,
+        "matched_keywords": [
+          "cookies",
+          "browsing history",
+          "device identifier",
+          "operating system"
+        ],
+        "example_sentences": [
+          "Last updated: March 13, 2026 OVERVIEW AT A GLANCE FULL PRIVACY POLICY THE PLATFORM THE DATA THE PLATFORM COLLECTS AND PROCESSES HOW THE PLATFORM COLLECTS DATA COOKIES THE PURPOSES FOR WHICH THE PLATFORM PROCESSES DATA TA",
+          "The data our Platform collects and processes: Pseudonymous data such as: unique cookie and device identifiers mobile device advertising identifiers Pseudonymous identifiers derived from email address or phone numbers, or"
+        ]
+      },
+      "Contact & Identity": {
+        "keyword_hits": 12,
+        "matched_keywords": [
+          "email address",
+          "phone number"
+        ],
+        "example_sentences": [
+          "The data our Platform collects and processes: Pseudonymous data such as: unique cookie and device identifiers mobile device advertising identifiers Pseudonymous identifiers derived from email address or phone numbers, or",
+          "The data our Platform collects and processes: Pseudonymous data such as: unique cookie and device identifiers mobile device advertising identifiers Pseudonymous identifiers derived from email address or phone numbers, or"
+        ]
+      },
+      "Behavioral & Inferred": {
+        "keyword_hits": 22,
+        "matched_keywords": [
+          "interests",
+          "inferences",
+          "profile",
+          "segments",
+          "characteristics"
+        ],
+        "example_sentences": [
+          "Last updated: March 13, 2026 OVERVIEW AT A GLANCE FULL PRIVACY POLICY THE PLATFORM THE DATA THE PLATFORM COLLECTS AND PROCESSES HOW THE PLATFORM COLLECTS DATA COOKIES THE PURPOSES FOR WHICH THE PLATFORM PROCESSES DATA TA",
+          "We collect, and in the preceding 12 months we have collected, the following categories of personal data: identifiers (such as cookie identifiers, mobile device advertising identifiers, pseudonymous identifiers derived fr"
+        ]
+      }
+    },
+    "consent_model": {
+      "model": "Primarily Opt-Out",
+      "opt_in_phrase_count": 0,
+      "opt_out_phrase_count": 3,
+      "opt_in_examples": [],
+      "opt_out_examples": [
+        "If you want to go directly to our Opt Out , please visit https://​adsrvr​.org/ .",
+        "We also use a cookie to store a related opt-out choice, when users opt out of cookie based targeted advertising."
+      ]
+    },
+    "third_party_sharing": {
+      "detected": true,
+      "total_mentions": 10,
+      "examples": [
+        "We have implemented security measures, including physical, electronic and administrative safeguards, designed to prevent the unauthorized access to, loss, misuse, or alteration of the information that our Platform collec",
+        "Third-party suppliers of information used to target, optimize or measure advertising campaigns.",
+        "Mobile SDKs are bits of code that some of our partners enable to be placed in mobile apps."
+      ]
+    },
+    "retention_policy": {
+      "detected": true,
+      "total_mentions": 3,
+      "examples": [
+        "We retain pseudonymous data up to 18 months before we aggregate it or remove pseudonymous identifers."
+      ]
+    },
+    "sentence_count": 197,
+    "semantic_supply_chain": {
+      "entities": [
+        {
+          "third_party_name": "clients and partners",
+          "relationship_type": "buyer",
+          "data_categories_shared": [],
+          "stated_purpose": "to help improve the effectiveness of their, and their clients’ advertising",
+          "cross_border_transfer": null
+        },
+        {
+          "third_party_name": "service providers",
+          "relationship_type": "processor",
+          "data_categories_shared": [],
+          "stated_purpose": "perform certain services on our behalf",
+          "cross_border_transfer": null
+        },
+        {
+          "third_party_name": "Advertisers and their agencies",
+          "relationship_type": "buyer",
+          "data_categories_shared": [],
+          "stated_purpose": "enhance their advertising campaigns",
+          "cross_border_transfer": null
+        },
+        {
+          "third_party_name": "Websites, apps, smart TVs, and others, as well as their agents",
+          "relationship_type": "processor",
+          "data_categories_shared": [],
+          "stated_purpose": "provide bid requests describing ad space",
+          "cross_border_transfer": null
+        },
+        {
+          "third_party_name": "Third-party suppliers of information used to target, optimize or measure advertising campaigns",
+          "relationship_type": "buyer",
+          "data_categories_shared": [],
+          "stated_purpose": "target, optimize or measure advertising campaigns",
+          "cross_border_transfer": null
+        },
+        {
+          "third_party_name": "Purveyors of connected TV devices and apps",
+          "relationship_type": "processor",
+          "data_categories_shared": [],
+          "stated_purpose": "send us information about the video content viewed on the device or app",
+          "cross_border_transfer": null
+        },
+        {
+          "third_party_name": "clients",
+          "relationship_type": "buyer",
+          "data_categories_shared": [],
+          "stated_purpose": "Provide our Services, including on our behalf and on behalf of clients and partners for purposes related to targeting, delivering, measuring, and reporting on advertising, including to technically deliver an ad and measure success of delivery.",
+          "cross_border_transfer": null
+        },
+        {
+          "third_party_name": "partners",
+          "relationship_type": "buyer",
+          "data_categories_shared": [],
+          "stated_purpose": "Provide our Services, including on our behalf and on behalf of clients and partners for purposes related to targeting, delivering, measuring, and reporting on advertising, including to technically deliver an ad and measure success of delivery.",
+          "cross_border_transfer": null
+        }
+      ],
+      "_meta": {
+        "chunks_sent": 5,
+        "raw_entities": 9,
+        "merged_entities": 8
+      }
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "company": "Apple",
+  "category": "Big Tech",
+  "source_url": "https://www.apple.com/legal/privacy/en-ww/",
+  "data_source": "live",
+  "scraped_at": "2026-05-16T08:39:42Z",
+  "analysis": {
+    "full_text": "Apple’s websites, online services, interactive applications, and advertisements may use “cookies” and other technologies such as web beacons. These technologies help us to better understand user behavior including for security and fraud prevention purposes, tell us which parts of our websites people have visited, and facilitate and measure the effectiveness of advertisements and web searches. Communications Cookies. These cookies are used to enable network traffic to and from Apple’s systems, including by helping us detect any errors. Strictly Necessary Cookies. These cookies are set as required to provide a specific feature or service that you have accessed or requested. For example, they allow us to display our websites in the proper format and language, to authenticate and verify your transactions, and to preserve the contents of your Bag when shopping online at apple.com . Other Cookies. These cookies are used to understand how visitors interact with our websites and online services, including by helping us to assess the effectiveness of advertisements and web searches. Apple also uses these cookies to remember choices you make while browsing, so we can provide you with a customized experience. If you prefer that Apple not use cookies, we provide you with the means to disable their use. If you want to disable cookies and you’re using the Safari web browser, choose “Block all cookies” in Safari’s privacy settings. If you are using a different browser, check with your provider to find out how to disable cookies. Certain features of the Apple website may not be available if all cookies are disabled. In addition to cookies, Apple uses other technologies that help us achieve similar objectives. In some email messages Apple sends to you, we provide a “click-through URL” that links you to content on the Apple website. When you click one of these URLs, they pass through a separate server before arriving at the destination page on our website. We track this click-through to help us determine interest in particular topics and measure whether we are communicating with you effectively. If you prefer not to be tracked in this way, you should not click graphic or text links in email messages. Apple generally treats data we collect using these cookies and similar technologies as non-personal data. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal data by local law, we also treat these identifiers as personal data in those regions. In addition, Apple sometimes combines non-personal data collected from these technologies with other personal data Apple holds. When we combine data in this way, we treat the combined data as personal data for purposes of this Privacy Policy. Ads that are delivered by Apple’s advertising platform may appear on the App Store, Apple News, Stocks, and Apple TV app depending on your location. Apple’s advertising platform does not track you, meaning that it does not link user or device data collected from our apps with user or device data collected from third parties for targeted advertising or advertising measurement purposes, and does not share user or device data with data brokers. If you do not want to receive ads targeted to your interests from Apple's advertising platform in those apps, you can choose to disable Personalized Ads, which will opt your Apple Account out of receiving such ads regardless of what device you are using. On your iOS, iPadOS, or visionOS device, you can disable Personalized Ads by going to Settings > Privacy & Security > Apple Advertising and tapping to turn off Personalized Ads. On your Mac, you can disable Personalized Ads by going to System Settings > Privacy & Security > Privacy > Advertising, then deselecting Personalized Ads. You may still see ads in the App Store, Apple News, or Stocks based on context like your search query or the channel you are reading. If you disable Allow Apps to Request to Track, third-party apps cannot request to use the Advertising Identifier, a non-personal identifier served by the operating system on your device, to track you across apps and websites owned by other companies. For more information about Apple-delivered advertising and privacy, visit apple.com/legal/privacy/data/ww/apple-advertising .",
+    "sentences": [
+      "Apple’s websites, online services, interactive applications, and advertisements may use “cookies” and other technologies such as web beacons.",
+      "These technologies help us to better understand user behavior including for security and fraud prevention purposes, tell us which parts of our websites people have visited, and facilitate and measure the effectiveness of advertisements and web searches.",
+      "These cookies are used to enable network traffic to and from Apple’s systems, including by helping us detect any errors.",
+      "These cookies are set as required to provide a specific feature or service that you have accessed or requested.",
+      "For example, they allow us to display our websites in the proper format and language, to authenticate and verify your transactions, and to preserve the contents of your Bag when shopping online at apple.com .",
+      "These cookies are used to understand how visitors interact with our websites and online services, including by helping us to assess the effectiveness of advertisements and web searches.",
+      "Apple also uses these cookies to remember choices you make while browsing, so we can provide you with a customized experience.",
+      "If you prefer that Apple not use cookies, we provide you with the means to disable their use.",
+      "If you want to disable cookies and you’re using the Safari web browser, choose “Block all cookies” in Safari’s privacy settings.",
+      "If you are using a different browser, check with your provider to find out how to disable cookies.",
+      "Certain features of the Apple website may not be available if all cookies are disabled.",
+      "In addition to cookies, Apple uses other technologies that help us achieve similar objectives.",
+      "In some email messages Apple sends to you, we provide a “click-through URL” that links you to content on the Apple website.",
+      "When you click one of these URLs, they pass through a separate server before arriving at the destination page on our website.",
+      "We track this click-through to help us determine interest in particular topics and measure whether we are communicating with you effectively.",
+      "If you prefer not to be tracked in this way, you should not click graphic or text links in email messages.",
+      "Apple generally treats data we collect using these cookies and similar technologies as non-personal data.",
+      "However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal data by local law, we also treat these identifiers as personal data in those regions.",
+      "In addition, Apple sometimes combines non-personal data collected from these technologies with other personal data Apple holds.",
+      "When we combine data in this way, we treat the combined data as personal data for purposes of this Privacy Policy.",
+      "Ads that are delivered by Apple’s advertising platform may appear on the App Store, Apple News, Stocks, and Apple TV app depending on your location.",
+      "Apple’s advertising platform does not track you, meaning that it does not link user or device data collected from our apps with user or device data collected from third parties for targeted advertising or advertising measurement purposes, and does not share user or device data with data brokers.",
+      "If you do not want to receive ads targeted to your interests from Apple's advertising platform in those apps, you can choose to disable Personalized Ads, which will opt your Apple Account out of receiving such ads regardless of what device you are using.",
+      "On your iOS, iPadOS, or visionOS device, you can disable Personalized Ads by going to Settings > Privacy & Security > Apple Advertising and tapping to turn off Personalized Ads.",
+      "On your Mac, you can disable Personalized Ads by going to System Settings > Privacy & Security > Privacy > Advertising, then deselecting Personalized Ads.",
+      "You may still see ads in the App Store, Apple News, or Stocks based on context like your search query or the channel you are reading.",
+      "If you disable Allow Apps to Request to Track, third-party apps cannot request to use the Advertising Identifier, a non-personal identifier served by the operating system on your device, to track you across apps and websites owned by other companies.",
+      "For more information about Apple-delivered advertising and privacy, visit apple.com/legal/privacy/data/ww/apple-advertising ."
+    ],
+    "policy_date": null,
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "Apple’s websites, online services, interactive applications, and advertisements may use “cookies” and other technologies such as web beacons. These technologies help us to better understand user behavior including for security and fraud prevention purposes, tell us which parts of our websites people have visited, and facilitate and measure the effectiveness of advertisements and web searches. Communications Cookies. These cookies are used to enable network traffic to and from Apple’s systems, including by helping us detect any errors. Strictly Necessary Cookies. These cookies are set as required to provide a specific feature or service that you have accessed or requested. For example, they allow us to display our websites in the proper format and language, to authenticate and verify your transactions, and to preserve the contents of your Bag when shopping online at apple.com . Other Cookies. These cookies are used to understand how visitors interact with our websites and online services, including by helping us to assess the effectiveness of advertisements and web searches. Apple also uses these cookies to remember choices you make while browsing, so we can provide you with a customized experience. If you prefer that Apple not use cookies, we provide you with the means to disable their use. If you want to disable cookies and you’re using the Safari web browser, choose “Block all cookies” in Safari’s privacy settings. If you are using a different browser, check with your provider to find out how to disable cookies. Certain features of the Apple website may not be available if all cookies are disabled. In addition to cookies, Apple uses other technologies that help us achieve similar objectives. In some email messages Apple sends to you, we provide a “click-through URL” that links you to content on the Apple website. When you click one of these URLs, they pass through a separate server before arriving at the destination page on our website. We track this click-through to help us determine interest in particular topics and measure whether we are communicating with you effectively. If you prefer not to be tracked in this way, you should not click graphic or text links in email messages. Apple generally treats data we collect using these cookies and similar technologies as non-personal data. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal data by local law, we also treat these identifiers as personal data in those regions. In addition, Apple sometimes combines non-personal data collected from these technologies with other personal data Apple holds. When we combine data in this way, we treat the combined data as personal data for purposes of this Privacy Policy. Ads that are delivered by Apple’s advertising platform may appear on the App Store, Apple News, Stocks, and Apple TV app depending on your location. Apple’s advertising platform does not track you, meaning that it does not link user or device data collected from our apps with user or device data collected from third parties for targeted advertising or advertising measurement purposes, and does not share user or device data with data brokers. If you do not want to receive ads targeted to your interests from Apple's advertising platform in those apps, you can choose to disable Personalized Ads, which will opt your Apple Account out of receiving such ads regardless of what device you are using. On your iOS, iPadOS, or visionOS device, you can disable Personalized Ads by going to Settings > Privacy & Security > Apple Advertising and tapping to turn off Personalized Ads. On your Mac, you can disable Personalized Ads by going to System Settings > Privacy & Security > Privacy > Advertising, then deselecting Personalized Ads. You may still see ads in the App Store, Apple News, or Stocks based on context like your search query or the channel you are reading. If you disable Allow Apps to Request to Track, third-party apps cannot request to use the Advertising Identifier, a non-personal identifier served by the operating system on your device, to track you across apps and websites owned by other companies. For more information about Apple-delivered advertising and privacy, visit apple.com/legal/privacy/data/ww/apple-advertising .",
+        "sentences": [
+          "Apple’s websites, online services, interactive applications, and advertisements may use “cookies” and other technologies such as web beacons.",
+          "These technologies help us to better understand user behavior including for security and fraud prevention purposes, tell us which parts of our websites people have visited, and facilitate and measure the effectiveness of advertisements and web searches.",
+          "These cookies are used to enable network traffic to and from Apple’s systems, including by helping us detect any errors.",
+          "These cookies are set as required to provide a specific feature or service that you have accessed or requested.",
+          "For example, they allow us to display our websites in the proper format and language, to authenticate and verify your transactions, and to preserve the contents of your Bag when shopping online at apple.com .",
+          "These cookies are used to understand how visitors interact with our websites and online services, including by helping us to assess the effectiveness of advertisements and web searches.",
+          "Apple also uses these cookies to remember choices you make while browsing, so we can provide you with a customized experience.",
+          "If you prefer that Apple not use cookies, we provide you with the means to disable their use.",
+          "If you want to disable cookies and you’re using the Safari web browser, choose “Block all cookies” in Safari’s privacy settings.",
+          "If you are using a different browser, check with your provider to find out how to disable cookies.",
+          "Certain features of the Apple website may not be available if all cookies are disabled.",
+          "In addition to cookies, Apple uses other technologies that help us achieve similar objectives.",
+          "In some email messages Apple sends to you, we provide a “click-through URL” that links you to content on the Apple website.",
+          "When you click one of these URLs, they pass through a separate server before arriving at the destination page on our website.",
+          "We track this click-through to help us determine interest in particular topics and measure whether we are communicating with you effectively.",
+          "If you prefer not to be tracked in this way, you should not click graphic or text links in email messages.",
+          "Apple generally treats data we collect using these cookies and similar technologies as non-personal data.",
+          "However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal data by local law, we also treat these identifiers as personal data in those regions.",
+          "In addition, Apple sometimes combines non-personal data collected from these technologies with other personal data Apple holds.",
+          "When we combine data in this way, we treat the combined data as personal data for purposes of this Privacy Policy.",
+          "Ads that are delivered by Apple’s advertising platform may appear on the App Store, Apple News, Stocks, and Apple TV app depending on your location.",
+          "Apple’s advertising platform does not track you, meaning that it does not link user or device data collected from our apps with user or device data collected from third parties for targeted advertising or advertising measurement purposes, and does not share user or device data with data brokers.",
+          "If you do not want to receive ads targeted to your interests from Apple's advertising platform in those apps, you can choose to disable Personalized Ads, which will opt your Apple Account out of receiving such ads regardless of what device you are using.",
+          "On your iOS, iPadOS, or visionOS device, you can disable Personalized Ads by going to Settings > Privacy & Security > Apple Advertising and tapping to turn off Personalized Ads.",
+          "On your Mac, you can disable Personalized Ads by going to System Settings > Privacy & Security > Privacy > Advertising, then deselecting Personalized Ads.",
+          "You may still see ads in the App Store, Apple News, or Stocks based on context like your search query or the channel you are reading.",
+          "If you disable Allow Apps to Request to Track, third-party apps cannot request to use the Advertising Identifier, a non-personal identifier served by the operating system on your device, to track you across apps and websites owned by other companies.",
+          "For more information about Apple-delivered advertising and privacy, visit apple.com/legal/privacy/data/ww/apple-advertising ."
+        ],
+        "sentence_count": 28
+      }
+    ],
+    "section_count": 1,
+    "section_headings": [
+      "Introduction"
+    ],
+    "readability": {
+      "grade_level": 12.8,
+      "reading_ease": 39.0,
+      "word_count": 689,
+      "description": "College level — challenging for average user"
+    },
+    "data_categories": {
+      "Location": {
+        "keyword_hits": 2,
+        "matched_keywords": [
+          "location",
+          "region"
+        ],
+        "example_sentences": [
+          "Ads that are delivered by Apple’s advertising platform may appear on the App Store, Apple News, Stocks, and Apple TV app depending on your location.",
+          "However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal data by local law, we also treat these identifiers as personal data in those regions."
+        ]
+      },
+      "Financial": {
+        "keyword_hits": 1,
+        "matched_keywords": [
+          "transaction"
+        ],
+        "example_sentences": [
+          "For example, they allow us to display our websites in the proper format and language, to authenticate and verify your transactions, and to preserve the contents of your Bag when shopping online at apple.com ."
+        ]
+      },
+      "Browsing & Device": {
+        "keyword_hits": 16,
+        "matched_keywords": [
+          "cookies",
+          "operating system"
+        ],
+        "example_sentences": [
+          "Apple’s websites, online services, interactive applications, and advertisements may use “cookies” and other technologies such as web beacons.",
+          "If you disable Allow Apps to Request to Track, third-party apps cannot request to use the Advertising Identifier, a non-personal identifier served by the operating system on your device, to track you across apps and webs"
+        ]
+      },
+      "Behavioral & Inferred": {
+        "keyword_hits": 1,
+        "matched_keywords": [
+          "interests"
+        ],
+        "example_sentences": [
+          "If you do not want to receive ads targeted to your interests from Apple's advertising platform in those apps, you can choose to disable Personalized Ads, which will opt your Apple Account out of receiving such ads regard"
+        ]
+      },
+      "Communications": {
+        "keyword_hits": 2,
+        "matched_keywords": [
+          "messages"
+        ],
+        "example_sentences": [
+          "In some email messages Apple sends to you, we provide a “click-through URL” that links you to content on the Apple website."
+        ]
+      }
+    },
+    "consent_model": {
+      "model": "Unclear",
+      "opt_in_phrase_count": 0,
+      "opt_out_phrase_count": 0,
+      "opt_in_examples": [],
+      "opt_out_examples": []
+    },
+    "third_party_sharing": {
+      "detected": true,
+      "total_mentions": 1,
+      "examples": [
+        "If you disable Allow Apps to Request to Track, third-party apps cannot request to use the Advertising Identifier, a non-personal identifier served by the operating system on your device, to track you across apps and webs"
+      ]
+    },
+    "retention_policy": {
+      "detected": false,
+      "total_mentions": 0,
+      "examples": []
+    },
+    "sentence_count": 28,
+    "semantic_supply_chain": {
+      "entities": [],
+      "_meta": {
+        "chunks_sent": 1,
+        "raw_entities": 0,
+        "merged_entities": 0
+      }
+    }
+  }
+}

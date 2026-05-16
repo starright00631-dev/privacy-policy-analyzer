@@ -1,0 +1,125 @@
+{
+  "company": "Uber",
+  "category": "Platform",
+  "source_url": "https://www.uber.com/legal/en/document/?name=privacy-policy",
+  "data_source": "fallback",
+  "scraped_at": "2026-05-16T11:33:27Z",
+  "analysis": {
+    "full_text": "Uber operates, and processes user data, globally. This may result in processing of your personal data in countries, including the United States, whose data protection laws may differ from those where you live or are located. This includes processing of your data on Uber’s servers in the United States, and transferring or enabling access to your data globally, in order to: Provide you services wherever you request them Provide you access to your information, such as trip/order history, wherever you request it Provide access to and responses from Uber’s customer service agents Respond to requests for information by governments or law enforcement, as necessary Uber is committed to protecting your personal data regardless of where you are located or where, or by whom, your personal data is processed. This includes implementing global measures to protect users’ data, including: Securing user data when in transit, including through encryption, and at rest. Mandating company-wide training regarding privacy and data security. Implementing internal policies and procedures to limit access to, and use of, users’ data. Limiting government and law enforcement access to user data, except where required by law; there are imminent threats to safety; or users have consented to the access. When we transfer user data from the EEA, UK and Switzerland, we do so on the basis of the necessity to fulfill our agreements with you, consent, adequacy decisions regarding the country of transfer (available here , here or here ), and transfer mechanisms such as the Standard Contractual Clauses adopted by the European Commission (and their approved equivalents for the UK and Switzerland), and the EU-US Data Privacy Framework (“EU-US DPF”), the UK Extension to the EU-US DPF, and the Swiss-US Data Privacy Framework (“Swiss-US DPF”), as set forth by the US Department of Commerce. Such data remains subject to the GDPR or equivalents after such transfer. Users may contact Uber regarding the above, or to request copies of applicable Standard Contractual Clauses, here . UTI has certified to the United States Department of Commerce that it adheres to (1) the EU-US Data Privacy Framework Principles regarding the processing of personal data received from EEA member countries in reliance on the EU-US DPF, and from the UK (and Gibraltar) in reliance on the UK Extension to the EU-US DPF; and (2) the Swiss-US Data Privacy Framework Principles regarding the processing of personal data received from Switzerland in reliance on the Swiss-US DPF. In the event of a conflict between this notice and the Principles mentioned above, the Principles shall govern. In the event that the EU-US DPF or the Swiss-US DPF are invalidated, Uber will transfer data that is subject to these certifications in reliance on the other data transfer mechanisms described above. If you live in the EEA, UK or Switzerland, please note the following: Scope. Uber’s DPF certification applies to personal data originating from the EEA, UK or Switzerland. Access. You have the right to access your personal data that is subject to Uber’s DPF certification. For information on how to exercise this right, please see “Choice and transparency” above. Onward transfer. Uber is responsible for the transfer of personal data, subject to its certification to third parties. For information regarding the parties to whom Uber may transfer personal data, please see “ Data sharing and disclosure \" above. Request from law enforcement. Uber is required under applicable law to share user data, including that which may be subject to Uber’s certification, pursuant to legal process or governmental request, including from law enforcement. Investigation and enforcement. Uber is subject to the investigatory and enforcement powers of the US Federal Trade Commission. Questions and disputes. In compliance with the EU-US DPF, the UK Extension to the EU-US DPF, and the Swiss-US DPF, Uber commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF. You may contact Uber here with questions regarding our compliance with these Principles. You may also refer a complaint to your local data protection authority, and Uber will work with that authority to resolve that complaint. In certain circumstances, the DPF provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in Annex I to the DPF Principles . You can learn more about the EU-US DPF and Swiss-US DPF here , and view Uber’s certification, including the scope of data subject to our certification, here .",
+    "sentences": [
+      "Uber operates, and processes user data, globally.",
+      "This may result in processing of your personal data in countries, including the United States, whose data protection laws may differ from those where you live or are located.",
+      "This includes processing of your data on Uber’s servers in the United States, and transferring or enabling access to your data globally, in order to: Provide you services wherever you request them Provide you access to your information, such as trip/order history, wherever you request it Provide access to and responses from Uber’s customer service agents Respond to requests for information by governments or law enforcement, as necessary Uber is committed to protecting your personal data regardless of where you are located or where, or by whom, your personal data is processed.",
+      "This includes implementing global measures to protect users’ data, including: Securing user data when in transit, including through encryption, and at rest.",
+      "Mandating company-wide training regarding privacy and data security.",
+      "Implementing internal policies and procedures to limit access to, and use of, users’ data.",
+      "Limiting government and law enforcement access to user data, except where required by law; there are imminent threats to safety; or users have consented to the access.",
+      "When we transfer user data from the EEA, UK and Switzerland, we do so on the basis of the necessity to fulfill our agreements with you, consent, adequacy decisions regarding the country of transfer (available here , here or here ), and transfer mechanisms such as the Standard Contractual Clauses adopted by the European Commission (and their approved equivalents for the UK and Switzerland), and the EU-US Data Privacy Framework (“EU-US DPF”), the UK Extension to the EU-US DPF, and the Swiss-US Data Privacy Framework (“Swiss-US DPF”), as set forth by the US Department of Commerce.",
+      "Such data remains subject to the GDPR or equivalents after such transfer.",
+      "Users may contact Uber regarding the above, or to request copies of applicable Standard Contractual Clauses, here .",
+      "UTI has certified to the United States Department of Commerce that it adheres to (1) the EU-US Data Privacy Framework Principles regarding the processing of personal data received from EEA member countries in reliance on the EU-US DPF, and from the UK (and Gibraltar) in reliance on the UK Extension to the EU-US DPF; and (2) the Swiss-US Data Privacy Framework Principles regarding the processing of personal data received from Switzerland in reliance on the Swiss-US DPF.",
+      "In the event of a conflict between this notice and the Principles mentioned above, the Principles shall govern.",
+      "In the event that the EU-US DPF or the Swiss-US DPF are invalidated, Uber will transfer data that is subject to these certifications in reliance on the other data transfer mechanisms described above.",
+      "If you live in the EEA, UK or Switzerland, please note the following: Scope.",
+      "Uber’s DPF certification applies to personal data originating from the EEA, UK or Switzerland.",
+      "You have the right to access your personal data that is subject to Uber’s DPF certification.",
+      "For information on how to exercise this right, please see “Choice and transparency” above.",
+      "Uber is responsible for the transfer of personal data, subject to its certification to third parties.",
+      "For information regarding the parties to whom Uber may transfer personal data, please see “ Data sharing and disclosure \" above.",
+      "Uber is required under applicable law to share user data, including that which may be subject to Uber’s certification, pursuant to legal process or governmental request, including from law enforcement.",
+      "Uber is subject to the investigatory and enforcement powers of the US Federal Trade Commission.",
+      "In compliance with the EU-US DPF, the UK Extension to the EU-US DPF, and the Swiss-US DPF, Uber commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S.",
+      "DPF and the UK Extension to the EU-U.S.",
+      "You may contact Uber here with questions regarding our compliance with these Principles.",
+      "You may also refer a complaint to your local data protection authority, and Uber will work with that authority to resolve that complaint.",
+      "In certain circumstances, the DPF provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in Annex I to the DPF Principles .",
+      "You can learn more about the EU-US DPF and Swiss-US DPF here , and view Uber’s certification, including the scope of data subject to our certification, here ."
+    ],
+    "policy_date": null,
+    "sections": [
+      {
+        "heading": "Introduction",
+        "text": "Uber operates, and processes user data, globally. This may result in processing of your personal data in countries, including the United States, whose data protection laws may differ from those where you live or are located. This includes processing of your data on Uber’s servers in the United States, and transferring or enabling access to your data globally, in order to: Provide you services wherever you request them Provide you access to your information, such as trip/order history, wherever you request it Provide access to and responses from Uber’s customer service agents Respond to requests for information by governments or law enforcement, as necessary Uber is committed to protecting your personal data regardless of where you are located or where, or by whom, your personal data is processed. This includes implementing global measures to protect users’ data, including: Securing user data when in transit, including through encryption, and at rest. Mandating company-wide training regarding privacy and data security. Implementing internal policies and procedures to limit access to, and use of, users’ data. Limiting government and law enforcement access to user data, except where required by law; there are imminent threats to safety; or users have consented to the access. When we transfer user data from the EEA, UK and Switzerland, we do so on the basis of the necessity to fulfill our agreements with you, consent, adequacy decisions regarding the country of transfer (available here , here or here ), and transfer mechanisms such as the",
+        "sentences": [
+          "Uber operates, and processes user data, globally.",
+          "This may result in processing of your personal data in countries, including the United States, whose data protection laws may differ from those where you live or are located.",
+          "This includes processing of your data on Uber’s servers in the United States, and transferring or enabling access to your data globally, in order to: Provide you services wherever you request them Provide you access to your information, such as trip/order history, wherever you request it Provide access to and responses from Uber’s customer service agents Respond to requests for information by governments or law enforcement, as necessary Uber is committed to protecting your personal data regardless of where you are located or where, or by whom, your personal data is processed.",
+          "This includes implementing global measures to protect users’ data, including: Securing user data when in transit, including through encryption, and at rest.",
+          "Mandating company-wide training regarding privacy and data security.",
+          "Implementing internal policies and procedures to limit access to, and use of, users’ data.",
+          "Limiting government and law enforcement access to user data, except where required by law; there are imminent threats to safety; or users have consented to the access.",
+          "When we transfer user data from the EEA, UK and Switzerland, we do so on the basis of the necessity to fulfill our agreements with you, consent, adequacy decisions regarding the country of transfer (available here , here or here ), and transfer mechanisms such as the"
+        ],
+        "sentence_count": 8
+      },
+      {
+        "heading": "Standard Contractual Clauses",
+        "text": "adopted by the European Commission (and their approved equivalents for the UK and Switzerland), and the EU-US Data Privacy Framework (“EU-US DPF”), the UK Extension to the EU-US DPF, and the Swiss-US Data Privacy Framework (“Swiss-US DPF”), as set forth by the US Department of Commerce. Such data remains subject to the GDPR or equivalents after such transfer. Users may contact Uber regarding the above, or to request copies of applicable Standard Contractual Clauses, here . UTI has certified to the United States Department of Commerce that it adheres to (1) the EU-US Data Privacy Framework Principles regarding the processing of personal data received from EEA member countries in reliance on the EU-US DPF, and from the UK (and Gibraltar) in reliance on the UK Extension to the EU-US DPF; and (2) the Swiss-US Data Privacy Framework Principles regarding the processing of personal data received from Switzerland in reliance on the Swiss-US DPF. In the event of a conflict between this notice and the Principles mentioned above, the Principles shall govern. In the event that the EU-US DPF or the Swiss-US DPF are invalidated, Uber will transfer data that is subject to these certifications in reliance on the other data transfer mechanisms described above. If you live in the EEA, UK or Switzerland, please note the following: Scope. Uber’s DPF certification applies to personal data originating from the EEA, UK or Switzerland. Access. You have the right to access your personal data that is subject to Uber’s DPF certification. For information on how to exercise this right, please see “Choice and transparency” above. Onward transfer. Uber is responsible for the transfer of personal data, subject to its certification to third parties. For information regarding the parties to whom Uber may transfer personal data, please see “ Data sharing and disclosure \" above. Request from law enforcement. Uber is required under applicable law to share user data, including that which may be subject to Uber’s certification, pursuant to legal process or governmental request, including from law enforcement. Investigation and enforcement. Uber is subject to the investigatory and enforcement powers of the US Federal Trade Commission. Questions and disputes. In compliance with the EU-US DPF, the UK Extension to the EU-US DPF, and the Swiss-US DPF, Uber commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF. You may contact Uber here with questions regarding our compliance with these Principles. You may also refer a complaint to your local data protection authority, and Uber will work with that authority to resolve that complaint. In certain circumstances, the DPF provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in Annex I to the",
+        "sentences": [
+          "adopted by the European Commission (and their approved equivalents for the UK and Switzerland), and the EU-US Data Privacy Framework (“EU-US DPF”), the UK Extension to the EU-US DPF, and the Swiss-US Data Privacy Framework (“Swiss-US DPF”), as set forth by the US Department of Commerce.",
+          "Such data remains subject to the GDPR or equivalents after such transfer.",
+          "Users may contact Uber regarding the above, or to request copies of applicable Standard Contractual Clauses, here .",
+          "UTI has certified to the United States Department of Commerce that it adheres to (1) the EU-US Data Privacy Framework Principles regarding the processing of personal data received from EEA member countries in reliance on the EU-US DPF, and from the UK (and Gibraltar) in reliance on the UK Extension to the EU-US DPF; and (2) the Swiss-US Data Privacy Framework Principles regarding the processing of personal data received from Switzerland in reliance on the Swiss-US DPF.",
+          "In the event of a conflict between this notice and the Principles mentioned above, the Principles shall govern.",
+          "In the event that the EU-US DPF or the Swiss-US DPF are invalidated, Uber will transfer data that is subject to these certifications in reliance on the other data transfer mechanisms described above.",
+          "If you live in the EEA, UK or Switzerland, please note the following: Scope.",
+          "Uber’s DPF certification applies to personal data originating from the EEA, UK or Switzerland.",
+          "You have the right to access your personal data that is subject to Uber’s DPF certification.",
+          "For information on how to exercise this right, please see “Choice and transparency” above.",
+          "Uber is responsible for the transfer of personal data, subject to its certification to third parties.",
+          "For information regarding the parties to whom Uber may transfer personal data, please see “ Data sharing and disclosure \" above.",
+          "Uber is required under applicable law to share user data, including that which may be subject to Uber’s certification, pursuant to legal process or governmental request, including from law enforcement.",
+          "Uber is subject to the investigatory and enforcement powers of the US Federal Trade Commission.",
+          "In compliance with the EU-US DPF, the UK Extension to the EU-US DPF, and the Swiss-US DPF, Uber commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S.",
+          "DPF and the UK Extension to the EU-U.S.",
+          "You may contact Uber here with questions regarding our compliance with these Principles.",
+          "You may also refer a complaint to your local data protection authority, and Uber will work with that authority to resolve that complaint.",
+          "In certain circumstances, the DPF provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in Annex I to the"
+        ],
+        "sentence_count": 19
+      },
+      {
+        "heading": "DPF Principles",
+        "text": ". You can learn more about the EU-US DPF and Swiss-US DPF here , and view Uber’s certification, including the scope of data subject to our certification, here .",
+        "sentences": [
+          "You can learn more about the EU-US DPF and Swiss-US DPF here , and view Uber’s certification, including the scope of data subject to our certification, here ."
+        ],
+        "sentence_count": 1
+      }
+    ],
+    "section_count": 3,
+    "section_headings": [
+      "Introduction",
+      "Standard Contractual Clauses",
+      "DPF Principles"
+    ],
+    "readability": {
+      "grade_level": 12.9,
+      "reading_ease": 35.8,
+      "word_count": 785,
+      "description": "College level — challenging for average user"
+    },
+    "data_categories": {},
+    "consent_model": {
+      "model": "Unclear",
+      "opt_in_phrase_count": 0,
+      "opt_out_phrase_count": 0,
+      "opt_in_examples": [],
+      "opt_out_examples": []
+    },
+    "third_party_sharing": {
+      "detected": false,
+      "total_mentions": 0,
+      "examples": []
+    },
+    "retention_policy": {
+      "detected": false,
+      "total_mentions": 0,
+      "examples": []
+    },
+    "sentence_count": 27,
+    "semantic_supply_chain": {
+      "entities": []
+    }
+  }
+}
